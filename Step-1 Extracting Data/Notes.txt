@@ -1,0 +1,11 @@
+==== Plan ====
+    - I've found some pretty good search terms/keywords that resulted in some good anectodes from some forums, I plan to extract all of them and store them in a database, maybe sqlite isnt so bad...
+    - Let's see, the current best search terms are:
+        - "My story"
+        - "Signs I ignored"
+        - "What symptoms"
+
+    - The most promising websites are:
+        - Reddit: r/cancer
+
+

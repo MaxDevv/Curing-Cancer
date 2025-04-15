@@ -1,8 +1,99 @@
 ==== Project Idea ====
     - Describe your current project idea
 
-==== Workflow/UI ====
-    - Simplify your project to a workflow/UI path
+==== Plan ====
+    - Step 1: Collect A mass list of anecdotes about cancer containing symptoms not commonly associated with cancers
+    - Step 2: Use AI to extract those symptoms from all those anecdotes
+    - Step 3: Reduce those symptoms by grouping simmilar ones up
+    - Step 4: Build a really large questionairre from those symptoms 100-1000 questions, the more data the better
+    - Step 5: Have cancer and non-cancer people fill in the questionairre, you can use microworkers for the non-cancer people, make sure to extract from a diverse economical, racial and geographical demographic those, and maybe use the r/cancer and discord servers to get responses from cancer patients.
+    - Step 6: Train an AI on that data and hope that it somehow finds patterns in the obscure/minor symptoms and lifestyle changes to produce really accurate results
+    - Step 7: Use the AI's weights to remove unnecessary questions and produce a more realistic questionairre
+    - Step 8: Publish your findings and design a FREE, FREEE, I CAN'T EMPHASIZE THIS ENOUGH 100% FREE website for people to determine cancer risk.
+    - Step 9: Email some medical institutions and get some other smart people to help finetune, optimize and publicize the project.
+    - Step 10: Rest and pat urself on the back.
+
+==== Notes ====
+    - AI Prompt: "Hello we are researchers trying to find a link between smaller uncertain symptoms of cancer and cancer risks, you are my research partner, your goal is to look through these posts/anecdotes made by cancer patients and extract the minor/small and large symptoms and lifestyle changes that they noticed before and during thier cancer diagnosis, small symptoms can be defined as those little changes that people could notice in their bodies and lifestyle but ones that aren't worrying enough to get a cancer diagnosis, symptoms like: slight changes in dizziness, minor random bumbs, brain fog, random pains around body, slight spasms, clicky joins, aches e.t.c, also take note of big symptoms but your goal is to extract all the symptoms from each post, comment, reply e.t.c here are the posts:
+        - Post 1: "My cancer journey, it started when i notices some blah blah ...."
+            - Post 1, Comment 1: "So sad, my condolences"
+            - Post 1, Comment 2: "I also noticed ... before my diagnoses"
+    
+    Structured output: {
+        "posts": [
+            "post 1": {
+                "symptoms": ["..."],
+                "comments": [
+                    "comment 1 symptoms": [None],
+                    "comment 1 symptoms": ["...", "..."],
+                ]
+            }
+        ]
+    }
+    
+    - I had claude refine the prompt: "You are an expert medical research assistant helping analyze cancer patient anecdotes. Your task is to carefully extract ALL symptoms and bodily changes mentioned in these posts, with special attention to the subtle, early warning signs that patients initially dismissed or didn't recognize as significant.
+
+    For each post and relevant comment, extract:
+    1. ALL symptoms mentioned (both subtle/minor and obvious/major)
+    2. WHEN they appeared in the patient's journey (pre-diagnosis, during diagnosis, etc.)
+    3. How the patient PERCEIVED the symptom initially (dismissed, concerned, etc.)
+    4. Any LIFESTYLE or BEHAVIORAL changes mentioned
+
+    Analyze the following cancer patient anecdotes and structure your findings in this exact JSON format:
+
+    {
+    "posts": [
+        {
+        "post_id": "1",
+        "minor_symptoms": [
+            {
+            "symptom": "description of symptom",
+            "timing": "when it occurred",
+            "initially_perceived_as": "how patient initially viewed it"
+            }
+        ],
+        "major_symptoms": [
+            {
+            "symptom": "description of symptom",
+            "timing": "when it occurred",
+            "initially_perceived_as": "how patient initially viewed it"  
+            }
+        ],
+        "lifestyle_changes": ["change 1", "change 2"],
+        "comments": [
+            {
+            "comment_id": "1.1",
+            "minor_symptoms": [],
+            "major_symptoms": [],
+            "lifestyle_changes": []
+            },
+            {
+            "comment_id": "1.2",
+            "minor_symptoms": [
+                {
+                "symptom": "description of symptom",
+                "timing": "when it occurred",
+                "initially_perceived_as": "how patient initially viewed it"
+                }
+            ],
+            "major_symptoms": [],
+            "lifestyle_changes": []
+            }
+        ]
+        }
+    ]
+    }
+
+    IMPORTANT GUIDELINES:
+    - Include EVERY symptom mentioned, no matter how seemingly insignificant
+    - For symptoms where timing/perception isn't specified, use "unknown"
+    - If no symptoms are mentioned in a comment, leave arrays empty but include the comment
+    - Classify symptoms as "minor" if the patient initially dismissed them or didn't seek immediate medical attention
+    - Classify symptoms as "major" if they prompted immediate medical concern
+    - In cases of uncertainty about classification, err on the side of including more information
+
+    Here are the posts to analyze:
+    [paste posts here]"
 
 ==== To-Do List ====
     - 1.) Eat.
