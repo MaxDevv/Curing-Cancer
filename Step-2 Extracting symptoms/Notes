@@ -15,64 +15,188 @@
 
 === Prompt ===
     You are an expert medical research assistant helping analyze cancer patient anecdotes. Your task is to carefully extract ALL symptoms and bodily changes mentioned in these posts, with special attention to the subtle, early warning signs that patients initially dismissed or didn't recognize as significant.
+
     For each post and relevant comment, extract:
     1. ALL symptoms mentioned (both subtle/minor and obvious/major)
     2. WHEN they appeared in the patient's journey (pre-diagnosis, during diagnosis, etc.)
     3. How the patient PERCEIVED the symptom initially (dismissed, concerned, etc.)
     4. Any LIFESTYLE or BEHAVIORAL changes mentioned
 
-    Analyze the following cancer patient anecdotes and structure your findings in this exact JSON format:
-
-    {
-    "posts": [
-        {
-        "post_id": "1",
-        "minor_symptoms": [
-            {
-            "symptom": "description of symptom",
-            "timing": "when it occurred",
-            "initially_perceived_as": "how patient initially viewed it"
-            }
-        ],
-        "major_symptoms": [
-            {
-            "symptom": "description of symptom",
-            "timing": "when it occurred",
-            "initially_perceived_as": "how patient initially viewed it"  
-            }
-        ],
-        "lifestyle_changes": ["change 1", "change 2"],
-        "comments": [
-            {
-            "comment_id": "1.1",
-            "minor_symptoms": [],
-            "major_symptoms": [],
-            "lifestyle_changes": []
-            },
-            {
-            "comment_id": "1.2",
-            "minor_symptoms": [
-                {
-                "symptom": "description of symptom",
-                "timing": "when it occurred",
-                "initially_perceived_as": "how patient initially viewed it"
-                }
-            ],
-            "major_symptoms": [],
-            "lifestyle_changes": []
-            }
-        ]
-        }
-    ]
-    }
-
     IMPORTANT GUIDELINES:
     - Include EVERY symptom mentioned, no matter how seemingly insignificant
     - For symptoms where timing/perception isn't specified, use "unknown"
-    - If no symptoms are mentioned in a comment, leave arrays empty but include the comment
+    - If no symptoms or lifestyle changes are mentioned in a comment or post, leave the array empty
     - Classify symptoms as "minor" if the patient initially dismissed them or didn't seek immediate medical attention
     - Classify symptoms as "major" if they prompted immediate medical concern
-    - In cases of uncertainty about classification, err on the side of including more information
+    - In cases of uncertainty about classification, classify as minor
 
     Here are the posts to analyze:
-    [paste posts here]
+        Post 3: "Post-Title"
+            Body: "Post-Body"
+            Comments:
+                Comment 3.1: "Some Comment"
+                Comment 3.2: "Some Comment"
+                Comment 3.3: "Some Comment"
+                Comment 3.4: "Some Comment"
+                Comment 3.5: "Some Comment"
+Output 
+
+
+
+You are an expert medical research assistant helping analyze cancer patient anecdotes. Your task is to carefully extract ALL symptoms and bodily changes mentioned in these posts, with special attention to the subtle, early warning signs that patients initially dismissed or didn't recognize as significant.
+
+For each post and relevant comment, extract:
+1. ALL symptoms mentioned (both subtle/minor and obvious/major)
+2. WHEN they appeared in the patient's journey (pre-diagnosis, during diagnosis, etc.)
+3. How the patient PERCEIVED the symptom initially (dismissed, concerned, etc.)
+4. Any LIFESTYLE or BEHAVIORAL changes mentioned
+
+IMPORTANT GUIDELINES:
+- Include EVERY symptom mentioned, no matter how seemingly insignificant
+- For symptoms where timing/perception isn't specified, use "unknown"
+- If no symptoms or lifestyle changes are mentioned in a comment or post, leave the array empty
+- Classify symptoms as "minor" if the patient initially dismissed them or didn't seek immediate medical attention
+- Classify symptoms as "major" if they prompted immediate medical concern
+- In cases of uncertainty about classification, classify as minor
+
+Here are the posts to analyze:
+
+Structure:
+{
+  "type": "object",
+  "properties": {
+    "posts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "post": {
+            "type": "object",
+            "properties": {
+              "post_id": {
+                "type": "string"
+              },
+              "symptoms": {
+                "type": "object",
+                "properties": {
+                  "minor": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "symptom": {
+                          "type": "string"
+                        },
+                        "timing": {
+                          "type": "string"
+                        },
+                        "initially_perceived_as": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  },
+                  "major": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "symptom": {
+                          "type": "string"
+                        },
+                        "timing": {
+                          "type": "string"
+                        },
+                        "initially_perceived_as": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "lifestyle_changes": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "comments": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "comment_id": {
+                      "type": "string"
+                    },
+                    "symptoms": {
+                      "type": "object",
+                      "properties": {
+                        "minor": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "symptom": {
+                                "type": "string"
+                              },
+                              "timing": {
+                                "type": "string"
+                              },
+                              "initially_perceived_as": {
+                                "type": "string"
+                              }
+                            }
+                          }
+                        },
+                        "major": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "symptom": {
+                                "type": "string"
+                              },
+                              "timing": {
+                                "type": "string"
+                              },
+                              "initially_perceived_as": {
+                                "type": "string"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "lifestyle_changes": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  },
+                  "required": [
+                    "comment_id",
+                    "symptoms",
+                    "lifestyle_changes"
+                  ]
+                }
+              }
+            },
+            "required": [
+              "post_id",
+              "symptoms",
+              "lifestyle_changes"
+            ]
+          }
+        },
+        "required": [
+          "post"
+        ]
+      }
+    }
+  },
+  "required": [
+    "posts"
+  ]
+}

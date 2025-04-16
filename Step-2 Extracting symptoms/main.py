@@ -4,12 +4,17 @@
 """
 Module Description
 ------------------
-A brief description of what this module/script does.
+Processes and analyses anecdotes to extract scale data and symptoms
 """
 
-import sys, json, os, re
+import sys, json, os, re, time
 from typing import Optional, Any
 from vertexai.preview import tokenization
+import base64
+from google import genai
+from google.genai import types
+from dotenv import load_dotenv
+
 
 # ===== Configuration =====
 class Config:
@@ -18,6 +23,338 @@ class Config:
     verbose = True
     UseArgParse = True  # Enable to activate CLI parsing
     SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    prompt = """You are an expert medical research assistant helping analyze cancer patient anecdotes. Your task is to carefully extract ALL symptoms and bodily changes mentioned in these posts, with special attention to the subtle, early warning signs that patients initially dismissed or didn't recognize as significant.
+
+For each post and relevant comment, extract:
+1. ALL symptoms mentioned (both subtle/minor and obvious/major)
+2. WHEN they appeared in the patient's journey (pre-diagnosis, during diagnosis, etc.)
+3. How the patient PERCEIVED the symptom initially (dismissed, concerned, etc.)
+4. Any LIFESTYLE or BEHAVIORAL changes mentioned
+
+IMPORTANT GUIDELINES:
+- Include EVERY symptom mentioned, no matter how seemingly insignificant
+- Be VERY, VERY, VERY, Detailed when describing every symptom, do not lose or simplify any symptom whatsover.
+- For symptoms where timing/perception isn't specified, use "unknown"
+- If no symptoms or lifestyle changes are mentioned in a comment or post, leave the array empty
+- Classify symptoms as "minor" if the patient initially dismissed them or didn't seek immediate medical attention
+- Classify symptoms as "major" if they prompted immediate medical concern
+- In cases of uncertainty about classification, classify as minor
+
+Here are the posts to analyze:
+"""
+
+    # Ngl I really hate this indent structure
+    structure = """{
+  "type": "object",
+  "properties": {
+    "posts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "post": {
+            "type": "object",
+            "properties": {
+              "post_id": {
+                "type": "string"
+              },
+              "symptoms": {
+                "type": "object",
+                "properties": {
+                  "minor": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "symptom": {
+                          "type": "string"
+                        },
+                        "timing": {
+                          "type": "string"
+                        },
+                        "initially_perceived_as": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  },
+                  "major": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "symptom": {
+                          "type": "string"
+                        },
+                        "timing": {
+                          "type": "string"
+                        },
+                        "initially_perceived_as": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "lifestyle_changes": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "comments": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "comment_id": {
+                      "type": "string"
+                    },
+                    "symptoms": {
+                      "type": "object",
+                      "properties": {
+                        "minor": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "symptom": {
+                                "type": "string"
+                              },
+                              "timing": {
+                                "type": "string"
+                              },
+                              "initially_perceived_as": {
+                                "type": "string"
+                              }
+                            }
+                          }
+                        },
+                        "major": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "symptom": {
+                                "type": "string"
+                              },
+                              "timing": {
+                                "type": "string"
+                              },
+                              "initially_perceived_as": {
+                                "type": "string"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "lifestyle_changes": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  },
+                  "required": [
+                    "comment_id",
+                    "symptoms",
+                    "lifestyle_changes"
+                  ]
+                }
+              }
+            },
+            "required": [
+              "post_id",
+              "symptoms",
+              "lifestyle_changes"
+            ]
+          }
+        },
+        "required": [
+          "post"
+        ]
+      }
+    }
+  },
+  "required": [
+    "posts"
+  ]
+}"""
+
+
+class Utils:
+    def chunk(lst, n):
+        """Yield successive n-sized chunks from lst."""
+        for i in range(0, len(lst), n):
+            yield lst[i:i + n]
+
+
+class Gemini:
+    """
+    Home baked wrapper for interacting with gemini api
+    """
+
+    def __init__(self, apiKey: str, verbose: bool = False):
+        self.verbose = verbose
+        self.key = apiKey
+
+
+
+    def extractSymptoms(self, posts: str) -> dict:
+        client = genai.Client(
+            api_key=self.key,
+        )
+        model = "gemini-2.0-flash-lite"
+        model = "gemini-2.0-flash"
+        model = "gemini-2.0-flash"
+        contents = [
+            types.Content(
+                role="user",
+                parts=[
+                    types.Part.from_text(text=Config.prompt+posts),
+                ],
+            ),
+        ]
+        generate_content_config = types.GenerateContentConfig(
+            response_mime_type="application/json",
+            response_schema=genai.types.Schema(
+                            type = genai.types.Type.OBJECT,
+                            required = ["posts"],
+                            properties = {
+                                "posts": genai.types.Schema(
+                                    type = genai.types.Type.ARRAY,
+                                    items = genai.types.Schema(
+                                        type = genai.types.Type.OBJECT,
+                                        required = ["post"],
+                                        properties = {
+                                            "post": genai.types.Schema(
+                                                type = genai.types.Type.OBJECT,
+                                                required = ["post_id", "symptoms", "lifestyle_changes"],
+                                                properties = {
+                                                    "post_id": genai.types.Schema(
+                                                        type = genai.types.Type.STRING,
+                                                    ),
+                                                    "symptoms": genai.types.Schema(
+                                                        type = genai.types.Type.OBJECT,
+                                                        properties = {
+                                                            "minor": genai.types.Schema(
+                                                                type = genai.types.Type.ARRAY,
+                                                                items = genai.types.Schema(
+                                                                    type = genai.types.Type.OBJECT,
+                                                                    properties = {
+                                                                        "symptom": genai.types.Schema(
+                                                                            type = genai.types.Type.STRING,
+                                                                        ),
+                                                                        "timing": genai.types.Schema(
+                                                                            type = genai.types.Type.STRING,
+                                                                        ),
+                                                                        "initially_perceived_as": genai.types.Schema(
+                                                                            type = genai.types.Type.STRING,
+                                                                        ),
+                                                                    },
+                                                                ),
+                                                            ),
+                                                            "major": genai.types.Schema(
+                                                                type = genai.types.Type.ARRAY,
+                                                                items = genai.types.Schema(
+                                                                    type = genai.types.Type.OBJECT,
+                                                                    properties = {
+                                                                        "symptom": genai.types.Schema(
+                                                                            type = genai.types.Type.STRING,
+                                                                        ),
+                                                                        "timing": genai.types.Schema(
+                                                                            type = genai.types.Type.STRING,
+                                                                        ),
+                                                                        "initially_perceived_as": genai.types.Schema(
+                                                                            type = genai.types.Type.STRING,
+                                                                        ),
+                                                                    },
+                                                                ),
+                                                            ),
+                                                        },
+                                                    ),
+                                                    "lifestyle_changes": genai.types.Schema(
+                                                        type = genai.types.Type.ARRAY,
+                                                        items = genai.types.Schema(
+                                                            type = genai.types.Type.STRING,
+                                                        ),
+                                                    ),
+                                                    "comments": genai.types.Schema(
+                                                        type = genai.types.Type.ARRAY,
+                                                        items = genai.types.Schema(
+                                                            type = genai.types.Type.OBJECT,
+                                                            required = ["comment_id", "symptoms", "lifestyle_changes"],
+                                                            properties = {
+                                                                "comment_id": genai.types.Schema(
+                                                                    type = genai.types.Type.STRING,
+                                                                ),
+                                                                "symptoms": genai.types.Schema(
+                                                                    type = genai.types.Type.OBJECT,
+                                                                    properties = {
+                                                                        "minor": genai.types.Schema(
+                                                                            type = genai.types.Type.ARRAY,
+                                                                            items = genai.types.Schema(
+                                                                                type = genai.types.Type.OBJECT,
+                                                                                properties = {
+                                                                                    "symptom": genai.types.Schema(
+                                                                                        type = genai.types.Type.STRING,
+                                                                                    ),
+                                                                                    "timing": genai.types.Schema(
+                                                                                        type = genai.types.Type.STRING,
+                                                                                    ),
+                                                                                    "initially_perceived_as": genai.types.Schema(
+                                                                                        type = genai.types.Type.STRING,
+                                                                                    ),
+                                                                                },
+                                                                            ),
+                                                                        ),
+                                                                        "major": genai.types.Schema(
+                                                                            type = genai.types.Type.ARRAY,
+                                                                            items = genai.types.Schema(
+                                                                                type = genai.types.Type.OBJECT,
+                                                                                properties = {
+                                                                                    "symptom": genai.types.Schema(
+                                                                                        type = genai.types.Type.STRING,
+                                                                                    ),
+                                                                                    "timing": genai.types.Schema(
+                                                                                        type = genai.types.Type.STRING,
+                                                                                    ),
+                                                                                    "initially_perceived_as": genai.types.Schema(
+                                                                                        type = genai.types.Type.STRING,
+                                                                                    ),
+                                                                                },
+                                                                            ),
+                                                                        ),
+                                                                    },
+                                                                ),
+                                                                "lifestyle_changes": genai.types.Schema(
+                                                                    type = genai.types.Type.ARRAY,
+                                                                    items = genai.types.Schema(
+                                                                        type = genai.types.Type.STRING,
+                                                                    ),
+                                                                ),
+                                                            },
+                                                        ),
+                                                    ),
+                                                },
+                                            ),
+                                        },
+                                    ),
+                                ),
+                            },
+                        ),
+        )
+
+        response = client.models.generate_content(
+            model=model,
+            contents=contents,
+            config=generate_content_config,
+        )
+        return response.text
+        # return json.loads(response.text)
+
 
 
 # ===== Main Class =====
@@ -156,8 +493,16 @@ class MainClass:
             print("Total tokens counted:", cnt)
 
         return cnt
+    
+    def tempDisableVerbosity(self) -> None:
+        if not hasattr(self, "wasVerbose"):
+            self.wasVerbose = self.verbose
+        self.verbose = False
 
-    # def extractSymptoms(self, )
+    def restoreVerbosity(self) -> None:
+        self.verbose = self.wasVerbose
+
+    
         
     def run(self) -> None:
         """
@@ -190,6 +535,99 @@ class MainClass:
         #     "\n".join([self.formatPost(i) for i in range(275, 375)]),
         #     "\n".join([self.formatPost(i) for i in range(375, 494)]),
         # ]
+
+
+        # Raaahhh I knew the 1 million token window was too good to be true
+        # google.genai.errors.servererror:%20503%20UNAVAILABLE.%20%7B'error'%3A%20%7B'code'%3A%20503,%20'message'%3A%20'The%20model%20is%20overloaded.%20Please%20try%20again%20later.',%20'status'%3A%20'UNAVAILABLE'%7D%7D
+        # we'll need to break them down into smaller chunks, lets go for 128k        
+        # Token Sizes, In Order: 256987 268988 253182 288039 288417
+        # chunks = [
+        #     "\n".join([self.formatPost(i) for i in range(000, 39)]),
+        #     "\n".join([self.formatPost(i) for i in range(39, 90)]),
+        #     "\n".join([self.formatPost(i) for i in range(90, 160)]),
+        #     "\n".join([self.formatPost(i) for i in range(160, 205)]),
+        #     "\n".join([self.formatPost(i) for i in range(205, 235)]),
+        #     "\n".join([self.formatPost(i) for i in range(235, 250)]),
+        #     "\n".join([self.formatPost(i) for i in range(250, 290)]),
+        #     "\n".join([self.formatPost(i) for i in range(290, 330)]),
+        #     "\n".join([self.formatPost(i) for i in range(330, 375)]),
+        #     "\n".join([self.formatPost(i) for i in range(375, 435)]),
+        #     "\n".join([self.formatPost(i) for i in range(435, 470)]),
+        #     "\n".join([self.formatPost(i) for i in range(470, 494)]),
+        # ]
+        # chunks = []
+        # c = [range(0, 15), range(15, 30), range(30, 45), range(45, 60), range(60, 75), range(75, 90), range(90, 105), range(105, 120), range(120, 135), range(135, 150), range(150, 165), range(165, 180), range(180, 195), range(195, 210), range(210, 225), range(225, 240), range(240, 245), range(245, 255), range(255, 270), range(270, 285), range(285, 300), range(300, 315), range(315, 330), range(330, 345), range(345, 360), range(360, 375), range(375, 390), range(390, 405), range(405, 420), range(420, 435), range(435, 450), range(450, 465), range(465, 480), range(480, 494)]
+        # for chunk in c:
+        #     chunks.append("\n".join([self.formatPost(i) for i in chunk]))
+           
+        # AHHH YKW FRIK CHUNKING
+        self.tempDisableVerbosity()
+        chunks = [self.formatPost(i) for i in range(494)]
+        chunks = [[self.countTokens(chunk), chunk] for chunk in chunks]
+        self.restoreVerbosity()
+        # chunks  = [[1000, "a"], [5000, "b"], [8000, "c"], [130, "d"], [1200, "e"], [4943, "f"]]
+        # print(sum([i[0] for i in chunks]), sum([len(i[1]) for i in chunks]))
+        # print(chunks)
+        # new chunking technique
+        for i in range(len(chunks)):
+            chunk = chunks[i]
+            if (chunk[0] == 0):
+                continue
+            if chunk[0] < 6144:
+                for y in range(len(chunks)):
+                    c = chunks[y]
+                    if (y == i) or (c[0] == 0):
+                        continue
+                    if (c[0] + chunk[0] + 1) <= 6144:
+                        chunks[i] = [chunk[0] + c[0] + 1, chunk[1] +"\n"+ c[1]]
+                        chunks[y] = [0, ""]
+                        chunk = chunks[i]
+        
+        chunks = [chunk[1] for chunk in chunks if chunk[0]]
+        print(len(chunks), "chunks of size 6144 tokens")
+        # exit()
+        
+        # print([i[0] for i in chunks])
+        # print(sum([i[0] for i in chunks]), sum([len(i[1]) for i in chunks]))
+        # print(sum([i[0] for i in chunks]), sum([len(i[1]) for i in chunks]))
+        # print(chunks)
+        # exit()
+                        
+
+        # yknow given how short the data is, I don't even gotta use the api
+        # simply convert them into 5 prompts
+        # actually nvm, too much work
+        # apiiii
+
+        self.gemini = Gemini(os.getenv("GEMINI_KEY"))
+        gemini = self.gemini
+
+        # test
+        # symptoms = gemini.extractSymptoms("\n".join([self.formatPost(i) for i in range(000, 5)]))
+        # with open("test.json", "w+") as f:
+        #     json.dump(symptoms, f)
+        # Nice it worked :D, first try aswell, now for everything'
+
+        for idx, chunk in enumerate(chunks):
+            if self.verbose:
+                print(f"Processing chunk {idx+1}...")
+            try:
+                symptoms = gemini.extractSymptoms(chunk)
+            except Exception as e:
+                print(e)
+            
+            if self.verbose:
+                print(f"Chunk {idx+1} processed :D, storing chunk...")
+
+            with open(f"chunk-{idx+1}.json", "w+") as f:
+                # json.dump(symptoms, f)
+                f.write(symptoms)
+
+            if self.verbose:
+                print(f"Chunk {idx+1} stored :D, waiting 5s...")
+
+            time.sleep(5)
+
         # print(self.countTokens("\n".join([self.formatPost(i) for i in range(000, 494)])))
         # with open(os.path.join(Config.SCRIPT_DIR, "formatted-posts.txt"), "w+") as f:
         #     f.write("\n".join([self.formatPost(i) for i in range(000, 494)]))
@@ -199,7 +637,7 @@ class MainClass:
 def main() -> int:
     """Entry point with optional CLI args."""
     verbose = False
-
+    load_dotenv()
     # ===== Optional CLI =====
     if Config.UseArgParse:
         import argparse
@@ -209,6 +647,7 @@ def main() -> int:
         verbose = args.verbose
 
     # Run processor
+
     processor = MainClass(verbose=(verbose or Config.verbose))
     return processor.run()
 
