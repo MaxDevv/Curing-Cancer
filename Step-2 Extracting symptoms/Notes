@@ -1,0 +1,78 @@
+
+=== Overview ===
+    - Ngl i kinda wanna get a view of the scale of data im dealing with here, like just how much, how many tokens, how long will this take
+    - Total Posts: 744
+    - Total Comment: 12499 (Note: this is just the first layer of comments lol; some comments have their own responses and those responses have responses and so on and so forth)
+    - Total Tokens: 1,198,678
+        - Nice, just shy of 1.2 million, i could split the text into two chunks and have gemini mass process them, or I could have them individually processed, but given how the limit is 15 rpm and 744/15 = 49.6 and im lazy, we batch lol. 
+    - Avg Tokens Per post: (1198678 - 969025)/744 = 308.67
+    - Avg Comments Per Post: 12499/744 = 16.80
+    - Avg Tokens Per comment: 969025/12499 = 77.53
+
+    - The current plan is to break the posts into chunks of around 700k tokens and feed that to gemini and hope that the responses fit in its 1 million token context window
+
+
+
+=== Prompt ===
+    You are an expert medical research assistant helping analyze cancer patient anecdotes. Your task is to carefully extract ALL symptoms and bodily changes mentioned in these posts, with special attention to the subtle, early warning signs that patients initially dismissed or didn't recognize as significant.
+    For each post and relevant comment, extract:
+    1. ALL symptoms mentioned (both subtle/minor and obvious/major)
+    2. WHEN they appeared in the patient's journey (pre-diagnosis, during diagnosis, etc.)
+    3. How the patient PERCEIVED the symptom initially (dismissed, concerned, etc.)
+    4. Any LIFESTYLE or BEHAVIORAL changes mentioned
+
+    Analyze the following cancer patient anecdotes and structure your findings in this exact JSON format:
+
+    {
+    "posts": [
+        {
+        "post_id": "1",
+        "minor_symptoms": [
+            {
+            "symptom": "description of symptom",
+            "timing": "when it occurred",
+            "initially_perceived_as": "how patient initially viewed it"
+            }
+        ],
+        "major_symptoms": [
+            {
+            "symptom": "description of symptom",
+            "timing": "when it occurred",
+            "initially_perceived_as": "how patient initially viewed it"  
+            }
+        ],
+        "lifestyle_changes": ["change 1", "change 2"],
+        "comments": [
+            {
+            "comment_id": "1.1",
+            "minor_symptoms": [],
+            "major_symptoms": [],
+            "lifestyle_changes": []
+            },
+            {
+            "comment_id": "1.2",
+            "minor_symptoms": [
+                {
+                "symptom": "description of symptom",
+                "timing": "when it occurred",
+                "initially_perceived_as": "how patient initially viewed it"
+                }
+            ],
+            "major_symptoms": [],
+            "lifestyle_changes": []
+            }
+        ]
+        }
+    ]
+    }
+
+    IMPORTANT GUIDELINES:
+    - Include EVERY symptom mentioned, no matter how seemingly insignificant
+    - For symptoms where timing/perception isn't specified, use "unknown"
+    - If no symptoms are mentioned in a comment, leave arrays empty but include the comment
+    - Classify symptoms as "minor" if the patient initially dismissed them or didn't seek immediate medical attention
+    - Classify symptoms as "major" if they prompted immediate medical concern
+    - In cases of uncertainty about classification, err on the side of including more information
+
+    Here are the posts to analyze:
+    [paste posts here]

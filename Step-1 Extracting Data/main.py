@@ -18,6 +18,8 @@ reddit = praw.Reddit(
 
 cancer = reddit.subreddit("cancer")
 
+
+# searchTerms = ["how found", "what symptoms", "my story", "ignored signs"]
 results = []
 cnt = 0
 for post in cancer.search("how found", limit=None):

@@ -3,6 +3,7 @@
 
 ==== Plan ====
     - Step 1: Collect A mass list of anecdotes about cancer containing symptoms not commonly associated with cancers
+    - Step 1: DONE :DDDD, April 15 2025 1:05PM
     - Step 2: Use AI to extract those symptoms from all those anecdotes
     - Step 3: Reduce those symptoms by grouping simmilar ones up
     - Step 4: Build a really large questionairre from those symptoms 100-1000 questions, the more data the better
