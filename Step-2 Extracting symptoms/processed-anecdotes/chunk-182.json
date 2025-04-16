@@ -1,0 +1,629 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "463",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Diagnosed with breast cancer",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Missing work",
+          "Taking care of kids while sick"
+        ],
+        "comments": [
+          {
+            "comment_id": "463.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Very sick",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Nausea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Pain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Taking short-term disability",
+              "Taking long-term disability",
+              "Rallying resources for home cleaning",
+              "Rallying resources for food prep and meals",
+              "Rallying resources for grocery shopping",
+              "Rallying resources for babysitting",
+              "Chilling and focusing on recovering",
+              "Reporting side effects to oncologist"
+            ]
+          },
+          {
+            "comment_id": "463.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Chemo nausea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Using medical marijuana",
+              "Using Zyprexa"
+            ]
+          },
+          {
+            "comment_id": "463.4",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Contacting the Cancer Society",
+              "Contacting social worker at oncology center",
+              "Filing for SSI or SSDI"
+            ]
+          },
+          {
+            "comment_id": "463.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Not feeling good",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Queasy sick feeling",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Adjusting pre-chemo meds",
+              "Adjusting meds to help with queasy sick feeling"
+            ]
+          },
+          {
+            "comment_id": "463.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Seeking help from the department of rehabilitation services for employment and childcare"
+            ]
+          },
+          {
+            "comment_id": "463.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Being sick",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Using marijuana for symptom management",
+              "Shifting job to at-home work",
+              "Asking kids to be more independent with certain things (bedtime routines, grabbing little snacks or refilling waters, etc.)"
+            ]
+          },
+          {
+            "comment_id": "463.9",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Making embryos with husband and freezing them"
+            ]
+          },
+          {
+            "comment_id": "463.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.14",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Taking FMLA without pay"
+            ]
+          },
+          {
+            "comment_id": "463.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Found a lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "So sick",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Taking days off to feel better",
+              "Taking FMLA leave",
+              "Scheduling chemos for Fridays"
+            ]
+          },
+          {
+            "comment_id": "463.23",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Asking for expedited ssi disability",
+              "Asking for expedited Medicaid assistance",
+              "Applying for food stamps",
+              "Applying for Medicaid for children",
+              "Applying for day care assistance"
+            ]
+          },
+          {
+            "comment_id": "463.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Nausea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Making chemo appointments late on Fridays",
+              "Laying on the couch for movie and gaming marathons",
+              "Relying on friends moms and family to take over",
+              "Using Zofran for nausea",
+              "Using anti-nausea meds with chemo treatment IV"
+            ]
+          },
+          {
+            "comment_id": "463.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "463.29",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Nausea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Constipation",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Taking stool softeners",
+              "Taking Miralax",
+              "Using Zofran",
+              "Using Ativan",
+              "Using Steroids"
+            ]
+          },
+          {
+            "comment_id": "463.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "465",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Pneumonia/covid",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Coughing up phlegm",
+              "timing": "3 months post-hospital stay",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Breathless",
+              "timing": "3 months post-hospital stay",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Little to no appetite",
+              "timing": "3 months post-hospital stay",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Lost a concerning amount of weight",
+              "timing": "3 months post-hospital stay",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Pain in right shoulder blade",
+              "timing": "3 months post-hospital stay",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Growth just about everywhere (seen on CT scan)",
+              "timing": "4 months since last cancer treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Housebound",
+          "Unable to visit mother as she was dying in hospice",
+          "Forcing self to get out of bed and eat every day"
+        ],
+        "comments": [
+          {
+            "comment_id": "465.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Grade 1 neuropathy",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Using a walker or cane"
+            ]
+          },
+          {
+            "comment_id": "465.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.16",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Setting daily alarms to call various doctor's offices to get appointments and get restarted on treatments",
+              "Looking for a new care team"
+            ]
+          },
+          {
+            "comment_id": "465.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.19",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Finding a new oncologist"
+            ]
+          },
+          {
+            "comment_id": "465.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "465.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "486",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Struggling to breathe",
+              "timing": "recent",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Throat is swollen",
+              "timing": "recent",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Throat hurts so much",
+              "timing": "recent",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Body aching all over so badly can't sleep even with meds",
+              "timing": "recent",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Fever",
+              "timing": "recent",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Body aches",
+              "timing": "over the last week",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "Panic attack",
+              "timing": "when placed in a medical environment",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Surgery",
+          "Recovery",
+          "Dropping out of school",
+          "Temporarily moving back to home Provence",
+          "Going back to where going to school",
+          "Moving furniture",
+          "Getting a job",
+          "Going out to concerts at dingy bars",
+          "Exploring downtown with friends",
+          "Planning for career",
+          "Going to the gym whenever can",
+          "Working most days of the week",
+          "Walking for hours in a day",
+          "Out with friends practically every night",
+          "Staying up late to work on hobbies",
+          "Walking",
+          "Drinking",
+          "Dancing",
+          "Moshing",
+          "Moving apartments"
+        ],
+        "comments": [
+          {
+            "comment_id": "486.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Ill",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Body aches",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Can't breathe",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "486.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Taking rest days",
+              "Saying no to nights out with friends",
+              "Saying no to gym sessions"
+            ]
+          },
+          {
+            "comment_id": "486.3",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Eat good food",
+              "Get plenty of sleep",
+              "Avoid stress",
+              "Avoid unhealthy things like alcohol, smoking, and drugs",
+              "Striving for balance",
+              "Staying home when not feeling 100%"
+            ]
+          },
+          {
+            "comment_id": "486.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Fever",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Being on bed rest"
+            ]
+          },
+          {
+            "comment_id": "486.5",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Bed rest"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

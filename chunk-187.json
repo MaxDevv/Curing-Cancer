@@ -1,0 +1,385 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "472",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Difficulty functioning at work",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Difficulty functioning at home",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Eating becoming a chore",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Gaining weight despite diagnosis",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Home being a mess due to being too tired to clean",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Difficulty keeping up with hygiene",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Constant state of stress at work",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Pain appearing",
+              "timing": "unknown",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Bumps appearing",
+              "timing": "unknown",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Feeling like death is closer than life",
+              "timing": "unknown",
+              "initially_perceived_as": "possibly being dramatic"
+            },
+            {
+              "symptom": "Barely able to function",
+              "timing": "unknown",
+              "initially_perceived_as": "possibly being dramatic"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Using all energy on trying to pass college",
+          "Considering looking for a new job"
+        ],
+        "comments": [
+          {
+            "comment_id": "472.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Physical limitations",
+                  "timing": "early stages of cancer",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Side effects from treatment",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.13",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Exhaustion",
+                  "timing": "due to thyroid condition",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.14",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Body aches",
+                  "timing": "bad days",
+                  "initially_perceived_as": "being perceived as lying"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Weight gain and loss",
+                  "timing": "due to thyroid hormones",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Slowed down or sped up heart rate",
+                  "timing": "due to thyroid hormones",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Fluctuations in blood pressure",
+                  "timing": "due to thyroid hormones",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Headaches",
+                  "timing": "due to thyroid hormones",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Behavioral changes mistaken for mania, depression, or bipolar disorder",
+                  "timing": "due to thyroid hormones",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Struggling physically and mentally",
+                  "timing": "after thyroidectomy and catching COVID",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.25",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Vertigo",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Nausea",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Low energy",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "472.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "487",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Thin pink vertical line on thumbnail",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "damage to nail"
+            },
+            {
+              "symptom": "Line pulling down whites of nail tip and lunula",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "damage to nail"
+            },
+            {
+              "symptom": "Increasing pain when pressing on the center of the line",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "ignored"
+            },
+            {
+              "symptom": "Thumb not showing classic signs of infection",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "ignored"
+            },
+            {
+              "symptom": "Redness of thumb",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "ignored"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "Rapid expansion of the line on the thumbnail",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "scared"
+            },
+            {
+              "symptom": "Destruction of the lunula",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "scared"
+            },
+            {
+              "symptom": "Increasing pain in thumb",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "not wanting to do anything about it initially"
+            },
+            {
+              "symptom": "Swelling of thumb",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "ignored"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "487.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Lymph node blew up to golf ball size",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "not cancer"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "487.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "White spots multiplying",
+                  "timing": "pre-surgery",
+                  "initially_perceived_as": "anxiety"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

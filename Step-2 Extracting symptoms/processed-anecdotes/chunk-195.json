@@ -1,0 +1,253 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "494",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "hair loss resulting in baldness",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "optimistic ('I get to wear cute hats and try on fun wigs!')"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "dating again",
+          "wearing a wig"
+        ],
+        "comments": [
+          {
+            "comment_id": "494.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "white hair randomly falling out",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "loss of eyebrows",
+                  "timing": "current",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "loss of eyelashes",
+                  "timing": "current",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "wearing all black",
+              "special care with makeup",
+              "wearing scarves"
+            ]
+          },
+          {
+            "comment_id": "494.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "hair thinning",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "worsening skin condition",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "weight gain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "494.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loss of beard",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "loss of teeth",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "494.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "overweight",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weight gain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "baldness",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "face is big and round",
+                  "timing": "during diagnosis (steroids)",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "494.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "weight loss (40 lbs)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "scary thin appearance",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "puffy face",
+                  "timing": "during diagnosis (prednisone)",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "hair growing back darker",
+                  "timing": "after chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weird bald patches",
+                  "timing": "after chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "494.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "scars on head",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "weight gain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "hair loss",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "shaving head",
+              "covering head"
+            ]
+          },
+          {
+            "comment_id": "494.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hair loss due to radiation therapy for the brain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "loss of eyebrows",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "loss of eyelashes",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "dress-up tips"
+            ]
+          },
+          {
+            "comment_id": "494.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "permanent scars from eye herpes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "forehead looks like Deadpool's mangled face",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "494.13",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "moonface",
+                  "timing": "during steroid treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "increased appetite",
+                  "timing": "during steroid treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "494.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "scary looking face",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "468",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "468.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "loss of 20kgs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "hair loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "eating what I want",
+              "drinking what I want"
+            ]
+          },
+          {
+            "comment_id": "468.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weakness",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "thin hairs",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "neuropathy",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "eating whatever I like to eat"
+            ]
+          },
+          {
+            "comment_id": "468.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "abdominal distention",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "nausea (off and on)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "consistent pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "468.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loss of appetite",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "469",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "pins and needles in left leg",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "walking with a limp",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "consistent pain in left feet",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "swelling in left feet",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "pain escalated to calf and thighs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "pain in left scrotum area",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "high ESR (inflammation) in blood",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "tumor with a size 15 cm by 13 cm by 12 cm in pelvic area",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "bladder distended to the leg side of his body",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "restricted urine flow",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "consistent pain of \"needles\" poking into his penis area due to catheter",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "469.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fevers caused by infections",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "469.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "469.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "low mood",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "anger",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "left full time job"
+            ]
+          },
+          {
+            "comment_id": "469.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "chemo brain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "short term memory loss",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "469.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "469.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "469.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "470",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "stomach flu like symptoms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "pissing blood",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "ascites build up in abdomen",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "inability to eat",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "inability to sleep",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "constant bloating",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "5 - 6 inch tumor in pelvis and lower abdomen organs",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "nausea",
+              "timing": "post-surgery",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "470.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "anxiety about the possibility of dying",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "terrified all the time",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.5",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "conscious decision to be a survivor and not a victim"
+            ]
+          },
+          {
+            "comment_id": "470.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.14",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "groggy and tired",
+                  "timing": "post-medication",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "light nausea",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "470.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "464",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "risk of bowel blockage",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "frightened"
+            },
+            {
+              "symptom": "prone to constipation",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "smaller area in rectum",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "uncomfortable"
+            },
+            {
+              "symptom": "urgency to defecate without vast quantities of faeces",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "uncomfortable"
+            },
+            {
+              "symptom": "exhaustion",
+              "timing": "during low residue diet in preparation for a colonoscopy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "weakness",
+              "timing": "during low residue diet in preparation for a colonoscopy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "backing up in CT scan",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "extra tired",
+              "timing": "during chemo",
+              "initially_perceived_as": "minor"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "genuinely ill",
+              "timing": "during low residue diet in preparation for a colonoscopy",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "vegetarian diet for 35 years",
+          "eats masses of fruit and vegetables",
+          "eats seeded bread and porridge for breakfast",
+          "eats jacket potatoes, especially the skin",
+          "eats a high fiber diet",
+          "controls constipation well with laxatives",
+          "chewing food better",
+          "reluctantly replacing seeded loaves with plastic white bread",
+          "mashing vegetables down more",
+          "moving in with mom"
+        ],
+        "comments": [
+          {
+            "comment_id": "464.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bowel blockage",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "returning to eating tuna fish and eggs"
+            ]
+          },
+          {
+            "comment_id": "464.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.3",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "restricted diet on quantity and quality",
+              "rarely eats a vegetable"
+            ]
+          },
+          {
+            "comment_id": "464.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "struggling with issues related to blockages",
+                  "timing": "currently",
+                  "initially_perceived_as": "struggling"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "avoiding the skins and seeds as much as possible",
+              "switched to white bread from whole grain"
+            ]
+          },
+          {
+            "comment_id": "464.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bowel blockage",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "no output or gas",
+                  "timing": "if symptoms of a blockage appear",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "swollen stomach",
+                  "timing": "if symptoms of a blockage appear",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "severe cramping pain",
+                  "timing": "if symptoms of a blockage appear",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "if symptoms of a blockage appear",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "vomiting",
+                  "timing": "if symptoms of a blockage appear",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "peeling and cooking veg very thoroughly (eg. Mashed carrots)",
+              "blending veg into sauces or soups",
+              "making fruit smoothies",
+              "eating smooth nut butter",
+              "peeling and cooking food completely",
+              "cutting it up small and chewing it as much as possible",
+              "eating melon, avocado, bananas, peeled apples as healthier snacks",
+              "eating all peeled root veg (sweet potato extra good because it has high nutrition)",
+              "eating peeled and deseeded cucumber",
+              "eating passatta for pasta sauce (can blend with other veg)",
+              "eating tinned fruit like pears or peaches"
+            ]
+          },
+          {
+            "comment_id": "464.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "risk of bowel blockage",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "unable to handle or eat anything cold",
+                  "timing": "during immunotherapy",
+                  "initially_perceived_as": "uncomfortable"
+                },
+                {
+                  "symptom": "hands and lips, tongue, throat would get some amped up version of pins and needles",
+                  "timing": "during immunotherapy",
+                  "initially_perceived_as": "uncomfortable"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "keeping cool to avoid heat susceptibility"
+            ]
+          },
+          {
+            "comment_id": "464.9",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "always eaten a high fiber diet",
+              "avoided processed foods"
+            ]
+          },
+          {
+            "comment_id": "464.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "frequent intestinal blockages",
+                  "timing": "due to scar tissue from radiation treatment damage",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "a lot of pain when getting a partial blockage",
+                  "timing": "when eating something not tolerated well",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "low fiber low residue diet",
+              "start the day with a smoothie of fruit, blueberries, raw nuts, yogurt and spinach",
+              "eating lettuce and salads",
+              "eating cheese",
+              "eating puréed bean soups or really smooth refried beans",
+              "eating wheat bread and whole grain pastas without seeds/oats",
+              "eating vegetable soups made in a slow cooker",
+              "eating pouches of applesauce and other fruit blends",
+              "eating pouches of nut butter",
+              "eating some poultry and fish"
+            ]
+          },
+          {
+            "comment_id": "464.11",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "using supplements",
+              "getting high quality, organic veg juices",
+              "eating moderate amounts of berries",
+              "eating berries with yoghurt and honey",
+              "replacing oats and cereals with berries, yoghurt, and honey"
+            ]
+          },
+          {
+            "comment_id": "464.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bowel blockage",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "partial blockage",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.13",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "eating really soft food",
+              "chewing a lot"
+            ]
+          },
+          {
+            "comment_id": "464.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "possible/inevitable blockage",
+                  "timing": "unknown",
+                  "initially_perceived_as": "extremely frightening"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sore face and eyes because of the chemo leeching out",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "uncomfortable"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "eating nut butter and apple",
+              "keeping a food diary"
+            ]
+          },
+          {
+            "comment_id": "464.19",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "constipation caused by chemo",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "feeling extra tired",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "repeated obstructions",
+                  "timing": "in the lead up to the discovery of recurrence",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "absolutely blocked small bowel",
+                  "timing": "in the lead up to the discovery of recurrence",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "blending veg and fruit into soups and smoothies",
+              "adding cream, butter, full fat milk for extra calories",
+              "adding a banana or avocado in a smoothie",
+              "eating eggs on toast with butter and well mashed avocado",
+              "eating egg noodles with a spicy peanut sauce with tofu, roast peeled sweet potato and very well boiled broccoli",
+              "eating roast sweet potato with feta cheese on",
+              "making a pasta sauce using blended veg",
+              "peeling and cooking new food to death",
+              "trying a small amount of new food",
+              "keeping track of any symptoms that might occur after eating new food",
+              "sticking to white bread, pasta, rice, noodles",
+              "avoiding seeds and wholegrains if possible"
+            ]
+          },
+          {
+            "comment_id": "464.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "severe diarrhea",
+                  "timing": "caused by one of the chemotherapies",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "464.24",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "doing a food diary"
+            ]
+          },
+          {
+            "comment_id": "464.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "experiencing obstructions",
+                  "timing": "currently",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "dietary restrictions"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

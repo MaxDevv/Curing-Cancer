@@ -1,0 +1,740 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "260",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "occasional cough",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "occasional very small pains",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "right lung being damaged from the cancer",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "pleural effusion (fluid in the lung)",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "trying not to think too far ahead",
+          "going through each day at a time"
+        ],
+        "comments": [
+          {
+            "comment_id": "260.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "find a support group",
+              "educate yourself",
+              "never let yourself believe you are going to die"
+            ]
+          },
+          {
+            "comment_id": "260.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumors in lungs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "tumors in head",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "stay strong",
+              "think positive"
+            ]
+          },
+          {
+            "comment_id": "260.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumors shrinking rapidly",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "found God",
+              "started chemo"
+            ]
+          },
+          {
+            "comment_id": "260.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pleural effusion",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "lung cancer in lymph nodes (small, under 4mm in both lungs)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "get a good therapist"
+            ]
+          },
+          {
+            "comment_id": "260.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "leukemia",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "immune system in a delicate state due to no immune system",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "stay healthy",
+              "stop drinking",
+              "keep your liver healthy",
+              "take it day by day",
+              "always ask questions"
+            ]
+          },
+          {
+            "comment_id": "260.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 lung cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "cancer spread to the pleural wall on both sides",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "cancer spread to the mediastinum",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.10",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "take care of yourself"
+            ]
+          },
+          {
+            "comment_id": "260.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 esophageal cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "maintain wait",
+              "live everyday like you're dying"
+            ]
+          },
+          {
+            "comment_id": "260.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 3a lung cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "two lymph nodes and one source in right hilar under the lymph node",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "lymph node on subcarina",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "out of breath upon exertion",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.20",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "positive thoughts",
+              "positive actions"
+            ]
+          },
+          {
+            "comment_id": "260.21",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "looking to Chinese traditional medicines to help restore nutritional balance"
+            ]
+          },
+          {
+            "comment_id": "260.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.23",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "stay close to family"
+            ]
+          },
+          {
+            "comment_id": "260.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 renal carcinoma spread to both lungs and his pelvis",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "tumors started shrinking",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "lungs and pelvis completely clear",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "kidney tumor greatly reduced",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "be willing to try everything"
+            ]
+          },
+          {
+            "comment_id": "260.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "one of my tumors has disappeared completely",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.47",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "swollen lymph nodes",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "nsclc adenocarcinoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "no bowel movement for a month and a half",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "jogging 4-5 miles a day 4-5 times a week"
+            ]
+          },
+          {
+            "comment_id": "260.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.49",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "eat what made me happy"
+            ]
+          },
+          {
+            "comment_id": "260.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.51",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 NSCLC",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "260.56",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "prostrate cancer stage 3",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "288",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "stage 4 lung cancer",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "pain",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "discomfort",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "difficulties doing things I used to do with ease",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "embracing solitude"
+        ],
+        "comments": [
+          {
+            "comment_id": "288.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lethargy",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "walking my dog was pretty much only thing I'd go be outside for",
+              "having something to take care of",
+              "establish a routine"
+            ]
+          },
+          {
+            "comment_id": "288.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 stomach cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "growth in my lung tube",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 esophageal cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "spots (metastasis)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.7",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "try and do what makes you happy the most",
+              "try not to let it consume you"
+            ]
+          },
+          {
+            "comment_id": "288.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 terminal endometrial cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "cancer spread to her stomach",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.16",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "focus on family",
+              "get a dog"
+            ]
+          },
+          {
+            "comment_id": "288.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage iv colon cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "dementia",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "288.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

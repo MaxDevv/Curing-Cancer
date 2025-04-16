@@ -1,0 +1,694 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "45",
+        "symptoms": {
+          "minor": [],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "45.1",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.2",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.3",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.4",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.5",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.6",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.7",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.8",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.9",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.10",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.11",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.12",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.13",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.14",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.15",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.16",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.17",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.18",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.19",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.20",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.21",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.22",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "smooth bald head",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "feeling like crap",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.24",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.25",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.26",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.27",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.28",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.29",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.30",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.31",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.33",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.34",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.35",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.36",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.37",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.38",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.39",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.40",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.41",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.42",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.43",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.44",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.45",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.46",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.47",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.48",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.49",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.50",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "45.51",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "46",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "spotting for months",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "extreme lower abdominal pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "blood clot in right lung",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "2 inch tumor at the top of my vaginal canal",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "multiple deposits in abdomen",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "46.1",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "vaginal recurrence",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.2",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.3",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.4",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.5",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.6",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.7",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.8",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.9",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.10",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.11",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "46.12",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "51",
+        "symptoms": {
+          "minor": [],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "51.1",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.2",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.7",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.8",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.9",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.10",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.11",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.12",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.13",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.14",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.15",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.16",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "176",
+        "symptoms": {
+          "minor": [],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    }
+  ]
+}

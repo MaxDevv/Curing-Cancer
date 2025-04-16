@@ -1,0 +1,511 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "191",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "lost part of a lung",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "stroke leading to partial blindness",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "hearing loss",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "heart failure",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "body no longer produces testosterone",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "fractured spine",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "lost teeth",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+          },
+        "lifestyle_changes": [
+          "unable to return to work",
+          "needs days to recover after spending much energy",
+          "sleeping most of the day"
+        ],
+        "comments": [
+          {
+            "comment_id": "191.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bone pain from the bone mets",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "puking",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "shitting myself",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "sleeping for 23 hours every day",
+              "crying more than smiling",
+              "lost hope"
+            ]
+          },
+          {
+            "comment_id": "191.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "during infusions",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "during infusions",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "body aches",
+                  "timing": "during infusions",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "irritability",
+                  "timing": "during infusions",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "depression",
+                  "timing": "during infusions",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "brain fog",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "stuck in bed",
+              "stuck in the bathroom"
+            ]
+          },
+          {
+            "comment_id": "191.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "unbearable symptoms",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weakness",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea and vomiting",
+                  "timing": "post chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "weakness",
+                  "timing": "post chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "need to use an inhaler at night",
+                  "timing": "post chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "pneumonia",
+                  "timing": "post chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "shoulder replacement due to falls",
+                  "timing": "post chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "depression",
+                  "timing": "post chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "went from an active person to pretty sedentary",
+              "sleeps so much that frequently has days and nights mixed up"
+            ]
+          },
+          {
+            "comment_id": "191.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bone mets",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "spine compression",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "bones look like lace",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "seizures",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea and vomiting",
+                  "timing": "months following esophagus chemo/radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.32",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "drowsiness",
+                  "timing": "during chemo and immunotherapy",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "able to function to about 75% of normal capacity"
+            ]
+          },
+          {
+            "comment_id": "191.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.35",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "trying to keep stress low"
+            ]
+          },
+          {
+            "comment_id": "191.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "191.37",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "experiencing guilt because cancer steals loved ones life away"
+            ]
+          },
+          {
+            "comment_id": "191.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "237",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "exhaustion",
+              "timing": "post-chemo",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "can pretty much sleep all day if I let myself"
+        ],
+        "comments": [
+          {
+            "comment_id": "237.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "post-chemo fatigue",
+                  "timing": "post-chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "pacing myself",
+              "walking slowly in the sun",
+              "avoiding coffee and energy drinks",
+              "using transdermal patches for energy"
+            ]
+          },
+          {
+            "comment_id": "237.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "pacing yourself",
+              "don't push it"
+            ]
+          },
+          {
+            "comment_id": "237.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "237.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "depression",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "sleepiness",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "237.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

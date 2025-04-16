@@ -1,0 +1,521 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "135",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "transverse colon tumor",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "three lucencies on L2, L3, and T6 vertebrae suspicious for metastatic disease",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "135.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nodules in the lung",
+                  "timing": "during scans",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "abdominal pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lesions on spine suspicious for metastatic disease",
+                  "timing": "during CT scan for abdominal pain",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.14",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "degenerative disease in spine",
+                  "timing": "during PET scan",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "kidney cancer spread to femur",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "suspicious spots on liver and gallbladder",
+                  "timing": "during scans",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lucency in right upper lung lobe suspicious for metastatic disease",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage IV Renal Cell Mets in lungs",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "plasmacytoma in L4",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sciatica (painful 24/7)",
+                  "timing": "after plasmacytoma pressed against nerve roots",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.30",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sclerotic lesions (spine)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumor on left kidney",
+                  "timing": "first diagnosis in 2009",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "irregularities in lungs",
+                  "timing": "during CT scan for kidney stone in 2020",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "definable tumor in right lung",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "\"ground glass\" (patch of very small tumors) in upper left lung",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feeling run down",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "135.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "143",
+        "symptoms": {},
+        "lifestyle_changes": [
+          "cutting people out of life",
+          "diminished trust",
+          "loss of compassion and empathy"
+        ],
+        "comments": [
+          {
+            "comment_id": "143.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "chronic conditions as a result of treatment",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cannot breathe sometimes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "cut off every friend"
+            ]
+          },
+          {
+            "comment_id": "143.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "143.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "154",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "tumor on liver",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "154.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bile duct cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "165",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "165.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "low blood counts after chemo",
+                  "timing": "post-chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "165.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Chronic Lymphocytic Leukemia",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "bone marrow destroyed by chemo",
+                  "timing": "after chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "aplastic anemia",
+                  "timing": "post-chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "165.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

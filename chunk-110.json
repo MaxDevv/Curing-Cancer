@@ -1,0 +1,1094 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "276",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "endometrial thickness of 5mm (just 1 mm less than the threshold for biopsy)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "barely any symptoms"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "276.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "infected lymph nodes (4)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "nodules in both lungs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "foul-smelling discharge around the time of period",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "slight spotting when wiping for one day",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "endometrial thickness of 5mm",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "8mm polyps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.24",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "endometrial thickness of 5mm",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "no bleeding"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.25",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Endometrial stripe: 6 mm",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "normal"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.27",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "paralysis from toes to thighs bilaterally",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "side effect of chemo"
+                },
+                {
+                  "symptom": "ulnar nerve damage in both arms",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "side effect of chemo"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.39",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "persistent cough",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "small nodule on the left lobe of lung (7mm)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.59",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "thin, watery, mostly odorless discharge",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.60",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "increasingly painful periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                },
+                {
+                  "symptom": "periods coming closer together",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                },
+                {
+                  "symptom": "heavier than normal periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                },
+                {
+                  "symptom": "spotting between periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                },
+                {
+                  "symptom": "thin watery discharge between periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "bleeding after menopause",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.61",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "irregular bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bleeding after menopause",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.66",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.67",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "thin watery discharge",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "brushed off as peri-menopause"
+                },
+                {
+                  "symptom": "periods coming closer together",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "brushed off as peri-menopause"
+                },
+                {
+                  "symptom": "periods becoming more painful",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "brushed off as peri-menopause"
+                },
+                {
+                  "symptom": "periods becoming heavier",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "brushed off as peri-menopause"
+                },
+                {
+                  "symptom": "bloating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "brushed off as peri-menopause"
+                },
+                {
+                  "symptom": "iron deficiency",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "brushed off as peri-menopause"
+                },
+                {
+                  "symptom": "sense that something was wrong",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was just anxiety"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "post menopausal bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.68",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.69",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.70",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.71",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.72",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.73",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.74",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.75",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "excessive periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "wanted prescription ibuprofen"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "wanted prescription ibuprofen"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.76",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.77",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.78",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.79",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "coughing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bringing up gunk",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.80",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.81",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.82",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.83",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.84",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.85",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.86",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.87",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.88",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.89",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.90",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.91",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "abdominal pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "IBS"
+                },
+                {
+                  "symptom": "endometrium was 6mm",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "normal CT scan and ultrasound"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.92",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "irregular periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "freaking out"
+                },
+                {
+                  "symptom": "period every 2 weeks",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "freaking out"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.93",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.94",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.95",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.96",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.97",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.98",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.99",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.100",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.101",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.102",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.103",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "exercising more",
+              "trying to eat better",
+              "plan a diet that causes the least amount of gas possible but also prevents constipation"
+            ]
+          },
+          {
+            "comment_id": "276.104",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.105",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.106",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.107",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "thickened endometrium",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.108",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.109",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.110",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "periods with no uterus",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "ovarian masses",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feels like an ectopic pregnancy",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.111",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.112",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "thickened endometrial layer",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "indicator"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.113",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.114",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.115",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "eating better"
+            ]
+          },
+          {
+            "comment_id": "276.116",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.117",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.118",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.119",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.120",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.121",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.122",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.123",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.124",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.125",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.126",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.127",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "spotting between periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "periods becoming more painful",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "periods coming closer",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "periods lasting longer",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "anemia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "horrible PMS",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.128",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.129",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.130",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.131",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.132",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.133",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "more painful periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "periods come bi-weekly",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "periods last 3-4 days",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.134",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.135",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.136",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.137",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.138",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.139",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.140",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "hard to pee",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "had to push or relax to pee",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.141",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.142",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.143",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "slight spotting when wiping for one day",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "endometrial thickness of 5mm",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "8mm polyps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.144",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment

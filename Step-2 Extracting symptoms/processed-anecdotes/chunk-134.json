@@ -1,0 +1,643 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "335",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "strange symptoms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "tumor in rectum",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "greater than 50 precancerous polyps throughout entire colon",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "9 mets on liver",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "weirdness on the lower part of the lung",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "12+ mets on both lungs",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "takes a toll on the body",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "early retirement",
+          "spending time with children",
+          "traveling"
+        ],
+        "comments": [
+          {
+            "comment_id": "335.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "painting",
+              "reading",
+              "playing video games"
+            ]
+          },
+          {
+            "comment_id": "335.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.4",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "volunteering",
+              "taking courses",
+              "building",
+              "painting",
+              "yoga"
+            ]
+          },
+          {
+            "comment_id": "335.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sleeping",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "disability retirement",
+              "housework"
+            ]
+          },
+          {
+            "comment_id": "335.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "growing vegetables",
+              "doing projects around the house",
+              "cooking more",
+              "weekend trips",
+              "volunteer tutoring"
+            ]
+          },
+          {
+            "comment_id": "335.7",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "listening to music",
+              "learning",
+              "feeding birds",
+              "dog park visits",
+              "reading newspaper websites"
+            ]
+          },
+          {
+            "comment_id": "335.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "watching TV",
+              "cleaning",
+              "organizing",
+              "crocheting",
+              "playing games on phone"
+            ]
+          },
+          {
+            "comment_id": "335.9",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "travel with wife",
+              "setting up finances",
+              "volunteering",
+              "animal rescue/welfare"
+            ]
+          },
+          {
+            "comment_id": "335.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "collapsed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "long term disability leave",
+              "reading books and comics",
+              "dancing",
+              "sewing",
+              "archery",
+              "chainmail",
+              "blacksmithing",
+              "pottery",
+              "leatherworking",
+              "woodworking",
+              "playing video games",
+              "playing d&d",
+              "watching tv shows and movies",
+              "walks",
+              "runs",
+              "bike rides",
+              "downhill skiing",
+              "hiking",
+              "hanging out with friends and family",
+              "visiting bucket list destinations"
+            ]
+          },
+          {
+            "comment_id": "335.11",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "retirement"
+            ]
+          },
+          {
+            "comment_id": "335.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "joint pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "swimming",
+              "leather crafting"
+            ]
+          },
+          {
+            "comment_id": "335.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.14",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "became a much more involved dad"
+            ]
+          },
+          {
+            "comment_id": "335.15",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "early retirement",
+              "volunteering",
+              "tutoring",
+              "pet sitting"
+            ]
+          },
+          {
+            "comment_id": "335.16",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "crafts",
+              "fishing",
+              "camping",
+              "hiking",
+              "reading",
+              "audio books",
+              "watching movies",
+              "writing"
+            ]
+          },
+          {
+            "comment_id": "335.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.20",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "joining online groups",
+              "volunteering at SPCA",
+              "shopping",
+              "making new recipes"
+            ]
+          },
+          {
+            "comment_id": "335.21",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "guitar",
+              "ukulele",
+              "crocheting",
+              "hunting",
+              "environmentalist volunteer"
+            ]
+          },
+          {
+            "comment_id": "335.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loss of vision",
+                  "timing": "during illness",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "'retired'",
+              "visiting with friends",
+              "eating well",
+              "listening to humorous podcasts",
+              "standup acts on Netflix",
+              "animal rescue"
+            ]
+          },
+          {
+            "comment_id": "335.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.25",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "painted",
+              "drew",
+              "crafted",
+              "learned a second language",
+              "put up fencing",
+              "wandered antique stores",
+              "remodeled portions of our house",
+              "went on trips",
+              "visited countless beaches",
+              "put in a giant pool",
+              "got a horse",
+              "built an arena",
+              "baled hay",
+              "attended every kid event",
+              "homeschooled for 2 years"
+            ]
+          },
+          {
+            "comment_id": "335.26",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "working from home",
+              "set short term goals and reach them",
+              "work around the house",
+              "volunteer"
+            ]
+          },
+          {
+            "comment_id": "335.27",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "volunteer",
+              "online organizing",
+              "data",
+              "outreach",
+              "social media",
+              "grant writing",
+              "rest",
+              "eat right",
+              "exercise",
+              "breathe"
+            ]
+          },
+          {
+            "comment_id": "335.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.30",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "hobbies"
+            ]
+          },
+          {
+            "comment_id": "335.31",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "traumatic brain injury",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "severe memory compromise",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "all flavors of pain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "working on a book manuscript",
+              "taking basic science courses"
+            ]
+          },
+          {
+            "comment_id": "335.32",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "genealogy"
+            ]
+          },
+          {
+            "comment_id": "335.33",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "eating low carbs"
+            ]
+          },
+          {
+            "comment_id": "335.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.36",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "writing in storyworth",
+              "creating playlists"
+            ]
+          },
+          {
+            "comment_id": "335.37",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "reading",
+              "gaming",
+              "fishing"
+            ]
+          },
+          {
+            "comment_id": "335.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.39",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.43",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "feel like complete and utter shit",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.47",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "playing ukulele"
+            ]
+          },
+          {
+            "comment_id": "335.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.49",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "blood in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "constipation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.50",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "most things don't taste like they used to",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.52",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "huge incision that still hurts",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stomach/esophagus is fucked",
+                  "timing": "post-radiation",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "eating soft foods",
+              "retirement"
+            ]
+          },
+          {
+            "comment_id": "335.53",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "fishing"
+            ]
+          },
+          {
+            "comment_id": "335.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.57",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "buy a motorbike"
+            ]
+          },
+          {
+            "comment_id": "335.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.60",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.61",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "335.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

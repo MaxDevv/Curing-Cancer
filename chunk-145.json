@@ -1,0 +1,736 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "360",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "weight gain of 20 kilos or 44 pounds in a year",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "water retention in hands making them feel like fat bags of water",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "breathlessness",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "wheezing",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "trouble getting shoes on, resulting in wearing oversized slippers",
+          "inability to exert self",
+          "needing to sit down for 5 minutes after going upstairs",
+          "exhaustion from bringing wood into the house"
+        ],
+        "comments": [
+          {
+            "comment_id": "360.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "permanent lower body muscle damage",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hot flashes",
+                  "timing": "during treatment (medical menopause)",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "crying for hours",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "anxiety",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "panic attacks",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumors affecting colon function",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "fixation on bowels",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "depression (possible)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unsure"
+                },
+                {
+                  "symptom": "feeling of going through the motions of life",
+                  "timing": "unknown",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "monotone",
+                  "timing": "unknown",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "sadness when looking back",
+                  "timing": "unknown",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "laziness or lack of motivation",
+                  "timing": "unknown",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "brain damage",
+                  "timing": "post-coma",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "inability to use whole sentences",
+                  "timing": "post-coma",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "weight loss due to deliberate starvation",
+                  "timing": "during career",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "forced retirement due to cancer"
+            ]
+          },
+          {
+            "comment_id": "360.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "push me pull me gut",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "neuropathy",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "decreased muscle mass to legs",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "slight short of breath upon exertion",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "can't barely walk"
+            ]
+          },
+          {
+            "comment_id": "360.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "weight gain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "death anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "waves of dread",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "worse because of cancer",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "loss of appetite resulting in weight loss",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "incontinence (shitting self)",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "neuropathy in feet up to ankles",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "neuropathy in fingertips",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "memory loss",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "confusion",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "difficulty concentrating",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "saying the wrong words",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "mood swings",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "cancer took working away"
+            ]
+          },
+          {
+            "comment_id": "360.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "insomnia",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "neuropathy in hands",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "aching hands",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "hands \"disappearing\"",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pins and needles in hands",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weight gain of 10lbs",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "round and bloated stomach",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "exhaustion",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "'moon face' due to steroids",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "lack of energy to tend garden, resulting in overgrown and messy garden"
+            ]
+          },
+          {
+            "comment_id": "360.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "extra long recovery times for minor injuries",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pulled muscle in shoulder leading to inability to move arm without blinding pain",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "coughing and mucous in the lungs",
+                  "timing": "post-covid",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tiredness",
+                  "timing": "post-covid",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "constant tiredness",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "inability to sleep more than 4 hours at a time",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "retired"
+            ]
+          },
+          {
+            "comment_id": "360.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "feeling voiceless and alone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "neuropathy in hands",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain in hands",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fear of cancer recurrence",
+                  "timing": "in remission",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "6 months off chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "bone pain",
+                  "timing": "long term chemo side effect",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "joint pain",
+                  "timing": "long term chemo side effect",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain with movement",
+                  "timing": "long term chemo side effect",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "inability to go to physical therapy"
+            ]
+          },
+          {
+            "comment_id": "360.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "radiation burn",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.23",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loss of endurance",
+                  "timing": "post-chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "unpredictable energy levels",
+                  "timing": "post-chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fear of cancer recurrence",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.28",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "muscle weakness",
+                  "timing": "lasting side effect",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "neuropathy",
+                  "timing": "lasting side effect",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "fear of cancer coming back",
+                  "timing": "post-chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.31",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hot flashes",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "migraines",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "depression",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "terrible hot flashes",
+                  "timing": "post-chemopause",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "emotionality",
+                  "timing": "post-chemopause",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "dry skin",
+                  "timing": "post-chemopause",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "cracked skin",
+                  "timing": "post-chemopause",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "runny nose",
+                  "timing": "post-chemopause",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "brittle fingernails",
+                  "timing": "post-chemopause",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "vertically breaking fingernails",
+                  "timing": "post-chemopause",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "panic attacks",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.36",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "devalued by family",
+                  "timing": "ongoing",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.40",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "insomnia",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "hangover",
+                  "timing": "post-alcohol",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.46",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "water retention caused by steroids",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "dyspnea due to lung cancer",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.57",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "constipation",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.66",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blocked up lungs with mucus/phlegm",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "thick and sticky mucus/phlegm",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "difficulty breathing",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "360.68",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tiredness after a single flight of stairs",
+                  "timing": "post-cancer",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

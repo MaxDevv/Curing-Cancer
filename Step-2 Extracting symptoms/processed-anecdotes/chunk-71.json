@@ -1,0 +1,403 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "208",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "208.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Oral SCC cancer",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Depression",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Panic attack",
+                  "timing": "after diagnosis of friend",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.27",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Radiation burns",
+                  "timing": "during radiation treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "208.33",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Skin on neck was raw",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Loss of taste",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Loss of feeling",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "215",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Tumors in spine",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "Cancer in two lymph nodes",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "215.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Cancer spread to spine",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Small nodules in lungs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Cancer spread to pelvic bone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Cancer spread to bone right above butt",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Small tumor on liver",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "215.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

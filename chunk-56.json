@@ -1,0 +1,759 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "179",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "179.1",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "smoking pot"
+            ]
+          },
+          {
+            "comment_id": "179.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Fatigue",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Pain due to arthritis flare",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Cancer tiredness",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.20",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Brain impairment",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.29",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Staying in bed",
+              "Taking a me day"
+            ]
+          },
+          {
+            "comment_id": "179.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.31",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Side effects of chemo",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.41",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Weight loss due to chemo",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Feeling like being poisoned every cycle",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Difficulty going up stairs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.42",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Tiredness",
+                  "timing": "after treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.45",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Chemo brain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.47",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Blank stare",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Indifference",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Fear",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Pain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.53",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Tiredness",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Sadness",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Frustration",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "179.54",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Gout attack",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Avoiding eating to not inconvenience roommate"
+            ]
+          },
+          {
+            "comment_id": "179.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "187",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Cancer on the brain",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "Panic attack in MRI machine",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "187.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "187.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "187.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "187.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "187.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "187.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "187.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "187.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "187.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "187.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "196",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "196.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.45",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Tumors",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "196.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

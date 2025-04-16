@@ -1,0 +1,590 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "338",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "hundreds of cancerous neuroendocrine tumors in the liver",
+              "timing": "diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "possible origin of the tumors in the colon",
+              "timing": "diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "liver 4x's the size it should be",
+              "timing": "diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "distended belly",
+              "timing": "diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "inability to eat",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "pain when full",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "pain during bowel movements",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "whole body hurts",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "whole stomach feels like it's badly bruised from the inside out",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "inability to get out of bed",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "sleeping the days away",
+          "considering donating all belongings"
+        ],
+        "comments": [
+          {
+            "comment_id": "338.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage IV cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "taking anxiety meds",
+              "taking pain killers",
+              "returning to work"
+            ]
+          },
+          {
+            "comment_id": "338.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "liver tumors metastatic from endometrial cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "liver pain (constant)",
+                  "timing": "3 weeks ago",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "unable to keep up with house keeping"
+            ]
+          },
+          {
+            "comment_id": "338.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 3a ovarian cancer",
+                  "timing": "new",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "advanced liver cancer",
+                  "timing": "diagnosis in January",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "elevated bilirubin (3.1)",
+                  "timing": "diagnosis in January",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "liver is 31cm",
+                  "timing": "diagnosis in January",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "15cm tumor, plus a lot of smaller ones in liver, 50% of liver covered in tumors",
+                  "timing": "diagnosis in January",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "weight loss (50lbs)",
+                  "timing": "since being diagnosed",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "trying to make the best of it",
+              "going out of the house",
+              "hanging out with friends",
+              "going for short walks"
+            ]
+          },
+          {
+            "comment_id": "338.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 cancer",
+                  "timing": "diagnosed in Feb",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "esophageal cancer spread to liver",
+                  "timing": "diagnosed in Feb",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "esophageal cancer spread to lungs",
+                  "timing": "diagnosed in Feb",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "esophageal cancer spread to thyroid",
+                  "timing": "diagnosed in Feb",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "living each day to its fullest",
+              "being thankful each day"
+            ]
+          },
+          {
+            "comment_id": "338.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "unknown symptoms",
+                  "timing": "4 years before diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "hundreds of NETs in liver (metastisized from small intestine)",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Carcinoid Syndrome",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "horrible debilitating symptoms from Carcinoid Syndrome",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "periodic surgeries",
+              "shot every few weeks to limit growth"
+            ]
+          },
+          {
+            "comment_id": "338.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "metastatic cancer",
+                  "timing": "father's diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tumors in liver",
+                  "timing": "father's diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 liver cancer",
+                  "timing": "aunt's diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "inability to stop the itch",
+                  "timing": "aunt's diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "inability to eat anything",
+                  "timing": "since April",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "trying low fat diets",
+              "trying gluten free diet",
+              "trying no dairy diet",
+              "trying digestive enzymes",
+              "small meals",
+              "sometimes protein shakes"
+            ]
+          },
+          {
+            "comment_id": "338.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.24",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe abdominal pain",
+                  "timing": "during pregnancy at 25 weeks",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "liver almost completely covered in tumors",
+                  "timing": "last MRI",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "ended pregnancy at 25 weeks"
+            ]
+          },
+          {
+            "comment_id": "338.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "elevated bilirubin, total and direct",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "338.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "347",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Lymphoma (Mantel Cell or DBLCL NH Lymphoma)",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "two tumor sites, both at lymph nodes on the left side",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "one tumor site has multiple little tumors",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "347.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "347.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hair loss",
+                  "timing": "week 2",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "terrible nausea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "constipation",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "bleeding",
+                  "timing": "after constipation",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "got a buzz cut in week 1",
+              "did not work"
+            ]
+          },
+          {
+            "comment_id": "347.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Mantle Cell Lymphoma",
+                  "timing": "diagnosis in November 2022",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "spleen is getting big",
+                  "timing": "during monitoring",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "spleen is at risk of rupturing",
+                  "timing": "during monitoring",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "347.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy in hands and feet",
+                  "timing": "after chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "continuing to work"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "352",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "very large clear cell meningioma",
+              "timing": "diagnosis 9 months ago",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "abnormal eye movements",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "facial numbness",
+              "timing": "subsequently after diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "drooling",
+              "timing": "subsequently after diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "352.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "352.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "352.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "352.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "352.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "352.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "352.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "352.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "352.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

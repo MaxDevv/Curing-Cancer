@@ -1,0 +1,356 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "460",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "tiredness",
+              "timing": "unknown",
+              "initially_perceived_as": "minor"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "460.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "constant pain",
+                  "timing": "pre-chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "mental exhaustion",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.11",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "journaling",
+              "attending support groups and therapy classes"
+            ]
+          },
+          {
+            "comment_id": "460.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.19",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "weight loss of 60 pounds",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "loss of function in hand",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "inability to use right leg",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "increased anger",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "exhaustion when moving from room to room",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "feeling like shit - physically and emotionally",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "post brain surgery",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.34",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "exhaustion",
+                  "timing": "current",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "current",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.38",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "exhaustion",
+                  "timing": "8 years pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "8 years pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.42",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "permanently fucked bones",
+                  "timing": "post diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "impaired brain function",
+                  "timing": "post diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "leg problems",
+                  "timing": "post diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "physical therapy",
+              "sleeping all day"
+            ]
+          },
+          {
+            "comment_id": "460.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "460.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

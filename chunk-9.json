@@ -1,0 +1,528 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "20",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Agony after femur removal",
+              "timing": "post-surgery",
+              "initially_perceived_as": "unexpected and severe"
+            },
+            {
+              "symptom": "High level of pain even with high pain tolerance",
+              "timing": "post-surgery",
+              "initially_perceived_as": "unexpected and severe"
+            },
+            {
+              "symptom": "Drainage due to chemo",
+              "timing": "current",
+              "initially_perceived_as": "expected"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Currently undergoing chemotherapy",
+          "Sleeping a lot due to chemotherapy"
+        ],
+        "comments": [
+          {
+            "comment_id": "20.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Pain",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "Sleepiness after hydromorphone administration",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "Unresponsiveness after hydromorphone administration",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "Inability to eat after hydromorphone administration",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "Inability to drink after hydromorphone administration",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "Unconsciousness",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "concerning"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.4",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Using meditation to cope with pain",
+              "Using distractions to cope with pain",
+              "Using cold showers to cope with pain"
+            ]
+          },
+          {
+            "comment_id": "20.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Agitation",
+                  "timing": "near death",
+                  "initially_perceived_as": "concerning"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Attending counseling",
+              "Listening to podcasts"
+            ]
+          },
+          {
+            "comment_id": "20.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Pain after APR surgery",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "severe"
+                },
+                {
+                  "symptom": "Anxiety after APR surgery",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "severe"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Pain",
+                  "timing": "current",
+                  "initially_perceived_as": "reminder of hope"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Pain",
+                  "timing": "current",
+                  "initially_perceived_as": "under-treated"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.27",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Keeping busy",
+              "Taking chemo"
+            ]
+          },
+          {
+            "comment_id": "20.28",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Starting frigid showers",
+              "Practicing meditation"
+            ]
+          },
+          {
+            "comment_id": "20.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "20.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "29",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Double vision",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerning"
+            },
+            {
+              "symptom": "Blurry vision",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerning"
+            },
+            {
+              "symptom": "Headaches",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerning"
+            },
+            {
+              "symptom": "Mass growing in head",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "shocking"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "29.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Doubled vision",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "Migraine that lasted 11 days",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "Big mass (tumor) in brain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerning"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Underwent chemo and radiation"
+            ]
+          },
+          {
+            "comment_id": "29.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Taking medication daily"
+            ]
+          },
+          {
+            "comment_id": "29.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.13",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Taking a long break from college",
+              "Leaving friends"
+            ]
+          },
+          {
+            "comment_id": "29.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "29.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "37",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Stage 4 Bladder Cancer that metastasized to the bone",
+              "timing": "current",
+              "initially_perceived_as": "serious"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "37.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "37.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Balance issues",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "Inability to walk quickly",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "Slow processing",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerning"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "75",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "75.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "75.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "76",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "76.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "76.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "76.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "85",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    },
+    {
+      "post": {
+        "post_id": "177",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "269",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "absence of symptoms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "not applicable"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "269.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "absence of symptoms",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "not applicable"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nausea",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lack of appetite",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "finding foods that are tolerable during treatment",
+              "drinking iced tea during chemo week",
+              "eating life savers during chemo week",
+              "trying marijuana gummies for nausea and lack of appetite",
+              "daily exercise, even during chemo days"
+            ]
+          },
+          {
+            "comment_id": "269.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "GI funniness",
+                  "timing": "post-operation",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "avoiding dairy",
+              "avoiding red meat"
+            ]
+          },
+          {
+            "comment_id": "269.7",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "talking to people with or without cancer experience",
+              "building a support network",
+              "avoiding staying in bed and rotting"
+            ]
+          },
+          {
+            "comment_id": "269.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "headache",
+                  "timing": "during cancer treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "insomnia",
+                  "timing": "during cancer treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "muscle twitches",
+                  "timing": "during cancer treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "diarrhea",
+                  "timing": "during cancer treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "being open with doctors about all symptoms"
+            ]
+          },
+          {
+            "comment_id": "269.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.13",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "leaning on family and friends",
+              "talking things out",
+              "writing things out",
+              "avoiding googling and doomscrolling"
+            ]
+          },
+          {
+            "comment_id": "269.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bad reaction to chemotherapy",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "following the Joe Tippens protocol for Ivermectin and Fembendazole"
+            ]
+          },
+          {
+            "comment_id": "269.18",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "drinking lots of water",
+              "listening to your body",
+              "eating applesauce",
+              "eating chicken",
+              "eating potatoes"
+            ]
+          },
+          {
+            "comment_id": "269.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.27",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "low hemoglobin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "low RBC (red blood cell count)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "super low blood iron",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "269.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "272",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "272.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "jaundice",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "enjoying grandchildren",
+              "roller skating"
+            ]
+          },
+          {
+            "comment_id": "272.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weakness",
+                  "timing": "stage 4",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "persistent fever",
+                  "timing": "late stage",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "infection after infection",
+                  "timing": "late stage",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "diabetes",
+                  "timing": "post liver transplant",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "difficulty putting on weight",
+                  "timing": "post surgery",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "diabetes",
+                  "timing": "post surgery",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.14",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "needing a nap most days",
+                  "timing": "current",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "residual brain fog",
+                  "timing": "current",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "high bilirubin",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "jaundice",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "spread to peritoneum",
+                  "timing": "pre-diagnosis, stage 4",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.27",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "picked up roller skating again"
+            ]
+          },
+          {
+            "comment_id": "272.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fatigue while doing yard work",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "jaundice",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "pain under left rib cage",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.37",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumor grown through veins",
+                  "timing": "initial diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "272.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

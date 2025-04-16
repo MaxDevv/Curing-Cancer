@@ -1,0 +1,608 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "214",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "pneumonia",
+              "timing": "at death",
+              "initially_perceived_as": "cause of death"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "214.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.34",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lung cancer (EGFR - stage IV)",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.42",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "duodenal cancer (stage 3)",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "breast cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.60",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.61",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.66",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pneumonia",
+                  "timing": "at death",
+                  "initially_perceived_as": "cause of death"
+                },
+                {
+                  "symptom": "lung cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.67",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.68",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.69",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.70",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.71",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.72",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.73",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.74",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "214.75",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "217",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "217.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 renal cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "loss of kidney",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "loss of leg",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 brain cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "217.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "238",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "238.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "238.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "238.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "238.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "238.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "238.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "238.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "459",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "459.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "459.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

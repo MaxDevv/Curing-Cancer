@@ -1,0 +1,770 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "334",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "334.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling damaged in a way that makes one feel less appealing to a partner",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "burned skin",
+                  "timing": "during pelvic radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "exercise to improve circulation"
+            ]
+          },
+          {
+            "comment_id": "334.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "didn't immediately feel arousal in body the way I used to",
+                  "timing": "after treatment",
+                  "initially_perceived_as": "distressing"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "used dilators to help relax the tissues for penetration",
+              "had sex with a sweet, patient, and reassuring partner"
+            ]
+          },
+          {
+            "comment_id": "334.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "no desire for sex",
+                  "timing": "once ovaries were removed",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.7",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "work with her care team to alleviate symptoms",
+              "live her life"
+            ]
+          },
+          {
+            "comment_id": "334.8",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "learn how the treatment might affect the ovaries"
+            ]
+          },
+          {
+            "comment_id": "334.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe burns",
+                  "timing": "during pelvic radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "use localized pain creams and other meds",
+              "used a spacer or dilator to help minimize internal damage during radiation sessions & it also helped after treatment was over",
+              "patiently working at it for months to have tissue not be permanently compromised or damaged"
+            ]
+          },
+          {
+            "comment_id": "334.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "definite GI issues",
+                  "timing": "during and months after treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tightness at the top of the vagina",
+                  "timing": "when started back up",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "had regular sex",
+              "use lots of lube",
+              "lots of foreplay"
+            ]
+          },
+          {
+            "comment_id": "334.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pelvic radiation ruined my sex life",
+                  "timing": "9 months since finished radiation",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "radiation is going to literally burn everything down there",
+                  "timing": "during radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "recommended pelvic floor physical therapy to help with getting things better afterwards"
+            ]
+          },
+          {
+            "comment_id": "334.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "scar tissue that developed from radiation and surgery",
+                  "timing": "a year later",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "talk to her doctor about pelvic floor therapy DURING radiation treatment"
+            ]
+          },
+          {
+            "comment_id": "334.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feel damaged",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feel as if I've aged significantly",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feel tainted",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bleeding profusely from penetration",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "a bit tight initially",
+                  "timing": "during penetration",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "radiation has clearly left the vaginal walls in a bit of a mess",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.28",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "internal scar tissue",
+                  "timing": "post surgery",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "blood vessels are more pronounced to the vaginal tissue",
+                  "timing": "post surgery",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "chance of bleeding",
+                  "timing": "post surgery",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "don't really have the energy to pursue a relationship",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.30",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "moisturizing vaginal walls often and not just while dilating",
+              "use coconut oil"
+            ]
+          },
+          {
+            "comment_id": "334.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.33",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "look into pelvic floor physical therapy",
+              "ask her doctor about hormone replacement therapy"
+            ]
+          },
+          {
+            "comment_id": "334.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.37",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Have her oncology team prescribe HRT"
+            ]
+          },
+          {
+            "comment_id": "334.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.40",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "use estrogen cream"
+            ]
+          },
+          {
+            "comment_id": "334.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "334.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "341",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "diarrhoea",
+              "timing": "4+ years before diagnosis",
+              "initially_perceived_as": "IBS"
+            },
+            {
+              "symptom": "cramps",
+              "timing": "4+ years before diagnosis",
+              "initially_perceived_as": "IBS"
+            },
+            {
+              "symptom": "pain",
+              "timing": "4+ years before diagnosis",
+              "initially_perceived_as": "IBS"
+            },
+            {
+              "symptom": "nasty diarrhoea",
+              "timing": "after diagnosis",
+              "initially_perceived_as": "impossible to have carcinoid syndrome"
+            },
+            {
+              "symptom": "flushing",
+              "timing": "after diagnosis",
+              "initially_perceived_as": "impossible to have carcinoid syndrome"
+            },
+            {
+              "symptom": "palpitations",
+              "timing": "after diagnosis",
+              "initially_perceived_as": "impossible to have carcinoid syndrome"
+            },
+            {
+              "symptom": "tachycardia",
+              "timing": "after diagnosis",
+              "initially_perceived_as": "impossible to have carcinoid syndrome"
+            },
+            {
+              "symptom": "wheezing",
+              "timing": "after diagnosis",
+              "initially_perceived_as": "impossible to have carcinoid syndrome"
+            },
+            {
+              "symptom": "symptoms to Carcinoid Syndrome started again",
+              "timing": "as time went on after meds were stopped",
+              "initially_perceived_as": "NET team didn't believe me"
+            },
+            {
+              "symptom": "problems with blood sugar",
+              "timing": "between the Lanreotide/octreotide and the disease",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "asthma",
+              "timing": "between the Lanreotide/octreotide and the disease",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "digestion problems",
+              "timing": "between the Lanreotide/octreotide and the disease",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "ulcers",
+              "timing": "between the Lanreotide/octreotide and the disease",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "exhaustion, mentally and physically",
+              "timing": "after seeing \"incurable\" in writing",
+              "initially_perceived_as": "major"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "sepsis from a leaky anastomoses",
+              "timing": "after primary was removed",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "341.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "GI issues",
+                  "timing": "before diagnosis",
+                  "initially_perceived_as": "ignored or wrote off"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "couldn't stop vomiting",
+                  "timing": "before diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "full body itching",
+                  "timing": "before diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "turned yellow",
+                  "timing": "before diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "341.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "341.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "344",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "mouth sores on tongue",
+              "timing": "during chemo",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "increased sensitivity",
+              "timing": "during chemo",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "prescribed the \"magic mouthwash\""
+        ],
+        "comments": [
+          {
+            "comment_id": "344.1",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "swishing with salt water"
+            ]
+          },
+          {
+            "comment_id": "344.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "tried Biotene mouth wash"
+            ]
+          },
+          {
+            "comment_id": "344.3",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "used magic mouthwash"
+            ]
+          },
+          {
+            "comment_id": "344.4",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "used mycostatin"
+            ]
+          },
+          {
+            "comment_id": "344.5",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "oral B makes a mouth rinse for mouth sores as well"
+            ]
+          },
+          {
+            "comment_id": "344.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "prescribed Sucralfate"
+            ]
+          },
+          {
+            "comment_id": "344.7",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Chloraseptic throat spray"
+            ]
+          },
+          {
+            "comment_id": "344.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "burned his whole mouth",
+                  "timing": "when he tried a dab of Bleu cheese",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "constricted breathing",
+                  "timing": "before treatment started",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "lost 55 lbs",
+                  "timing": "to date",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "treatment with a Peg"
+            ]
+          },
+          {
+            "comment_id": "344.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "344.10",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Dexamethasone 0.5mg/5ml Elixir"
+            ]
+          },
+          {
+            "comment_id": "344.11",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "magic mouthwash",
+              "saltwater",
+              "coconut oil"
+            ]
+          },
+          {
+            "comment_id": "344.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "344.13",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Lidocaine mouthwash"
+            ]
+          },
+          {
+            "comment_id": "344.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "344.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "344.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "344.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "344.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "constant dry throat",
+                  "timing": "after stroke",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Biotine mouthwash and the cough drops"
+            ]
+          },
+          {
+            "comment_id": "344.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "344.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "357",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "cancer spread to his lungs with several mets",
+              "timing": "Late November 2024",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "started chemo and immunotherapy at the end of November"
+        ],
+        "comments": [
+          {
+            "comment_id": "357.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "357.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "357.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "colon cancer",
+                  "timing": "2 months before departure",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "neutropenia",
+                  "timing": "after chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "blood counts dropped precipitously",
+                  "timing": "after chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "357.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "357.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "357.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "talk to the doc to see if they can push the chemo session till after the trip"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

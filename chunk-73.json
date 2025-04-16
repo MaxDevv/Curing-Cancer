@@ -1,0 +1,444 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "210",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "tumor mass needing reduction",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "chemo damaging blood",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "pain",
+              "timing": "current",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "210.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "getting thinner and thinner",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "worse and worse health condition",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "high CA-125 score",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "a bunch of other health issues that can be cancer-related",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumors were growing",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "agonizing pain",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "serious symptoms",
+                  "timing": "current",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "suicidal ideations",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.27",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "massive tumour (27cm^3)",
+                  "timing": "pre-surgery",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "uncertainty",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "depression",
+                  "timing": "post-chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "suicidal thoughts",
+                  "timing": "post-chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.36",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "exhaustion",
+                  "timing": "recent",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "asthma acts up",
+                  "timing": "recent",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "waking up tired, despite seven to eight hours of sleep",
+                  "timing": "until fairly recently",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "feeling under the weather",
+                  "timing": "recent",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.42",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stress",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.44",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "brushes with depression",
+                  "timing": "past",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "brushes with anxiety",
+                  "timing": "past",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.45",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weak knees",
+                  "timing": "current",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "pain in knees",
+                  "timing": "current",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "pain in right thigh",
+                  "timing": "current",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "210.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

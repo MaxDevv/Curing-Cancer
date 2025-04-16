@@ -1,0 +1,424 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "392",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "blood clot in the lungs",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "blood clot in the pelvis",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "inability to swallow",
+              "timing": "during treatment",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "low red blood cell count",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "low platelet count",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "392.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "C. Diff",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nose bleeds",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "minor nose bleeds",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "392.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "clot in lungs making it hard to do pretty much anything without being out of breath",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "393",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "393.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumor in face, growing 4cm in 2 months",
+                  "timing": "during recurrence",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "potential loss of hearing",
+                  "timing": "during recurrence",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "potential loss of right eye",
+                  "timing": "during recurrence",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "potential loss of taste",
+                  "timing": "during recurrence",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "potential inability to eat",
+                  "timing": "during recurrence",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "potential inability to speak",
+                  "timing": "during recurrence",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "potential inability to swallow",
+                  "timing": "during recurrence",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "everything hurts",
+                  "timing": "during recurrence",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "throat is still FUCKED up from radiation destroying my saliva glands",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "taste buds shot, gone",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "no real feeling in both feet",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "hands tremble all the time",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "PSA is 11.2",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "intense shoulder pain",
+                  "timing": "pre-diagnosis of recurrence",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "wonky blood counts",
+                  "timing": "pre-diagnosis of recurrence",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "393.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "428",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "poor health",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "428.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "428.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "428.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,837 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "362",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "severe intermittent pain",
+              "timing": "current",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "nausea induced by severe pain",
+              "timing": "current",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "debilitation induced by severe pain",
+              "timing": "current",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "using Kratom supplement for breakthrough pain",
+          "considering morphine for pain relief",
+          "referred to 'Symptom Management' for pain management"
+        ],
+        "comments": [
+          {
+            "comment_id": "362.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "constipation (potential side effect from tramadol and naproxen)",
+                  "timing": "pre-chemo",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "using a cushion with a cutout for the tailbone"
+            ]
+          },
+          {
+            "comment_id": "362.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "relatively minor pain",
+                  "timing": "current",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "prolapsed hemorrhoid",
+                  "timing": "current",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "taking codeine every 4 hours"
+            ]
+          },
+          {
+            "comment_id": "362.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain",
+                  "timing": "current",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "broken hip",
+                  "timing": "after going home",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "fractured vertebrae in lower back",
+                  "timing": "after going home",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "using hydromorphone 4mg daily",
+              "using fentanyl 50mcg every 3 days"
+            ]
+          },
+          {
+            "comment_id": "362.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "went from Oxycodone 5mg 4 times a day to Methadone 5mg 2 times a day with Oxycodone to bridge"
+            ]
+          },
+          {
+            "comment_id": "362.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "worst bone pain during chemo",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "worst muscle pain during chemo",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "seeking alternatives to opioid painkillers",
+              "using Lyrica for nerve relaxation"
+            ]
+          },
+          {
+            "comment_id": "362.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "rib pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain",
+                  "timing": "lead-up to diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "contacting oncologist's nurse practitioner if pain is not managed well"
+            ]
+          },
+          {
+            "comment_id": "362.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.20",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nausea caused by Dilaudid",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "switched from Dilaudid to codeine because Dilaudid was too strong"
+            ]
+          },
+          {
+            "comment_id": "362.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.24",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "potential nausea during chemo",
+                  "timing": "potential",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "took Dialudid due to allergies to other pain meds",
+              "cut back on medications when feeling better"
+            ]
+          },
+          {
+            "comment_id": "362.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "renal impairment (problem with Morphine)",
+                  "timing": "while on morphine",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "impacted feces, hard to get it out",
+                  "timing": "while on morphine",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "taking anti-diarrhea medicine"
+            ]
+          },
+          {
+            "comment_id": "362.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "current",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "nausea induced by pain",
+                  "timing": "current",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "weakness induced by pain",
+                  "timing": "current",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "meeting with Palliative care doctor to ask for stronger medication"
+            ]
+          },
+          {
+            "comment_id": "362.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.29",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "keeping a journal to track pain and general well being",
+              "reporting all herbal remedies to the provider"
+            ]
+          },
+          {
+            "comment_id": "362.30",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "compiling a list of meds to ask about (Dilaudid, Morphine, Fentanyl)"
+            ]
+          },
+          {
+            "comment_id": "362.31",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "taking hydrocodone, high dose acetaminophen, ibuprofen, and cyclobenzaprine along with gabapentin",
+              "using Kratom supplement"
+            ]
+          },
+          {
+            "comment_id": "362.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "362.33",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "muscle strain",
+                  "timing": "recent",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "took one pain pill per day for three days for muscle strain"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "368",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "enormous increase in floaters",
+              "timing": "a few weeks ago",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "colored haze over vision",
+              "timing": "a few weeks ago",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "368.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "blurry vision",
+                  "timing": "throughout chemo",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blurry vision",
+                  "timing": "during chemotherapy",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "inability to read",
+                  "timing": "during chemotherapy",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "inability to drive",
+                  "timing": "during chemotherapy",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "blurry vision",
+                  "timing": "with chemotherapy",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "dizziness",
+                  "timing": "while taking compazine",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "unsteady on feet",
+                  "timing": "while taking compazine",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "vision loss",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "white balance off",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "yellowish tint in vision",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "migraine aura without migraine",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "partly vision loss",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "flashes of bright light in peripheral vision",
+                  "timing": "halfway through chemo",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "went to eye doctors every 4 weeks"
+            ]
+          },
+          {
+            "comment_id": "368.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "extremely blurry vision",
+                  "timing": "during and after chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "migraines",
+                  "timing": "during and after chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "seeing floating stars",
+                  "timing": "during and after chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "vision getting darker when excited or laughing hard",
+                  "timing": "during and after chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.9",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "consulting with a neurologist if symptoms continue"
+            ]
+          },
+          {
+            "comment_id": "368.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pin and needles (vision snow)",
+                  "timing": "since starting chemo",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "film in eyes",
+                  "timing": "every morning",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "blurry vision due to film in eyes",
+                  "timing": "every morning",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "increase of floaters",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "vision distorted during migraine aura",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cataracts",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "one lens replaced"
+            ]
+          },
+          {
+            "comment_id": "368.14",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "blurry vision",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "worsened astigmatism in right eye",
+                  "timing": "over years of treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "auras",
+                  "timing": "near the end of chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "window shade effect (top half of vision gone)",
+                  "timing": "near the end of chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "got a new prescription for glasses"
+            ]
+          },
+          {
+            "comment_id": "368.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blurry vision",
+                  "timing": "since last September",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "hazy vision",
+                  "timing": "since last September",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loads of floaters",
+                  "timing": "during chemotherapy",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "tinnitus",
+                  "timing": "during chemotherapy",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "optic edema",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "blurred vision",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "more phosphenes than normal",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.21",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "aura",
+                  "timing": "during first appointment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.22",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "flashes of light in peripheral vision",
+                  "timing": "during last three infusions",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.24",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "colored cloud flickering over vision",
+                  "timing": "current chemo cycle",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "blurry vision",
+                  "timing": "previous chemo cycle",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "aura changes",
+                  "timing": "cycle 2 of 6 of AIM",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "progressively worse vision",
+                  "timing": "since chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "worried about small stroke"
+            ]
+          },
+          {
+            "comment_id": "368.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blurry eyes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "film in eyes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "feeling of something stuck in eyes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.27",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "looking through colored smoke/haze",
+                  "timing": "while going through chemo cycle of Dexamethason/vinblastine/daunorubicine/pegaspargase",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "368.28",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "eyes dilated",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "using scopolamine for nausea"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

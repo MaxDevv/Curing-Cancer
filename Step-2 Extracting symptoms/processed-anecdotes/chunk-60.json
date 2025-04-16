@@ -1,0 +1,550 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "185",
+        "symptoms": {
+          "minor": []
+        },
+        "lifestyle_changes": [
+          "Becoming more selective in social life",
+          "Stopped initiating contact with many people",
+          "Learning to be more selective in social life"
+        ],
+        "comments": [
+          {
+            "comment_id": "185.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Feeling scared",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.2",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.3",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Grieving the loss of friends",
+              "Moving on from lost friendships",
+              "Didn't tell new friends about cancer"
+            ]
+          },
+          {
+            "comment_id": "185.4",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Quitting social media",
+              "Having more time to oneself"
+            ]
+          },
+          {
+            "comment_id": "185.5",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.6",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Heart attack",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "No longer updating anyone",
+              "Finding more support from the reddit cancer community",
+              "Stopped dedicating life to and loving unconditionally those who cared zero",
+              "Taking ubers to appointments",
+              "Doing everything alone"
+            ]
+          },
+          {
+            "comment_id": "185.8",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Narrow poops",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Difficulty going to the bathroom at all",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Permanent damage from radiation",
+                  "timing": "during/post-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Having to wear a diaper some days due to radiation damage",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Inability to go to the bathroom at all some days due to radiation damage",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.10",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.11",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.12",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.13",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.14",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.15",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Stopped reaching out to friends if there's no reciprocation",
+              "Doing a lot of stuff alone"
+            ]
+          },
+          {
+            "comment_id": "185.16",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.17",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.18",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Not planning to tell anyone about their diagnosis"
+            ]
+          },
+          {
+            "comment_id": "185.19",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.20",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.21",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Feeling tired",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.23",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.24",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.25",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.26",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Stopped chasing people",
+              "Stopped craving a big social life",
+              "Preferring a small circle of close friends"
+            ]
+          },
+          {
+            "comment_id": "185.27",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.28",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.29",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.30",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Focusing only on those who give a shit"
+            ]
+          },
+          {
+            "comment_id": "185.31",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.32",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Can't do former hobbies of going to the gym or salsa dancing"
+            ]
+          },
+          {
+            "comment_id": "185.33",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "No longer able to enjoy hobbies of going to the gym or salsa dancing",
+              "Stopped trying to build a social life",
+              "Preferring a few good friends rather than many superficial contacts"
+            ]
+          },
+          {
+            "comment_id": "185.34",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.35",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.36",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Left the WhatsApp chat with colleagues",
+              "Stopped going to salsa parties and the gym",
+              "Faded away for most people"
+            ]
+          },
+          {
+            "comment_id": "185.37",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.38",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.39",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.40",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.41",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Losing friends made at rock climbing",
+              "Planning to volunteer to help (young) cancer patients as soon as recovered"
+            ]
+          },
+          {
+            "comment_id": "185.42",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Depression",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Going by themselves to all of their appointments",
+              "Thinking of checking out support groups"
+            ]
+          },
+          {
+            "comment_id": "185.43",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Depression",
+                  "timing": "after getting fired",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Suffering some lingering issues",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Hunting for work"
+            ]
+          },
+          {
+            "comment_id": "185.44",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.45",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.46",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Low immunity",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Avoiding crowds or being cautious around people to not get infections",
+              "Lost most of muscle",
+              "Lost most of contacts",
+              "Planning to make a new start once able to",
+              "Wanting to lift weights again",
+              "Focusing on running"
+            ]
+          },
+          {
+            "comment_id": "185.47",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Low immunity",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Doctor thinks it's too early to participate in the AYA group due to low immunity"
+            ]
+          },
+          {
+            "comment_id": "185.48",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.49",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.50",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.51",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Walking the dog each day"
+            ]
+          },
+          {
+            "comment_id": "185.52",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.53",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Low immunity",
+                  "timing": "currently",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Can't go to the gym due to the risk of infection",
+              "Lost muscle",
+              "Taking a walk in nature",
+              "Running two miles at a time to not overdo it"
+            ]
+          },
+          {
+            "comment_id": "185.54",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "185.55",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "Focusing on trying to let go of control",
+              "Trying to embrace the situation while staying hopeful",
+              "Focusing on life lessons learnt"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "388",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "experiencing alot of pms/pmds symptoms days before period came and even now after its gone",
+              "timing": "after chemo",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "sleep disruption",
+              "timing": "after chemo",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "waking more during the night",
+              "timing": "after chemo",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "symptoms of menopause",
+              "timing": "on chemo",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "388.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "extremely irregular period",
+                  "timing": "after finishing chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "taking birth control"
+            ]
+          },
+          {
+            "comment_id": "388.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "irregular periods",
+                  "timing": "first few periods after temporary menopause",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "hot flushes",
+                  "timing": "during treatment and for a few months after",
+                  "initially_perceived_as": "major"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "388.3",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "388.4",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "388.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling cold most of the time",
+                  "timing": "during perimenopause and cancer",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "hot flashes, especially at night",
+                  "timing": "during perimenopause and cancer",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "388.6",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "388.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "no period",
+                  "timing": "six or seven months after injections stopped",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stopped having sweats",
+                  "timing": "a few weeks before period began again",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "388.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sweating",
+                  "timing": "at the time of menopause",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "glasses steamed up a bit",
+                  "timing": "at the time of menopause",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "damp forehead",
+                  "timing": "at the time of menopause",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "HRT (Hormone Replacement Therapy)"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "391",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "lesion on the side of tongue",
+              "timing": "a couple months ago, pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "pain in the tongue sometimes",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "lesion on the side of tongue got bigger",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "391.1",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.2",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.3",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lesion on tongue that didn't get better",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "speech was a bit funny after surgery",
+                  "timing": "after surgery",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "feeling really rough for a week or so",
+                  "timing": "after surgery",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "difficulty eating",
+                  "timing": "after surgery",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "skin turned dark",
+                  "timing": "during radiotherapy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "had an NG tube after surgery",
+              "took a leave of absence from college"
+            ]
+          },
+          {
+            "comment_id": "391.6",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.7",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.8",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.9",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.10",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.11",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.12",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.13",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.14",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.15",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "chemo brain",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "started school again and did online classes"
+            ]
+          },
+          {
+            "comment_id": "391.17",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.18",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.19",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "leukoplakia like patch that's been coming and going",
+                  "timing": "for almost a year",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "ulcers coming and going the same side of the tongue",
+                  "timing": "recently",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "small white patch on tongue",
+                  "timing": "recent",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.20",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.21",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.22",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "can't feel any taste at all",
+                  "timing": "3 weeks since radiotherapy",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.24",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tongue and taste have forever changed",
+                  "timing": "after surgery and radiation",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "withdrew from college last semester"
+            ]
+          },
+          {
+            "comment_id": "391.25",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "related pain in face and neck",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "dry mouth cough all night",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "need to drink fluids when eating",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "tape mouth shut every night"
+            ]
+          },
+          {
+            "comment_id": "391.26",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.27",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.28",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.29",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.30",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.31",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.32",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.33",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.34",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tongue shouldn't hurt",
+                  "timing": "when you wake up after surgery",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "other things hurt like hell",
+                  "timing": "after surgery",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.35",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.36",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.37",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "391.38",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tastebuds are recovering and mostly I think things taste normal these days",
+                  "timing": "after radiation and chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "395",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "quiet",
+              "timing": "due to cancer and chemo symptoms",
+              "initially_perceived_as": "negative"
+            },
+            {
+              "symptom": "not as social as I used to be",
+              "timing": "due to cancer and chemo symptoms",
+              "initially_perceived_as": "negative"
+            },
+            {
+              "symptom": "basic things like having a conversation are hard",
+              "timing": "unknown",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "pain",
+              "timing": "pre-diagnosis and during current program",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "walking around looking five months pregnant",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "passed out during rounds",
+              "timing": "during current program",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "struggled with basic presentations",
+              "timing": "during current program",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "constant 9/10 pain",
+              "timing": "during current program",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "heart failure",
+              "timing": "January 2022",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "avoid talking about my diagnosis"
+        ],
+        "comments": [
+          {
+            "comment_id": "395.1",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "take a leave of absence"
+            ]
+          },
+          {
+            "comment_id": "395.2",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "395.3",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "395.4",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "395.5",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "395.6",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "395.7",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "395.8",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "259",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "feeling unwell",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "uprooted from work day",
+          "went to lunch and ran errands after blood labs",
+          "stopped working in Korea",
+          "stopped living in apartment in Korea"
+        ],
+        "comments": [
+          {
+            "comment_id": "259.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sinus-like symptoms",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "mucus",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "irritated cough",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "tonsil cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "went to the doctor 5 times over a year",
+              "went to an ENT specialist"
+            ]
+          },
+          {
+            "comment_id": "259.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "loss of right-sided hearing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "bruising",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "dizziness every time moved",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "vomiting every time moved",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "benign brain tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "pulled an allnighter",
+              "studied neuroscience"
+            ]
+          },
+          {
+            "comment_id": "259.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "leukemia",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "259.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "joint pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "general weakness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "headaches at the same time every day",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "meningitis/encephalitis",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lump in armpit",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stroke-like event",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stage 4B Hodgkin's",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "bleomycin pulmonary toxicity",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "prescribed ibuprofen",
+              "hospitalized"
+            ]
+          },
+          {
+            "comment_id": "259.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "shortness of breath",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "fevers",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "lung nodules",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "wonky bloodwork",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "adenopathy in the lymph nodes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "blood infection",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stage 4B Hodgkin's Lymphoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "switching from an injectable MS med to an oral form",
+              "had a bunch of labwork done",
+              "referred to an oncologist",
+              "referred to an infectious disease specialist",
+              "undergoing chemo every two weeks",
+              "had issues with infection"
+            ]
+          },
+          {
+            "comment_id": "259.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "heavy GI symptoms",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "stopped eating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "plummeting energy levels",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "a little bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "internal hemorrhoid",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "cloudy head",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "almost constant confusion",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "nearly blacking out when bending over a few inches",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "extremely low blood volume",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "bleeding a lot",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "ashen skin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sunken eyes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "hemoglobin count of 5.8",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "working in an extremely physically demanding job",
+              "waited two more days to get the lab work done",
+              "had to work overtime",
+              "admitted to the hospital with a hemoglobin count of 5.8",
+              "NG tube and checked my stomach for blood",
+              "did an endoscopy, checking my upper GI track",
+              "prepped for a colonoscopy"
+            ]
+          },
+          {
+            "comment_id": "259.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fever",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "sweats constantly",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "sweating",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "infection",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tumors",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lymphoma",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "massive dental work done due to a medication that one of them gave me called Gabapentin",
+              "radiation",
+              "bone marrow biopsy",
+              "surgery"
+            ]
+          },
+          {
+            "comment_id": "259.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bloaty",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "'not feeling right'",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "could feel the blasted thing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "big ass tumor in pelvis",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "LDH level in the Liver Function Test",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stage IIIA Ovarian Dysgerminoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "surgery",
+              "canceled a holiday",
+              "3 cycles (9 weeks) of BEP"
+            ]
+          },
+          {
+            "comment_id": "259.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "leukaemia",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "259.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "mass found",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stage three colorectal cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "259.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lymphoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "259.21",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "getting weaker and weaker",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "took enough ibuprofen to damage my stomach"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "280",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "280.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "bed pissing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "tumor around ureter",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "280.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "easily short of breath all of a sudden",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "fast heart beat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "chills",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "heavy menstrual period",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "easy bruising",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "headaches",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "weakness in limbs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "dizziness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "bleeding gums (blood pooled on pillow)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "acute promyelocytic leukemia (APL or APML)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "280.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sheet-drenching night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "pale skin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "urge to pee at least every two hours (even at night)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "fast, unexplained weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "280.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "high-ish fever",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "swollen spleen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "280.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lethargy",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "paleness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "a little tightness in my chest when I breathed deeply",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "weight loss of 25 pounds",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "280.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hemoglobin was 4.6",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "white blood cell count upon admission was about 2.5k ABS",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "platelets were 5kABS",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

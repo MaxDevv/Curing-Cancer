@@ -1,0 +1,478 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "435",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "at least three lesions in the brain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "neurological symptoms that got worse over the course of no more than 20 days",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "weak left leg",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "slight confusion",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "435.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumour removed from brain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "neuro symptoms",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ,
+                {
+                  "symptom": "tumors will continue to show up",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+              },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "435.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "435.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "436",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "incredible joint pain and stiffness",
+              "timing": "post-treatment",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "inflammation",
+              "timing": "post-treatment",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "significant debilitating pain",
+              "timing": "post-treatment",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "difficulty breathing",
+              "timing": "during treatment",
+              "initially_perceived_as": "dismissed"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "436.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "difficulty with walking",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "arthritis in the spine",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "arthritis in the joints",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mild IBS",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "itching all the time",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "spine will never not hurt",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "hips will never not hurt",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "joint pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe joint pain, specifically in hips, knees and ankles",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "ankles even giving out",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "VERY dry skin",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "thyroid issues",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "arthritis flares",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "muscle cramping",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain walking",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "very aggressive joint pain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "436.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "437",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "invasive poorly differentiated carcinoma consistent with a GI primary in the biopsy from the second portion of her duodenum",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "blockage blocking a bile duct",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "437.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "small duodenum tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe constipation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lots of pain under right ribcage",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "bile duct is blocked or narrowed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lots of pressure",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "swollen abdomen causing hiatal hernia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer cells, no tumor",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.24",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "very fatigued",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "doesn't want to eat",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "437.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blockage issues",
+                  "timing": "pre-treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

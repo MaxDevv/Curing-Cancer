@@ -1,0 +1,1052 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "211",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Tumour in bowel",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "tumour spread to liver",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "liver on the verge of failure",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "211.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "failing kidney",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage IV lung cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 colon cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mets to liver and lung",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage IV metastatic melanoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "melanoma in liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "melanoma in brain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "liver covered in 80% tumor",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 pancreatic cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4, liver mets size of golf ball",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 colorectal cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 rectal cancer with lung and now bone metastasis",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "anxiety has gotten worse",
+              "experiencing depression",
+              "loss of drive",
+              "loss of interest",
+              "loss of want"
+            ]
+          },
+          {
+            "comment_id": "211.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 colorectal cancer with lung and liver mets",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "removal of the rectum",
+              "incontinence (sometimes poop myself)"
+            ]
+          },
+          {
+            "comment_id": "211.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 Ovarian Cancer diagnoses",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 3 Colon cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "issues with depression",
+              "lost finger dexterity"
+            ]
+          },
+          {
+            "comment_id": "211.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage four colon cancer with mets to liver and bone",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "crippling depression"
+            ]
+          },
+          {
+            "comment_id": "211.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 esophagus and liver cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.24",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "exercise",
+              "meditation",
+              "diet revolving around anti-cancer foods",
+              "manage stress"
+            ]
+          },
+          {
+            "comment_id": "211.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.28",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.29",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "mets to about 60% of liver",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "less than a year away from liver failure",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.30",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 colon cancer with mets to liver and lungs",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.33",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "medulloblastoma",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.35",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 colon cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.40",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 bowel with liver mets",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.41",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 colorectal Mets to liver",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.60",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "kidneys requiring another surgery",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "quit cigarettes",
+              "weight loss of 30lbs",
+              "exercises nightly",
+              "started walking half an hour to improve cardiac and pulmonary health"
+            ]
+          },
+          {
+            "comment_id": "211.61",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.62",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "too much of liver was gone",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.63",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bowel obstruction",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.64",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "couldn't keep food down",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "mass on the liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sygmoid was throttled off by something",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "mass blocking everything in sygmoid",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.66",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "80% tumour/necrotic in liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "spread to lungs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "spread to lymph nodes in abdomen",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "incredibly frail"
+            ]
+          },
+          {
+            "comment_id": "211.67",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "something always felt like it'd come out and then go back in during restroom use. Felt like a ball",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "uncomfortable and scared"
+                },
+                {
+                  "symptom": "pink jelly like substance on tissue with a tinge of light colored blood",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "uncomfortable and scared"
+                },
+                {
+                  "symptom": "mass in rectum",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.68",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Spontaneous lactose intolerance",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "projectile vomiting",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "diarrhea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.69",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "stomach issues here and there",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought was just what I ate"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.70",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "esophagus tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lost 80 lbs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.71",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.72",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.73",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.74",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.75",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.76",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.77",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.78",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.79",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.80",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.81",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.82",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "blood in stool for a while",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "eating made me feel horrible",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "tumour almost completely blocked passage",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain in the right side of my body",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.83",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.84",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.85",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bowel issues",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sleep issues",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "anxiety",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "chemo fog",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "neuropathy in hands",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "food aversions",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "severe diarrhoea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "bowel obstruction",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "unable to drive anymore",
+              "lost condition"
+            ]
+          },
+          {
+            "comment_id": "211.86",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.87",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.88",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.89",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.90",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.91",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "peripheral neuropathy",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.92",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "chemo fog",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "forgetful",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lack focus",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "food aversion",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "taste buds have changed",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "confused",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "severe diarrhoea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.93",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.94",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "nerve pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.95",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.96",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.97",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anemia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stomach pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "recent back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "constipation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "211.98",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nerve pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "neuropathy",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

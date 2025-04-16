@@ -1,0 +1,456 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "144",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "difficulty breathing",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "144.1",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "eat a certain way",
+              "make lifestyle changes"
+            ]
+          },
+          {
+            "comment_id": "144.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "eat the shittiest diet on earth",
+              "exercise"
+            ]
+          },
+          {
+            "comment_id": "144.7",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "taking some aspirin"
+            ]
+          },
+          {
+            "comment_id": "144.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "post chemo fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "annoying side effects",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "good therapist to process fear, anxiety, grief, stress, anger and bring closure to unresolved issues/conflicts/conversations in my life as I face death",
+              "meditation with a good buddy online",
+              "acupuncture with an excellent Chinese medicine doctor to help with the toxicity of chemo and side effects",
+              "taking in all the love and support from my friends and family and being vulnerable and unhinged with those who can handle it",
+              "crying often at the utter profound beauty of being alive, being loved, having so many to love, and the total utter sadness of this transient, impermanent thing we call life",
+              "follow my doctor's guidance faithfully",
+              "continue my life's work diligently and setting up my projects so people can move things forward even if I am not going to be around"
+            ]
+          },
+          {
+            "comment_id": "144.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "mouth ulcers",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "wounds that wouldn't heal",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "changed to a plant based diet",
+              "reintroduced easily digestible proteins",
+              "meditated daily",
+              "journaled to process all of the emotions",
+              "therapy",
+              "went to a hypnotherapist",
+              "Photobiomodulation (Low level laser therapy)",
+              "Acupuncture",
+              "Tibetan Medicine"
+            ]
+          },
+          {
+            "comment_id": "144.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.25",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "live a very low key life"
+            ]
+          },
+          {
+            "comment_id": "144.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "144.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "146",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "unusual symptoms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "significant amount of pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "146.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Fevers",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "washed hands frequently and thoroughly",
+              "kept laundry changed often and washed on hot setting with bleach",
+              "did daily disinfectant wipes of door handles, sink handles, tv remotes, etc.",
+              "extra careful about food - making sure that it was washed and prepared properly"
+            ]
+          },
+          {
+            "comment_id": "146.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "146.3",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "not to chew his fingernails",
+              "not to pick scabs",
+              "wash his hands frequently",
+              "anti-microbal diet that made him avoid eating deli meats, leftovers, etc"
+            ]
+          },
+          {
+            "comment_id": "146.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "146.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "146.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "146.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "152",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "feeling \"off\"",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "arthritis-like symptoms that were getting worse and worse",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "climbing up onto a locomotive or bending down to work was annoying and painful",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "bad migraines... always at the same times of day (4:00 and 10:00 pm) that I couldn't control at all",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "left side went a little numb",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "difficulty remembering name, phone number, address or how, exactly, to use a pen",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "headaches and mini-stroke symptoms continued",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "lump in armpit",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "mouth sores",
+              "timing": "during treatment",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "huge appetite",
+              "timing": "during treatment",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "white blood cells went to 0 (Neutropenia)",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "meningitis/encephalitis",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "huge chest pain",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "Gastritis",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "pulmonary toxicity",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "lung capacity down to \"I need oxygen NOW\"",
+              "timing": "during treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "Chemo-Brain",
+              "timing": "during treatment",
+              "initially_perceived_as": "minor"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "152.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "152.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "152.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neutropenia",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "152.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "152.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "152.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "337",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "menstrual cycle completely stopped",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "hot flashes",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "loss of libido",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "other classic menopause symptoms",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "hormone levels indicate ovaries have basically shut off",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    }
+  ]
+}

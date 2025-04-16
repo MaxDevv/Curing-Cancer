@@ -1,0 +1,233 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "489",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "severe stomach pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "cancer all over belly",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "cancer all over body",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "agitation",
+              "timing": "one week before death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "stopped eating",
+              "timing": "4 days before death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "stopped drinking",
+              "timing": "4 days before death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "stopped swallowing pills",
+              "timing": "4 days before death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "frail body",
+              "timing": "near death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "skinny body",
+              "timing": "near death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "thrashing around",
+              "timing": "near death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "pushing away when touched",
+              "timing": "near death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "moaning",
+              "timing": "near death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "dehydrated skin",
+              "timing": "near death",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "eyes staring right through",
+              "timing": "near death",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "made arrangements with work to focus on her care",
+          "slept with her multiple nights",
+          "went home for mental sanity"
+        ],
+        "comments": [
+          {
+            "comment_id": "489.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "rapid movements",
+                  "timing": "during morphine treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "jerking",
+                  "timing": "during morphine treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "489.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "244",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "achey",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "anxious",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "started to dabble in medicinal marijuana"
+        ],
+        "comments": [
+          {
+            "comment_id": "244.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "ball of pain in abdomen",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "constipation pains",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "used 10mg gummies"
+            ]
+          },
+          {
+            "comment_id": "244.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "dizzy",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "vaped",
+              "used pill-form cannabis",
+              "stick to a low heat convection vape and edibles"
+            ]
+          },
+          {
+            "comment_id": "244.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "anxiety",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sleeplessness",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "uses blended thc chocolate"
+            ]
+          },
+          {
+            "comment_id": "244.4",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "recommended a prescription with a micro dose of thc"
+            ]
+          },
+          {
+            "comment_id": "244.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "takes gummies",
+              "cut gummies in halves or sometimes even 1/4's"
+            ]
+          },
+          {
+            "comment_id": "244.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "horrible bone pain",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "unable to eat anything due to the changes in taste",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "smoked weed"
+            ]
+          },
+          {
+            "comment_id": "244.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "uses 1:1 CBD/THC tincture",
+              "prefers sativa strains to indica"
+            ]
+          },
+          {
+            "comment_id": "244.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "throwing up",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "dropping weight so quickly",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "smoked flower"
+            ]
+          },
+          {
+            "comment_id": "244.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "244.10",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "vapes"
+            ]
+          },
+          {
+            "comment_id": "244.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "244.12",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "using 100mg edibles"
+            ]
+          },
+          {
+            "comment_id": "244.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feeling crappy",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "smokes and takes gummies"
+            ]
+          },
+          {
+            "comment_id": "244.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "picked up a CBD vape"
+            ]
+          },
+          {
+            "comment_id": "244.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "vape or use edibles"
+            ]
+          },
+          {
+            "comment_id": "244.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "during radiation treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "got medical marijuana card",
+              "bought indica strain"
+            ]
+          },
+          {
+            "comment_id": "244.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "paranoia",
+                  "timing": "early experimentation",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "scared",
+                  "timing": "early experimentation",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "use edible oil, aka RSO, and sometimes vape"
+            ]
+          },
+          {
+            "comment_id": "244.18",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "use 5mg gummy"
+            ]
+          },
+          {
+            "comment_id": "244.19",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "get tinctures from a medical dispensary"
+            ]
+          },
+          {
+            "comment_id": "244.20",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "vape live resin and take 10mg thc wafers"
+            ]
+          },
+          {
+            "comment_id": "244.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "247",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "247.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "get hospice involved"
+            ]
+          },
+          {
+            "comment_id": "247.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tired",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "247.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "247.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "247.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "247.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "under the care of a Palliative Medicine doctor"
+            ]
+          },
+          {
+            "comment_id": "247.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "247.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "247.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "253",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "253.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "excruciating and unrelenting bone pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "knee wouldn't stop bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "throwing up",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "spots that appeared on face",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "balding",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tired",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "253.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "254",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "254.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "constant chest pains",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "hard to swallow big amounts of anything",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "liver hurting pretty bad",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lost all feeling in fingertips",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "rash on some of body",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "cold sensitivity",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lump in throat that varies in intensity",
+                  "timing": "unknown",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "slight difficulty eating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "throats not obstructed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feels like a small peice of food in throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "left side of neck is pretty inflamed and tight",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feels like one of the muscles deep in neck is super inflamed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "all of glands in neck area are tender and swollen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling of like something caught in throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "inflammation",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "coughing 3-4 times causes a gag reflex",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "gagging",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.17",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lump in throat symptom of food being stuck in throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "254.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sore throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "raised the head of bed by 15cm",
+              "take 1 gaviscon dual action before bed",
+              "take some omeprazole that day"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "376",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "376.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "376.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "376.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

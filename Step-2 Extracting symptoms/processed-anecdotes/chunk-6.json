@@ -1,0 +1,443 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "14",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "swollen lymph nodes in the neck",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "weird structure on tonsil",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tumor pain",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "14.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "large tumor in neck",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumor on tonsil",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "another swollen lymph node in neck",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "14.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "15",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "neuroendocrine tumor",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "Cushing's Disease",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tumor in thymus",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "cancer cells spread to lymph nodes",
+              "timing": "post-surgery",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "cancer spread to bones",
+              "timing": "post-treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "cancer spread to liver",
+              "timing": "post-treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "cancer spread to one lung",
+              "timing": "post-treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "lesions in skull",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "cancer spread slightly in lung",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "stopped school",
+          "stopped hobbies",
+          "stopped activities",
+          "laying in bed",
+          "spending hours on phone"
+        ],
+        "comments": [
+          {
+            "comment_id": "15.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "side effects from radiation",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "skin cancer made her afraid of the sun",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "sleeping in until noon",
+              "moved back in with her mom temporarily",
+              "been on leave from my job",
+              "don't leave the house much and spent a lot of my time reading or on my phone"
+            ]
+          },
+          {
+            "comment_id": "15.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "depression",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sadness",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "coping by smoking weed",
+              "reading comics"
+            ]
+          },
+          {
+            "comment_id": "15.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "depression",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "depression",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "exclusively work from home"
+            ]
+          },
+          {
+            "comment_id": "15.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "15.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "24",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "cancer",
+              "timing": "during relationship",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "24.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "24.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "24.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "24.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "24.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "24.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "24.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "24.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "40",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "tumors",
+              "timing": "throughout journey",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "nodules in the abdomen",
+              "timing": "throughout journey",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "cycles of chemo",
+          "continuous hospital visits"
+        ],
+        "comments": [
+          {
+            "comment_id": "40.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "40.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "126",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "126.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

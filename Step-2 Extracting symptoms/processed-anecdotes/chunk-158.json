@@ -1,0 +1,765 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "400",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "mild cold sensitivity in hands",
+              "timing": "during treatment",
+              "initially_perceived_as": "mild"
+            },
+            {
+              "symptom": "mild cold sensitivity in mouth",
+              "timing": "during treatment",
+              "initially_perceived_as": "mild"
+            },
+            {
+              "symptom": "cold sensitivity that doesn't completely go away between treatments (less intense after a week)",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "hands lock up",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "randomly dropping things",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "difficulty typing on phone",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "randomly losing balance with no dizziness or warning signs",
+              "timing": "during treatment",
+              "initially_perceived_as": "unnerving"
+            }
+          ],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "400.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy in feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "periods of not being able to feel big toes",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mistakes in judging height of things compared to feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "walking a lot for work"
+            ]
+          },
+          {
+            "comment_id": "400.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "significant CIPN in feet",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "CIPN in hands mostly cleared up",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cold sensitivity",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "progressive neuropathy",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feet and fingertips getting better",
+                  "timing": "after stopping oxaliplatin",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "constant feeling of mild pins and needles in feet",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pins and needles in feet worse in cold weather",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feet sometimes feel like burning",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fingers become numb in cold weather",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fingers become numb during cold water swimming",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "difficulty using fingers when numb",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "bottom of feet and tips of fingers were completely numb",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "wearing 2 pairs of socks in the house",
+              "wearing slippers on cold, hard floors"
+            ]
+          },
+          {
+            "comment_id": "400.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "chemo induced neuropathy in feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "left foot went totally numb and has never regained any feeling",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "numbness and tingling in feet",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "numbness and tingling in fingers",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lingering numbness in feet",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "no more cold sensitivity",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tingling/numbness in the hands",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "finger tips are still numb when it comes to hot clothes out the dryer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "finger tips are still numb when it comes to cold hands in winter time",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.13",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lost most of the feeling in the soles of feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lost almost everything from toes",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fingers were numb from the tip down to half past the first joint",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "issues gripping things",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feet couldn't be inside shoes for more than 20-30 minutes",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "most of the feeling in toes is back aside from the side of big toe",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "can't really stand/walk for longer than 30-60 minutes before having bad pain in feet",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fingers are maybe 85% normal",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "still drop things from time to time",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "can't feel very fine things",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.14",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "neuropathy",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "scared"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "just my toes",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "basically rendered the toe halves of my feet useless",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "horrible balance",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "head can get cold while the rest of me is warm",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "legs & feet get very cold even in the summer",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "neuropathy on the top of my feet",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "neuropathy in the ankles",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feet and ankles feels like someone stomped on them",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feet and ankles feel like they're broken",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "having a blanket on legs while sitting",
+              "recliner use",
+              "always have a skully around for head"
+            ]
+          },
+          {
+            "comment_id": "400.19",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cold sensitivity",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "annoying"
+                },
+                {
+                  "symptom": "can still barely have cold things",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.20",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "toes are still numb",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "can't wear socks",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.21",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy",
+                  "timing": "current",
+                  "initially_perceived_as": "rough"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "no fun"
+                },
+                {
+                  "symptom": "trouble buttoning pants",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.24",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy in hands and feet",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "mild"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.25",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "foot drop",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "400.26",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy worse now",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "401",
+        "symptoms": {
+          "minor": [],
+          "major": [
+            {
+              "symptom": "jaundice",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    },
+    {
+      "post": {
+        "post_id": "402",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "402.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "constipation",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "gas pains",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stomach cramps",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "headache",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "Take CBD and THC twice a day",
+              "Drink lots of water or herb tea"
+            ]
+          },
+          {
+            "comment_id": "402.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bony bum problems",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "chemo brain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "makes it tough to focus"
+                },
+                {
+                  "symptom": "hot flashes",
+                  "timing": "post infusion",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weird smells",
+                  "timing": "post infusion",
+                  "initially_perceived_as": "bothering"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "post infusion",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "post infusion",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "constipation",
+                  "timing": "post infusion",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "402.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "402.4",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "lots of fresh food (fruit & veggies)",
+              "as much exercise as I could handle",
+              "meditation and pharmaceutical grade THC (gummies, tincture & infused honey)"
+            ]
+          },
+          {
+            "comment_id": "402.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "body aches",
+                  "timing": "post infusion",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "constipation",
+                  "timing": "post infusion",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "exhaustion",
+                  "timing": "post infusion",
+                  "initially_perceived_as": "too exhausted to make dinner"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "post infusion",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "402.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "methotrexate headaches",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "413",
+        "symptoms": {
+          "minor": [],
+          "major": [
+            {
+              "symptom": "swelling and bleeding around one of her Melanoma brain mets",
+              "timing": "post gamma knife procedure",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "zero neurological symptoms",
+              "timing": "pre-surgery",
+              "initially_perceived_as": "none"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "413.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "headaches",
+                  "timing": "post surgery",
+                  "initially_perceived_as": "easily controlled with OTC Tylenol"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "motor control issues with right hand",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

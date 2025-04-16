@@ -1,0 +1,464 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "Post 4",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "coughing",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "fatigue",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "nosebleeds",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "anemia",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "high blood pressure",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "hair loss",
+              "timing": "during chemo",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "loss of taste",
+              "timing": "during chemo",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "constipation",
+              "timing": "during chemo",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "kidney damage due to creatinine levels spiking",
+              "timing": "during chemo",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "ulcer in upper stomach (gastric fundus)",
+              "timing": "after treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "adenocarcinoma (stomach cancer)",
+              "timing": "after treatment",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "h.pylori infection",
+              "timing": "after treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "shoulder pain after diagnostic laparoscopy surgery",
+              "timing": "post-surgery",
+              "initially_perceived_as": "major"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "lymphoma in groin area",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "area that lit up a little in the upper stomach (gastric fundus) on petscan",
+              "timing": "after treatment",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "Comment 4.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 4.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "Post 5",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "bloaty feeling",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "feeling generally unwell",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "gallstone (not problematically big)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "problems with stomach",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "something on liver",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "something on pancreas",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "acute lymphoblastic leukemia",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "kidney stones",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "pancreatic cancer stage 4",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "tumor spread to the liver and metastasis are all over all 7 segments of the liver",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "kidney stone attack",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "unhealthy diet",
+          "periods of life where I would only eat fried chicken, crapes, eggs, eggs and even more eggs."
+        ],
+        "comments": [
+          {
+            "comment_id": "Comment 5.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 pancreatic cancer with metastases all through out my torso",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 5.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "Post 23",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "large GIST tumor",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "multiple hepatic metastases, one already as large as 25cm",
+              "timing": "after surgery",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "working out",
+          "running my kids around",
+          "working full time"
+        ],
+        "comments": [
+          {
+            "comment_id": "Comment 23.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 23.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 23.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "Comment 23.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

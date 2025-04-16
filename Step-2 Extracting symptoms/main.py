@@ -615,6 +615,7 @@ class MainClass:
                 symptoms = gemini.extractSymptoms(chunk)
             except Exception as e:
                 print(e)
+                symptoms = f"Error here, {str(e)}, chunk:\n{chunk}"
             
             if self.verbose:
                 print(f"Chunk {idx+1} processed :D, storing chunk...")

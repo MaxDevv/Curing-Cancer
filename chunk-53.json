@@ -1,0 +1,812 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "162",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "breast cancer (stage 1A)",
+              "timing": "recently diagnosed",
+              "initially_perceived_as": "unfortunate situation"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "cancelled wedding plans"
+        ],
+        "comments": [
+          {
+            "comment_id": "162.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "rare brain tumor",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "cut some family members out of life"
+            ]
+          },
+          {
+            "comment_id": "162.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer",
+                  "timing": "a couple of months before wedding",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "postponed wedding"
+            ]
+          },
+          {
+            "comment_id": "162.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "3b thymic carcinoma/type C thymoma",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "death sentence"
+                },
+                {
+                  "symptom": "COVID",
+                  "timing": "current",
+                  "initially_perceived_as": "sick"
+                },
+                {
+                  "symptom": "upset stomach",
+                  "timing": "primary side effect",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weight loss",
+                  "timing": "common side effect of cancer treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "living the best life possible within means",
+              "stockpiling narcotics for end-of-life care"
+            ]
+          },
+          {
+            "comment_id": "162.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "prostate cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage IV tumors",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "buying me time"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.24",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "joined a support group",
+              "researched the cancer and treatment"
+            ]
+          },
+          {
+            "comment_id": "162.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 lung cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "months to live"
+                },
+                {
+                  "symptom": "Shingles",
+                  "timing": "side of pneumonia",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cough",
+                  "timing": "five years before diagnosis",
+                  "initially_perceived_as": "pneumonia"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.27",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "not curable"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.33",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "metastatic breast cancer",
+                  "timing": "upon discovery in 2016",
+                  "initially_perceived_as": "stage 4"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.34",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "triple-positive breast cancer",
+                  "timing": "diagnosed 24 years ago",
+                  "initially_perceived_as": "stage I"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.35",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "MS",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.40",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "small cell lung cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "terminal illness"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.41",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer",
+                  "timing": "again, spread",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.42",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "breast cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.44",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stomach cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "stage 1A"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "lost weight",
+              "struggled to eat"
+            ]
+          },
+          {
+            "comment_id": "162.45",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.48",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.49",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.51",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "health issues",
+                  "timing": "due to nutritional deficiencies caused by a vegan diet",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.60",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "aggressive HER2+ breast cancer",
+                  "timing": "upon diagnosis",
+                  "initially_perceived_as": "not so bad"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.61",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "extremely advanced breast cancer",
+                  "timing": "after choosing home remedies",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.62",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer cells",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "canceled big wedding",
+              "having a small ceremony",
+              "planning a second wedding"
+            ]
+          },
+          {
+            "comment_id": "162.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.66",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.67",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.68",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.69",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.70",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumors",
+                  "timing": "current",
+                  "initially_perceived_as": "stage IV-B"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.71",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4",
+                  "timing": "previously",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "meditating"
+            ]
+          },
+          {
+            "comment_id": "162.72",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.73",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "triple positive cancer",
+                  "timing": "diagnosed last April",
+                  "initially_perceived_as": "Stage 2B"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.74",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lose both your breast",
+                  "timing": "at 29",
+                  "initially_perceived_as": "suck"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.75",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.76",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.77",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.78",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.79",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.80",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.81",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.82",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.83",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.84",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.85",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "breast cancer",
+                  "timing": "mine",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.86",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.87",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.88",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.89",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "swollen breasts",
+                  "timing": "all the damn time",
+                  "initially_perceived_as": "painful"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.90",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "terminal cancer",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.91",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.92",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.93",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.94",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "second primary tumor in my thyroid",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lung cancer",
+                  "timing": "may also have",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "head/neck cancer",
+                  "timing": "previously",
+                  "initially_perceived_as": "nearly killed me"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.95",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.96",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.97",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.98",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "162.99",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

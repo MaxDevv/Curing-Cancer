@@ -1,0 +1,1019 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "240",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "burning pain in stomach that got worse and worse",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "red dots on legs that would come and go",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "feeling hot and sweaty",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "white blood cell levels were half of what they should be",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "240.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain in rib back",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "yelping whenever I moved",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "black hole pathological fracture of 8 th rib in 156 of 1300 images",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lytic lesion",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "tried physio",
+              "tried acupuncture",
+              "tried yoga"
+            ]
+          },
+          {
+            "comment_id": "240.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "appendix burst",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "something in your lung",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "stage 1 lung cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "brain tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "cancer came back stage 4 (in my bones)",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain in upper abdomen for a few months",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "3.5 cm mass which they said was at the head of my pancreas",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "oily poops",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weird feeling like i was full but hadn't eaten",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stomach pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "7x8 cm tumor on pancreas w Mets to liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stomach ulcer",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "stage 4 gastric cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood from intercourse no matter how gentle we tried to be. The amount of blood would vary but 9 times of 10 there was at least some",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "back pain for about 6 months",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "couldn't feel my legs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "acute pancreatitis episodes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "gall stones blocked the pancreas",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tumor spread and grown",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "raspberry ripple poops",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stage 2 rectal cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lots of blood in the toilet, never in my stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "lost 30lbs in 6 months without really trying",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "stage 3C colorectal cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tiny swollen lymphnode under my ear",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stage 4 ovarian cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe chronic lower back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "constant vomiting",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "burning pain in my leg muscles",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "constipation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "melon sized tumor in my abdomen between my stomach and my spine",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "embryonal carcinoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "weight gain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hypercalcemia critical level",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "acute pancreatitis",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "mass",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "couldn't swallow ice cream",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stage 4 IIIb non resectable gastro-esophogous junction adenocarcinoma her2 3+ 1 tumor 9 lymph nodes",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "12.5 cm mass on my liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "liver cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "former smoker"
+            ]
+          },
+          {
+            "comment_id": "240.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bump on my left shin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain in my shin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "couldn't sleep from the pain in my shin and surrounding joints",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "could feel the blood in my leg flowing down to my foot, like it was stuck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tumor clogged up my blood vessel",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sudden intense pain in my lower back right side that radiated down to my testicles",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "threw up",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "kidney stone",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "very tiny stone",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Ewing's",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hypercalcemia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "kidney stone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mass on cecum",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "metastasis to liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stage IV cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "visual migraines",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "brain fog",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.24",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "one of my balls was suddenly huge, like a kiwi",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "excruciating thigh/leg pain for 4 months",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Spindle Cell Rhabdomyosarcoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump in my breast",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "breast cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.27",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain in the ear after swimming",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "persistent throat and ear pain when I swallowed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Neoplasma supraglottis (Throat near vocalcords stage 2, no nodes, no spreading)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.28",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "knee started hurting after hiking or running",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "stabbing pain in my side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "blood in my urine",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Stage 4 RCC with spread in both lungs, the back of my head, my spine, and my left femur which had been eaten away",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.29",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "seizures",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "becoming very out of breath when walking a block or two",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tumor in my right lung that was almost cutting off the lung from being functional",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "severe pneumonia in that lung with it being nearly 50% full of fluid",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "multiple brain tumors",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "bone cancer in the spine and hip",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.30",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "itchy all over consistently for a long time",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "trouble breathing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "couldn't walk up a flight of stairs without stopping to pant for air",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "partially collapsed lung caused by large medistinal mass",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Diagnosed Hodgkin Lymphoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.31",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "very small amount of spotting, only lasted one day",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump like I was sitting on a walnut",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "resection of a 4 x 4 cm spindle cell sarcoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Mets to my lungs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "new and worsening lung Mets",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Still stage 4",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.33",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe anemia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "gnawing stomach pains",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "bleeding ulcers",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "cancer growing",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.34",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "focal seizures that sent me to the ER (presenting as right side numbness/weakness)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stage 4 brain cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ,
+                {
+                  "symptom": "feet turned green",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "random 104 degree fever for a few days",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "started lactating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.35",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "low iron",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "serverly swollen stomach for about a month or so",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain (like period pain)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "burning my stomach with the hot water bottle",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "couldn't eat or drink anything much either",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "dehydrated",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "extremely big ovaries (both sides were so big they couldn't even tell which was left and which was right on ultrasound)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "ovarian cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "colon cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.36",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "kidney stone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "stage 4 colorectal cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.37",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tests came back way the opposite",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "WBC, RBCS, and HGB just tank",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tired a lot",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "couldn't breathe",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "running fevers",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "neutropenia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "acute leukemia",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.38",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pneumonia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "little thing in your other lung",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lung adenocarcinoma confirmed considered stage one",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "missed a lymph node",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "confirmed stage 3",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.39",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "mild nausea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "feeling of menstrual cramps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "sometimes I even threw up",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "high liver enzyme",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "huge tumor in my liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {

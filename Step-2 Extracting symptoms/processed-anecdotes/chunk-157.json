@@ -1,0 +1,410 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "396",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "facial numbness on the right side",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "headaches",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "loss of hearing on right side",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "difficulty swallowing",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "396.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "396.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loss of ability to talk",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "loss of ability to eat",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "loss of ability to drink",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "vomiting, especially on chemo days",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "weakness; even repositioning in bed was difficult",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sinus fused shut, forcing mouth breathing",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "narrow throat",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "mouth sores",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "face swelling, especially under chin",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "significant weight loss (268 pounds to 144 pounds)",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "neck muscles burned and became stiff and small",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "started stretching exercises on the jaw",
+              "did neck exercises"
+            ]
+          },
+          {
+            "comment_id": "396.3",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "throat and swallowing exercises"
+            ]
+          },
+          {
+            "comment_id": "396.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "396.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "396.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "398",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "398.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "398.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "398.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling of food stuck in throat for about 4 months",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "what looked like a swollen taste bud on the back of the tongue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "spitting blood",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "398.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "398.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "398.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "398.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "loss of all gag reflexes for around 3 years",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "feeling that food was stuck in the throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "strange taste",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "spitting blood for about an hour and a half",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "398.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "399",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "nerve damage to feet and hands (neuropathy)",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "pain",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "utter sickness",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "horrible blistering",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "discoloration of skin",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "swelling",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "constant sting",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "nauseous to the point of vomiting",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "hot flashes",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "dizzy spells",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "fatigue",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "scars on abdomen and chest",
+              "timing": "post-treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "side effects from hormone blocker medication that feels like chemo all over again",
+              "timing": "post-treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "loss of all long gorgeous curly hair",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "stopped working as a caregiver",
+          "medical port surgery",
+          "6 months of Chemo",
+          "bilateral mastectomy",
+          "radiation",
+          "hormone blocker medication"
+        ],
+        "comments": [
+          {
+            "comment_id": "399.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "vomiting every day",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "crushing fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "general poor health",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "ongoing fatigue",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "399.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

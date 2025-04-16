@@ -1,0 +1,329 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "197",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "relapsed Acute Lymphoblastic Leukemia (ALL)",
+              "timing": "one month prior to post",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "decided not to follow treatment anymore because the chances of going back to permanent remission were so low",
+          "trying to live her last days as happy as she can",
+          "enjoying the things she never got the chance of doing",
+          "trying to reach people and tell her story",
+          "trying to get sympathy and the help to achieve the things she wants before she dies",
+          "made a wishlist",
+          "sharing a wishlist",
+          "trying to sell some of her art (handmade macrame bracelets) in her hometown to get a little money for the stuff from her wishlist"
+        ],
+        "comments": [
+          {
+            "comment_id": "197.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "brain cancer",
+                  "timing": "since 30 years old",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "stage 3 recurrent brain cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "inoperable brain cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "cutting off friends, family and lovers who turned their backs on him"
+            ]
+          },
+          {
+            "comment_id": "197.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "giving up on making people care",
+              "caring for himself",
+              "living",
+              "loving",
+              "creating",
+              "giving"
+            ]
+          },
+          {
+            "comment_id": "197.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "advanced cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "giving herself as much opportunities for whatever even simple happiness she can enjoy",
+              "savoring every day"
+            ]
+          },
+          {
+            "comment_id": "197.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer came back",
+                  "timing": "recently",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "condition with a history of death before 40 in the family",
+                  "timing": "since birth",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "focused on the next thing",
+              "kept pushing ahead",
+              "focus on today",
+              "focus on what you meed to do today"
+            ]
+          },
+          {
+            "comment_id": "197.18",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "encouraging the patient to seek further treatment"
+            ]
+          },
+          {
+            "comment_id": "197.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.30",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "trying her best to live her days enjoying as much",
+              "living for all of the experiences she can have",
+              "trying to keep her best self"
+            ]
+          },
+          {
+            "comment_id": "197.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.35",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Acute Lymphoblastic Leukemia (ALL)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "relapses of Acute Lymphoblastic Leukemia (ALL)",
+                  "timing": "four relapses",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.36",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Acute Myeloid Leukemia (AML)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "graft failure",
+                  "timing": "after first transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "graft versus host disease (GVHD)",
+                  "timing": "after second transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "lung damage",
+                  "timing": "after second transplant",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "197.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

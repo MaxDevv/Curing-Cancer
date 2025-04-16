@@ -1,0 +1,603 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "389",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "extreme fatigue",
+              "timing": "currently on immunotherapy",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "loss of appetite",
+              "timing": "currently on immunotherapy",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "loose stool",
+              "timing": "currently on immunotherapy",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "chest pain",
+              "timing": "currently on immunotherapy",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "muscle pain",
+              "timing": "currently on immunotherapy",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "389.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "appetite issues",
+                  "timing": "while on immunotherapy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "diarrhea",
+                  "timing": "while on immunotherapy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "while on immunotherapy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stomach issues",
+                  "timing": "after first round of ribociclib",
+                  "initially_perceived_as": "baaaad"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "during active treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "loss of independence",
+                  "timing": "during active treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "horrible side effects",
+                  "timing": "while on immunotherapy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sick as a dog",
+                  "timing": "during immunotherapy cycle",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "during immunotherapy cycle",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "appetite loss",
+                  "timing": "during immunotherapy cycle",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "appetite issues",
+                  "timing": "during chemo and radiation treatments",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "taking medical marihuana"
+            ]
+          },
+          {
+            "comment_id": "389.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.23",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "keep up nutrition",
+              "keep up hydration"
+            ]
+          },
+          {
+            "comment_id": "389.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.27",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer growth",
+                  "timing": "in December while on immunotherapy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "secondary main tumor",
+                  "timing": "in December while on immunotherapy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.35",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "auto immune disease",
+                  "timing": "from immunotherapy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.36",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "smoking cannabis"
+            ]
+          },
+          {
+            "comment_id": "389.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.38",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "side effects",
+                  "timing": "during immunotherapy treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.39",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "consume 7 to 10 grams of cannabis a day"
+            ]
+          },
+          {
+            "comment_id": "389.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.42",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "feeling bad",
+                  "timing": "while on treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.53",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sick",
+                  "timing": "following targeted treatments",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "following targeted treatments",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "achy",
+                  "timing": "following targeted treatments",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.56",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "using rso extract"
+            ]
+          },
+          {
+            "comment_id": "389.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.60",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.61",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "psoriasis flare",
+                  "timing": "in December 2021, caused by platinum based part of the fulfox",
+                  "initially_perceived_as": "to the point of nearly all the skin on my body came off"
+                },
+                {
+                  "symptom": "new node on adrenal gland",
+                  "timing": "after 2 months of restarting chemo minus the platinum",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "node in otrum",
+                  "timing": "after 2 months of restarting chemo minus the platinum",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.66",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.67",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "unable to work",
+                  "timing": "after starting immunotherapy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "barely able to care for myself",
+                  "timing": "some days after starting immunotherapy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.68",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "smoke 7 to 14 grams of cannabis a day"
+            ]
+          },
+          {
+            "comment_id": "389.69",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.70",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.71",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.72",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.73",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.74",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "389.75",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "couldn't eat anything solid or cold",
+                  "timing": "after radiation for 3 weeks",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "load up on pain killers to eat solid foods"
+            ]
+          },
+          {
+            "comment_id": "389.76",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

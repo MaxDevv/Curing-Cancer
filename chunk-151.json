@@ -1,0 +1,560 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "381",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "stage 4 melanoma that had travelled to my lymph nodes and lungs",
+              "timing": "diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "new growths in my bones",
+              "timing": "most recent scans",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "381.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 nasopharyngeal cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stage 1 cancer",
+                  "timing": "Feb 2022",
+                  "initially_perceived_as": "missed by PCP"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 bladder cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 melanoma",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "constant unexplained coughing issues every winter",
+                  "timing": "pre-diagnosis, for like ten years",
+                  "initially_perceived_as": "dismissed by old family doctor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Stage IV Thymoma",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "wasn't doing so well"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 3 melanoma",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "melanoma recurrence",
+                  "timing": "17 years after the initial diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage IV-B nasopharyngeal carcinoma",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumors in neck/shoulder",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.23",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "melanoma around his rib (2mm)",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "more melanoma",
+                  "timing": "post rib melanoma",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumor on thyroid",
+                  "timing": "CT scan finding",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "melanoma",
+                  "timing": "initial diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "metastatic melanoma",
+                  "timing": "11 years after initial diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.28",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 melanoma(lungs)",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "two new bone lesions consistent with metastasis",
+                  "timing": "newest pet scan",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.29",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage IV-A nasopharyngeal carcinoma",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Primary tumor the size of a fist and wrapped around my carotid artery and optic nerve",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumor eroding into my skull base and extending into my spinal canal",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "several other tumors",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "381.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "382",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "metastatic prostate cancer",
+              "timing": "September 2022",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "cancer has spread to his bones",
+              "timing": "April 2024",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "loses his balance pretty easily",
+              "timing": "few weeks before post",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "broke his arm due to a fall",
+              "timing": "few weeks before post",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "completely loses his sense of time (mixing one day with another)",
+              "timing": "few weeks before post",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "completely loses his sense of space (not recognizing streets he knows by heart)",
+              "timing": "few weeks before post",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "thinking he did something whereas he did not",
+              "timing": "recently",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "looking for a doctor which does not seem to exist anywhere",
+              "timing": "recently",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "382.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loss of balance",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "earache",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "headache",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "severe neuropathy in the feet",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "neuropathy in the feet",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hgb around 7",
+                  "timing": "more than a month",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "struggling with energy",
+                  "timing": "more than a month",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "382.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "394",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Lung Cancer Stage 3 with mutation EGFR exon 19 Deletion",
+              "timing": "diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tumour is 4 cm",
+              "timing": "diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "pain in his chest",
+              "timing": "since August",
+              "initially_perceived_as": "manageable with panadol painkillers"
+            },
+            {
+              "symptom": "30% decrease in his right lung",
+              "timing": "diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "394.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "394.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "394.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "394.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

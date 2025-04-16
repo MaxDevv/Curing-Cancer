@@ -1,0 +1,322 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "306",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Anemia (low hemoglobin levels)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "Blood in stool (detected in stool sample)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "Chronic pain (making it difficult to walk far)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "attributed to chronic illness"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "306.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "\"Lump\" found during self-exam",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "benign cyst"
+                },
+                {
+                  "symptom": "Excruciating gallbladder attacks",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Spine injury",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Excruciating pain from spine injury",
+                  "timing": "after diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Abnormality near the heart (detected on chest X-ray)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "none"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "High white blood cell count",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Anxiety",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Loss of appetite",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Lung nodule (detected on CT scan)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "none"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Minor irritation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Anxiety",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.23",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Tumors on skin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Anxiety",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "306.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "331",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Migraines",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Muscle cramps",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Bad nausea",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Diarrhea",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Extreme fatigue",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Bedridden during chemo weeks"
+        ],
+        "comments": [
+          {
+            "comment_id": "331.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "expected"
+                },
+                {
+                  "symptom": "Chest pain (muscular, not cardiac)",
+                  "timing": "after pump removal",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Fatigue",
+                  "timing": "day after pump removal",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Little to no appetite",
+                  "timing": "day after pump removal",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Bad diarrhea",
+                  "timing": "day after pump removal, after eating",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

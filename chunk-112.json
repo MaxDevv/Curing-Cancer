@@ -1,0 +1,568 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "281",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "281.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Impacted taste buds",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Bland taste",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Skin worsening",
+                  "timing": "after radiation",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Fatigue",
+                  "timing": "towards the end of treatment and weeks after",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Extreme fatigue",
+                  "timing": "week 6-7 and two weeks after radiation",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Excessive sleeping (18+ hours/day)",
+                  "timing": "week 6-7 and two weeks after radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Working from home"
+            ]
+          },
+          {
+            "comment_id": "281.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Fatigue",
+                  "timing": "during radiation",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Eating difficulty",
+                  "timing": "a week into radiation",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Chest irritation",
+                  "timing": "a week into radiation",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Fatigue",
+                  "timing": "towards the end of treatment and weeks after",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Hair loss",
+                  "timing": "weeks after treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Bald spots",
+                  "timing": "weeks after treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Facial paralysis (half face)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Lack of feeling in face, ear, and jaw",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Working half days"
+            ]
+          },
+          {
+            "comment_id": "281.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Significant weight loss (30lbs in 5 weeks)",
+                  "timing": "during radiation",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Inability to eat",
+                  "timing": "during radiation",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Feeling sick all the time",
+                  "timing": "during radiation",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Excessive sleeping",
+                  "timing": "during radiation",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Vomiting",
+                  "timing": "during radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Off work for 4-5 months"
+            ]
+          },
+          {
+            "comment_id": "281.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Tiredness",
+                  "timing": "during first radiation treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Side effects",
+                  "timing": "over 20 years after first treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Extra side effects",
+                  "timing": "during second radiation treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Physical changes",
+                  "timing": "during second radiation treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Open, weeping wounds",
+                  "timing": "towards the end of seven weeks of radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Altered sense of taste",
+                  "timing": "short to possible long term",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Changes where everything starts to taste weird",
+                  "timing": "quickly",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Color difference in skin",
+                  "timing": "after 8+ years",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Fatigue",
+                  "timing": "starting at week 3",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Changes where everything starts to taste very bad (like rotten foods)",
+                  "timing": "quickly",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Food \"Dark Time\" (knowing you should eat but not wanting to due to lack of taste)",
+                  "timing": "after taste buds being burnt out",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Weight loss (over 25% of bodyweight)",
+                  "timing": "during radiation treatment and the month after",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Inability to keep track of the storyline of a sitcom",
+                  "timing": "by week 6",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Exhaustion to get up to go to the bathroom",
+                  "timing": "by week 5",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Inability to grow hair in treated area",
+                  "timing": "after radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Setting an alarm to eat ice cream every 4 hours"
+            ]
+          },
+          {
+            "comment_id": "281.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Skin changes",
+                  "timing": "last week of radiation",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Tiredness",
+                  "timing": "last week of radiation",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Exhaustion",
+                  "timing": "during radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.22",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Red/sore looking skin",
+                  "timing": "first 5 weeks",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Blistering skin",
+                  "timing": "after the first 5 weeks",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Raw skin",
+                  "timing": "after the first 5 weeks",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "281.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "290",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Mole that looked funny",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "Fatigue",
+              "timing": "last 3 months",
+              "initially_perceived_as": "minor"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "Weight loss (28lbs in 3 months)",
+              "timing": "last 3 months",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "Rapid weight loss (5lbs in 1 week)",
+              "timing": "last week",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Started a new job that's a bit more physical",
+          "Reduced gym visits (once or twice a week compared to five days)"
+        ],
+        "comments": [
+          {
+            "comment_id": "290.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Weight loss (25 lbs in 6 weeks)",
+                  "timing": "6 weeks after biopsy",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Unexplained weight loss",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Cancer cells in lymph nodes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "290.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "384",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Anemia",
+              "timing": "current",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "384.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "384.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "384.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "384.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

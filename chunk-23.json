@@ -1,0 +1,457 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "55",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "lump right below the left shoulder",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "fatigue",
+              "timing": "during chemotherapy (ABVD)",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "slight neuropathy in the fingers",
+              "timing": "during chemotherapy (ABVD)",
+              "initially_perceived_as": "minor"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "swollen lymph node",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "bad chest pain",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "terrible cough",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "weakness",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "headaches",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "possibly due to stress"
+            },
+            {
+              "symptom": "insane fatigue (from uric acid pill)",
+              "timing": "during chemotherapy (ABVD)",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "constipation (from anti-nausea meds)",
+              "timing": "during chemotherapy (ABVD)",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "severe abdominal pain",
+              "timing": "pre-immunotherapy (Nivolumab)",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "swollen lymph nodes in the stomach area",
+              "timing": "pre-immunotherapy (Nivolumab)",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "cough",
+              "timing": "pre-immunotherapy (Nivolumab)",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "55.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling awful",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "fever",
+                  "timing": "post-total body irradiation",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "BK virus",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "insane fevers",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "CMV colitis",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "weight loss (30 lbs)",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "stopped eating normally",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "stopped walking",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "feeling crappy pretty much all the time",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "recurrence of CMV colitis",
+                  "timing": "6+ months post-transplant",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "dry mouth (from chemo)",
+                  "timing": "post-chemo/stem cell transplant",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "taste changes (from chemo)",
+                  "timing": "post-chemo/stem cell transplant",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "weakness",
+                  "timing": "post-chemo/stem cell transplant",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "mouth sores",
+                  "timing": "post-chemo/stem cell transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "post-chemo/stem cell transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "aphasia symptoms",
+                  "timing": "post-chemo/stem cell transplant",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fluctuating weight",
+                  "timing": "during chemo and immunotherapy",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "no appetite",
+                  "timing": "when feeling worst from the cancer",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "55.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "63",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "agonizing back pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "crippling pain in back",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "swelling in abdomen",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "swollen lymph nodes surrounding the spine",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "63.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "back pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "lump in pelvis",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "63.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "63.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "misdiagnosed as sciatica"
+                },
+                {
+                  "symptom": "lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "63.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "63.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "66",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "66.1",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "permanent colostomy"
+            ]
+          },
+          {
+            "comment_id": "66.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "66.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "80",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "trouble breathing",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "spot on skin that was growing",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "severe coughing fit",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "weight loss (weighed 80 pounds)",
+              "timing": "during hospice",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "eyes rolled to the back of his head",
+              "timing": "during hospice",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    },
+    {
+      "post": {
+        "post_id": "163",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "163.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

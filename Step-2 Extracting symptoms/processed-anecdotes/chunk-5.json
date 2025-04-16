@@ -1,0 +1,493 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "11",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "post-menopausal bleeding",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "not in menopause"
+            },
+            {
+              "symptom": "abdominal pain",
+              "timing": "post-lung surgery, pre-terminal diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "massive internal bleeding",
+              "timing": "post-hysterectomy",
+              "initially_perceived_as": "ignored by surgeon"
+            },
+            {
+              "symptom": "pockets of blood and fluid which became infected and filled with clots",
+              "timing": "post-hysterectomy",
+              "initially_perceived_as": "major concern, leading to urgent care and ER visit"
+            },
+            {
+              "symptom": "node in her lung",
+              "timing": "post-treatment for endometrial cancer",
+              "initially_perceived_as": "unknown if scar tissue, metastasis, or benign tumor"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "diet changes",
+          "supplements (with oncologist's input)"
+        ],
+        "comments": [
+          {
+            "comment_id": "11.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "post-menopausal bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dallied around with"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dallied around with"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "affected eyesight",
+                  "timing": "at diagnosis",
+                  "initially_perceived_as": "getting worse"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "at diagnosis",
+                  "initially_perceived_as": "getting worse"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.20",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "post menopause spotting (comes and goes)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "not overly concerned"
+                },
+                {
+                  "symptom": "UTI with blood in urine",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "menstrual like cramps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "felt like a donkey had kicked me"
+                },
+                {
+                  "symptom": "increased spotting",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "heavy bleeding (flood)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "11.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "chronic joint pain",
+                  "timing": "during immuno therapy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "small reoccurrence",
+                  "timing": "after chemo and immuno therapy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "13",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "rash from Panitumumab",
+              "timing": "during treatment",
+              "initially_perceived_as": "hated"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "muscle spasms in hands and legs",
+              "timing": "during Oxaliplatin treatment",
+              "initially_perceived_as": "hated"
+            },
+            {
+              "symptom": "cold sensitivity",
+              "timing": "during Oxaliplatin treatment",
+              "initially_perceived_as": "terrible"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "traveling a lot with partner",
+          "healthy diet (no red or processed meat, no refined sugar, generally low carb, mostly plant-based, nice fish and eggs occasionally, sometimes dairy as extra special treat)",
+          "water fast 48hrs before treatment",
+          "cardio exercise most days (10min HIIT to 30 minutes gentler cardio)",
+          "sauna 3-4 times a week",
+          "cold plunge mostly every day",
+          "morning meditation",
+          "Wim Hof Breathing",
+          "taking supplements"
+        ],
+        "comments": [
+          {
+            "comment_id": "13.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "laryngeal spasms",
+                  "timing": "during Oxaliplatin treatment",
+                  "initially_perceived_as": "scariest side effect"
+                },
+                {
+                  "symptom": "rash on face/arms/back",
+                  "timing": "during Oxaliplatin treatment",
+                  "initially_perceived_as": "weird"
+                },
+                {
+                  "symptom": "neuropathy in feet",
+                  "timing": "during Oxaliplatin treatment",
+                  "initially_perceived_as": "still got it"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "during FOLFIRI treatment",
+                  "initially_perceived_as": "a bit worse"
+                },
+                {
+                  "symptom": "hair thinning",
+                  "timing": "during FOLFIRI treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.8",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "eating well",
+              "exercise when I can"
+            ]
+          },
+          {
+            "comment_id": "13.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neuropathy",
+                  "timing": "potentially from oxaliplatin",
+                  "initially_perceived_as": "a big fear"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "13.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "18",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "pain attacks (felt like someone was cutting my legs with a knife)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "inability to move legs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "alarming"
+            },
+            {
+              "symptom": "sweating",
+              "timing": "during first chemo (Rituximab)",
+              "initially_perceived_as": "strong reaction to chemo"
+            },
+            {
+              "symptom": "hyperventilating",
+              "timing": "during first chemo (Rituximab)",
+              "initially_perceived_as": "strong reaction to chemo"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "working hard to be able to walk again",
+          "training everyday in revalidation center"
+        ],
+        "comments": [
+          {
+            "comment_id": "18.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.5",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "back in school studying molecular biology"
+            ]
+          },
+          {
+            "comment_id": "18.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "18.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "117",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    }
+  ]
+}

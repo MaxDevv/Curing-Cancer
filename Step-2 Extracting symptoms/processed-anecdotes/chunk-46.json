@@ -1,0 +1,402 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "128",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "128.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.22",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "cancer-related cognitive impairment",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "damaged ability to spatially orient self",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "had to choose between taking anti-cancer meds and being able to keep employment, because multiple meds I tried made it too hard to do my job.",
+              "Chose to keep employment"
+            ]
+          },
+          {
+            "comment_id": "128.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.29",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "went off medication"
+            ]
+          },
+          {
+            "comment_id": "128.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "128.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "139",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "severe pain in the neck",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "rotator cuff injury"
+            },
+            {
+              "symptom": "sleeping more and more",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "side effect of medication for panic disorder and bipolar disorder"
+            },
+            {
+              "symptom": "lost about 30 lbs (she was overweight) without changing any of her habits",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "didnt think anything of it"
+            },
+            {
+              "symptom": "looked sick",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "being dramatic"
+            },
+            {
+              "symptom": "acted weak",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "being dramatic"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "mass in the neck",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "constant crying",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "pure FEAR in her eyes",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "delirious",
+              "timing": "end-of-life",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "in and out of conscious",
+              "timing": "end-of-life",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "couldn’t eat",
+              "timing": "end-of-life",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "couldn’t drink anything",
+              "timing": "end-of-life",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "turned pale-green almost",
+              "timing": "end-of-life",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "lost so much weight",
+              "timing": "end-of-life",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "stopped being able to recognize us so much",
+              "timing": "end-of-life",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "started talking to people that we couldn't see",
+              "timing": "end-of-life",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "the \"death rattle\"",
+              "timing": "end-of-life",
+              "initially_perceived_as": "major concern"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "smoked 1.5 and sometimes 2 packs a day"
+        ],
+        "comments": [
+          {
+            "comment_id": "139.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain in his shoulder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain in his side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "related to hernia"
+                },
+                {
+                  "symptom": "stopped eating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "grieving"
+                },
+                {
+                  "symptom": "complained of being weak all of the time",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "grieving"
+                },
+                {
+                  "symptom": "slept most of the day",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "grieving"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "new pain in his side near his chest",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "mass in his lung",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "mass in his liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

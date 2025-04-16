@@ -1,0 +1,876 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "25",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "difficulty breathing",
+              "timing": "pre-diagnosis, leading to ER visit",
+              "initially_perceived_as": "asthma exacerbation"
+            },
+            {
+              "symptom": "tumor in the trachea blocking airway",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "loss of interest in everything",
+          "crying",
+          "researching online for success stories"
+        ],
+        "comments": [
+          {
+            "comment_id": "25.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 esophageal cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mets to lungs",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mets to liver",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mets to brain",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "kidney cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumors had grown",
+                  "timing": "most recent scan",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "new tumors",
+                  "timing": "most recent scan",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "side effects from chemo (intolerable)",
+                  "timing": "after radiation",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "stopped treatment (chemo)",
+              "started hospice",
+              "enjoying life as long as possible"
+            ]
+          },
+          {
+            "comment_id": "25.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "between finding the cancer and getting the diagnosis and plan",
+                  "initially_perceived_as": "awful"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "small cell lung cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "undergoing radiation",
+              "undergoing chemo"
+            ]
+          },
+          {
+            "comment_id": "25.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "same cancer (as the original poster)",
+                  "timing": "20 years ago",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stopped breathing",
+                  "timing": "while driving to work",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.31",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 4 tongue cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "acute myeloid leukemia",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "chronic kidney disease",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "knitting"
+            ]
+          },
+          {
+            "comment_id": "25.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.33",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "metastatic melanoma to spine and brain",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "adrenal glands killed",
+                  "timing": "given immunotherapy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weight loss 82lbs in 3 months",
+                  "timing": "given immunotherapy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "went back to church",
+              "got closer to God"
+            ]
+          },
+          {
+            "comment_id": "25.34",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "throat cancer",
+                  "timing": "father's diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fried carotid arteries",
+                  "timing": "radiation treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.40",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "HL Stage 1",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "received chemo and radiation to neck"
+            ]
+          },
+          {
+            "comment_id": "25.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.43",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "breast cancer",
+                  "timing": "10 years ago",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "did nothing"
+            ]
+          },
+          {
+            "comment_id": "25.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.46",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "same (mucoepidermoid carcinoma)",
+                  "timing": "diagnosed since September last year",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "9th chemo session of 12"
+            ]
+          },
+          {
+            "comment_id": "25.47",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "this cancer (mucoepidermoid carcinoma)",
+                  "timing": "12 years ago",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.59",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "crying",
+              "feeling sorry for myself",
+              "praying",
+              "going to church with family"
+            ]
+          },
+          {
+            "comment_id": "25.60",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.61",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.66",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "currently on chemo",
+              "currently on Keytruda"
+            ]
+          },
+          {
+            "comment_id": "25.67",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.68",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.69",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.70",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "late stage breast cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.71",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.72",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.73",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.74",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.75",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.76",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.77",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.78",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.79",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.80",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.81",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.82",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.83",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.84",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "breast cancer",
+                  "timing": "after biopsy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.85",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.86",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.87",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.88",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.89",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.90",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.91",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "breast cancer",
+                  "timing": "2016",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pneumonia",
+                  "timing": "recent",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "abnormalities in CT scan",
+                  "timing": "hospitalized for pneumonia",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "several spots suspicious of cancer",
+                  "timing": "PET scan",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.92",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.93",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.94",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.95",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "waiting for instructions from current surgeon",
+              "relying on the internet"
+            ]
+          },
+          {
+            "comment_id": "25.96",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.97",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.98",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.99",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 2 reoccurrence",
+                  "timing": "8 years on",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "scar isn't healing",
+                  "timing": "chemotherapy had to be halted",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.100",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.101",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.102",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.103",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.104",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.105",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.106",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.107",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "4 brain tumors",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.108",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.109",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.110",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "scar",
+                  "timing": "after biopsy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "8 months to heal",
+                  "timing": "after biopsy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.111",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.112",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.113",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.114",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "scar",
+                  "timing": "caused by biopsy",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.115",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "25.116",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

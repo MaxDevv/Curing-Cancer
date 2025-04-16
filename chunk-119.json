@@ -1,0 +1,710 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "294",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Headaches",
+              "timing": "Currently",
+              "initially_perceived_as": "Unsure if simple stress headache or sign of cancer spreading to the brain"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "Stage 4A colon cancer",
+              "timing": "Diagnosed at age 29",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "Lesions on ovary and liver",
+              "timing": "During diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "Lesions on femur",
+              "timing": "During diagnosis",
+              "initially_perceived_as": "Doctors monitoring"
+            },
+            {
+              "symptom": "Cancer recurrence in lung",
+              "timing": "After initial treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "Cancer spread to lymph nodes in neck",
+              "timing": "After lung recurrence",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "294.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 3C CRC (Colorectal Cancer)",
+                  "timing": "Diagnosed in Oct 2021",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Second local recurrence",
+                  "timing": "After initial diagnosis and treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Loss of all pelvic organs due to cancer",
+                  "timing": "During cancer progression",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Double ostomate",
+                  "timing": "After surgery",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Osteosarcoma",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Worsening osteosarcoma",
+                  "timing": "Gradually",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage four adenocarcinoma of the gallbladder",
+                  "timing": "Diagnosed on February first of this year (24)",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Mets to liver",
+                  "timing": "During diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Involved lymph",
+                  "timing": "During diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Infections in liver",
+                  "timing": "After diagnosis, before treatment",
+                  "initially_perceived_as": "Reason for not starting treatment yet"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Refusal to be admitted to the hospital if manageable at home"
+            ]
+          },
+          {
+            "comment_id": "294.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 incurable pancreatic cancer",
+                  "timing": "Diagnosed over 2 years ago",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Tumor shrinkage (later)",
+                  "timing": "During Chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Lesions (initially)",
+                  "timing": "During diagnosis",
+                  "initially_perceived_as": "Reason for taking surgery off the table"
+                },
+                {
+                  "symptom": "Undetectable lesions (later)",
+                  "timing": "During Chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 breast cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Limitations due to cancer",
+                  "timing": "Currently",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage IV metastatic unknown primary cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Not doing treatment"
+            ]
+          },
+          {
+            "comment_id": "294.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Cancer fatigue",
+                  "timing": "Intermittent",
+                  "initially_perceived_as": "Described as 'windburned', 'worn-out, dried out and disjointed feeling'"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Removing stressors, toxic people and situations"
+            ]
+          },
+          {
+            "comment_id": "294.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage IV colon cancer",
+                  "timing": "Diagnosed at 45 (now 49)",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Mets in lungs",
+                  "timing": "One year after initial treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 high grade soft tissue Sarcoma",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Mets throughout arm, shoulder, back, lymph nodes and bones",
+                  "timing": "After multiple recurrences",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "New mets to lungs",
+                  "timing": "Currently",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Pain",
+                  "timing": "Currently",
+                  "initially_perceived_as": "Tired of being in pain"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Breast cancer",
+                  "timing": "Treated in 2022",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Getting a biopsy on tongue",
+                  "timing": "Currently",
+                  "initially_perceived_as": "Possible recurrence"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Headaches",
+                  "timing": "Currently",
+                  "initially_perceived_as": "Unsure, trying not to overinterpret them"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Lesions on femur",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 colon cancer",
+                  "timing": "Diagnosed 7 years ago, at age 23",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 CRC",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Incurable radioactive iodine resistant thyroid cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.24",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "NHL (Non-Hodgkin Lymphoma)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Colon cancer (1st)",
+                  "timing": "12 years ago",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Liver cancer (2nd)",
+                  "timing": "After colon cancer",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Stomach cancer (3rd)",
+                  "timing": "After liver cancer",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Cancer near the inferior vena cava (4th)",
+                  "timing": "After stomach cancer",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "6 tumors in abdomen (5th)",
+                  "timing": "Currently",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Allergy to chemo",
+                  "timing": "During current treatment",
+                  "initially_perceived_as": "Causes horrible side effects"
+                },
+                {
+                  "symptom": "Horrible Side effects",
+                  "timing": "During current treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Taking a break from chemo to alleviate side effects"
+            ]
+          },
+          {
+            "comment_id": "294.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.31",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 cancer",
+                  "timing": "Diagnosed recently",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Mets to nodes",
+                  "timing": "During diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Mets to liver",
+                  "timing": "During diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Mets to lung",
+                  "timing": "During diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.35",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Anorectal cancer stage 4",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Uncontrolled pain (initially)",
+                  "timing": "Recently",
+                  "initially_perceived_as": "Reason for wanting to 'expire'"
+                },
+                {
+                  "symptom": "Pain under control (currently)",
+                  "timing": "Recently",
+                  "initially_perceived_as": "After finding a better pain doctor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.37",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Mets to liver",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Mets to lung",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Mets to lymph nodes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Intractable pain",
+                  "timing": "Recently",
+                  "initially_perceived_as": "Caused considering stopping treatment"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.42",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "4 mets radiated in lungs",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.51",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Intractable pain",
+                  "timing": "Experienced recently",
+                  "initially_perceived_as": "Felt like the only way to go to stop treatment"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Fired pain doctor",
+              "Hired new pain doctor"
+            ]
+          },
+          {
+            "comment_id": "294.52",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Symptoms shrugged off as hemorrhoids",
+                  "timing": "Pre-diagnosis",
+                  "initially_perceived_as": "Dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Chose to do nothing"
+            ]
+          },
+          {
+            "comment_id": "294.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.55",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Intractable pain",
+                  "timing": "Experienced recently",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.56",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Intractable 9/10 pain",
+                  "timing": "Few weeks ago",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "294.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

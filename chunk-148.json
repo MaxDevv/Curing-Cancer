@@ -1,0 +1,251 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "365",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Pain in right lower quadrant",
+              "timing": "Pre-diagnosis, about a month before ER visit",
+              "initially_perceived_as": "Bad period cramps"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "Pain so severe it hurt to move",
+              "timing": "Pre-diagnosis, a couple of days after initial pain",
+              "initially_perceived_as": "Appendicitis"
+            },
+            {
+              "symptom": "Ovary rupture",
+              "timing": "During surgery",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "Tumors everywhere: both ovaries, walls of the abdomen, appendix",
+              "timing": "During surgery",
+              "initially_perceived_as": "unknown"
+            },
+             {
+              "symptom": "Worsening depression",
+              "timing": "Post-surgery, without hormones",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Terrible pain",
+              "timing": "Pre-diagnosis, while waiting for further diagnosis",
+              "initially_perceived_as": "Concerned that it wasn't an abscess"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Taking medical leave from med school",
+          "Delaying graduation by a year",
+          "Menopause at 28",
+          "Lifelong follow up",
+           "Inability to walk much 3 weeks post-op"
+        ],
+        "comments": [
+          {
+            "comment_id": "365.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Pancreatitis",
+                  "timing": "Pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "365.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "378",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Feeling for lymph nodes in neck and collarbone",
+              "timing": "Post-treatment",
+              "initially_perceived_as": "Anxious, unsure if real"
+            },
+            {
+              "symptom": "Feeling of touching muscle tissue in neck and collarbone",
+              "timing": "Post-treatment",
+              "initially_perceived_as": "Possibly imagining things"
+            },
+            {
+              "symptom": "Feeling of touching lymph nodes that were previously inflamed but are no longer cancerous",
+              "timing": "Post-treatment",
+              "initially_perceived_as": "Possibly residual inflammation"
+            }
+          ],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "378.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "378.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Watching for bloating",
+                  "timing": "Post-NED",
+                  "initially_perceived_as": "Checking for ascites"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Taking pictures of belly",
+              "Weighing to check for ascites"
+            ]
+          },
+          {
+            "comment_id": "378.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "378.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

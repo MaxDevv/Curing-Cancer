@@ -1,0 +1,595 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "390",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Anxiety",
+              "timing": "pre-chemo",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "390.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation during chemo",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Fatigue",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Body pain",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Dietary changes",
+              "Drinking a lot of water"
+            ]
+          },
+          {
+            "comment_id": "390.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Increase water intake to 3 liters daily",
+              "Take psyllium powder daily"
+            ]
+          },
+          {
+            "comment_id": "390.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Diarrhea",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "390.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "when taking opioid pain medications",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Routine daily dose of Miralax",
+              "Drinking lots of water"
+            ]
+          },
+          {
+            "comment_id": "390.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "during chemo treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Nausea",
+                  "timing": "from day 2 of radiation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Drinking a cup of coffee (decaf) in the am",
+              "High fiber diet"
+            ]
+          },
+          {
+            "comment_id": "390.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Taking a smaller dose of Miralax regularly",
+              "Mix Miralax with juice, hot chocolate, apple cider, whatever helps keep you hydrated",
+              "Adjusting dose of Senokot-S or other laxatives based on strong pain medication intake",
+              "Taking Dulcolax soft chews"
+            ]
+          },
+          {
+            "comment_id": "390.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Drinking a quart of water at a bare minimum, preferably more like a gallon",
+              "Taking a heaping spoonful of Metamucil"
+            ]
+          },
+          {
+            "comment_id": "390.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "as a side effect of painkillers",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Eating a lot of fluids",
+              "Eating prunes"
+            ]
+          },
+          {
+            "comment_id": "390.9",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Consuming prune juice",
+              "Consuming fiber gummies",
+              "Drinking water",
+              "Drinking coffee",
+              "Taking laxatives"
+            ]
+          },
+          {
+            "comment_id": "390.10",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Drinking prune and nectar juice",
+              "Drinking a lot of water",
+              "Taking Miralex as needed"
+            ]
+          },
+          {
+            "comment_id": "390.11",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Taking natural prokinetics agents like 5-HTP or Ginger"
+            ]
+          },
+          {
+            "comment_id": "390.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "prior to chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Bleeding from scrapes",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Low platelets",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Low hemoglobin",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Take the laxatives",
+              "Cooking vegetables until they're mushy",
+              "Mild colitis"
+            ]
+          },
+          {
+            "comment_id": "390.14",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Drink a lot of water",
+              "Take stool softeners",
+              "Take laxatives if necessary"
+            ]
+          },
+          {
+            "comment_id": "390.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Irregular bowels",
+                  "timing": "after colonoscopy and morphine",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Dose of laxatives",
+              "Drink LOTS of fluids",
+              "Try to keep active",
+              "Potter round the garden"
+            ]
+          },
+          {
+            "comment_id": "390.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Hard stools",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Abdominal cramps",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Bleeding hemorrhoids",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Drinking coffee",
+              "Take a walk",
+              "Take a warm bath or shower",
+              "Using a squatty potty"
+            ]
+          },
+          {
+            "comment_id": "390.17",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Opioid induced constipation",
+                  "timing": "on occasion",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Diarrhea",
+                  "timing": "on occasion",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Take stool softeners",
+              "Opium tincture"
+            ]
+          },
+          {
+            "comment_id": "390.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Drink as much liquid as you can",
+              "Take short walks when you feel up for it",
+              "Try to do whole fiber in your diet every day",
+              "Taking a sennakot EVERY night"
+            ]
+          },
+          {
+            "comment_id": "390.19",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Taking miralax daily",
+              "Walk"
+            ]
+          },
+          {
+            "comment_id": "390.20",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Use toilet seat bidets that have an enema mode"
+            ]
+          },
+          {
+            "comment_id": "390.21",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Take lots of liquids- teas & water to treatment"
+            ]
+          },
+          {
+            "comment_id": "390.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Severe constipation",
+                  "timing": "at one point during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Dry smudges",
+                  "timing": "during severe constipation",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Soreness",
+                  "timing": "after relief from severe constipation",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Eating prunes everyday",
+              "Taking Phillips laxative tablets",
+              "Staying hydrated"
+            ]
+          },
+          {
+            "comment_id": "390.23",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Consuming Indian food"
+            ]
+          },
+          {
+            "comment_id": "390.24",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Pooping problems",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Supplementing probiotics",
+              "Drink kefir"
+            ]
+          },
+          {
+            "comment_id": "390.25",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Chronic constipation",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Taking Miralax everyday in the morning",
+              "Eating prunes as a snack",
+              "Eating oatmeal",
+              "Eating sweet potatoes",
+              "Eating high fiber veggies",
+              "Taking Metamucil everyday in the evening",
+              "Taking 2 Swiss Kriss tablets",
+              "Staying hydrated"
+            ]
+          },
+          {
+            "comment_id": "390.26",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "after first cycle of chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Eating more fiber (wholemeal bread, more veg)",
+              "Drinking 2 litres of water a day",
+              "Taking the occasional laxative"
+            ]
+          },
+          {
+            "comment_id": "390.27",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Vomiting",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Staying as hydrated as I can",
+              "Eating food that's high in fiber and soft"
+            ]
+          },
+          {
+            "comment_id": "390.28",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Walking around- just a bit throughout the day"
+            ]
+          },
+          {
+            "comment_id": "390.29",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "from pain meds",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "Irregular bowels",
+                  "timing": "from pain meds",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Taking a colace every morning and every night",
+              "Taking miralax every morning with some juice (or coffee if I'm really struggling)",
+              "Taking a dulcolax"
+            ]
+          },
+          {
+            "comment_id": "390.30",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Diarrhoea",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Drinking 2-3 litres a day of water",
+              "Movicol",
+              "Coloxyl with Senna"
+            ]
+          },
+          {
+            "comment_id": "390.31",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Drinking a small glass of carton of fresh orange juice every morning"
+            ]
+          },
+          {
+            "comment_id": "390.39",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Acid reflux",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Also a stool softener works",
+              "Sometimes I take Mralax the morning after my session"
+            ]
+          },
+          {
+            "comment_id": "390.44",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "caused by nausea medications",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Nausea",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Cut off/reduce nausea medications"
+            ]
+          },
+          {
+            "comment_id": "390.45",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Ask the doctors for something for it when I've been badly constipated",
+              "movicol"
+            ]
+          },
+          {
+            "comment_id": "390.47",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "zero platelets",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "zero hemoglobin",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Rotate torso to mimic peristalsis"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

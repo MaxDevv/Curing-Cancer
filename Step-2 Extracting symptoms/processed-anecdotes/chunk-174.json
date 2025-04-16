@@ -1,0 +1,769 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "447",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "being a little more tired than usual",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "fatigue",
+              "timing": "after treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "stomach is messed up",
+              "timing": "after treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "low energy levels",
+              "timing": "after treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "throat hurts sometimes",
+              "timing": "after treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "447.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "side effects of treatment",
+                  "timing": "during remission",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "some physical lingering effects",
+                  "timing": "2.5 years out of treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "some emotional lingering effects",
+                  "timing": "2.5 years out of treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "moved to Houston for treatment",
+              "moved back when cured"
+            ]
+          },
+          {
+            "comment_id": "447.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "psychological trauma",
+                  "timing": "after diagnosis and treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.4",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "digestive system is still messed up",
+                  "timing": "7 months post treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "'chemo curls' hair",
+                  "timing": "after chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "episodes of fatigue",
+                  "timing": "after chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.6",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "after chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "drinking coffee"
+            ]
+          },
+          {
+            "comment_id": "447.8",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "arthritis",
+                  "timing": "after immunotherapy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "aches and pains",
+                  "timing": "after immunotherapy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "frozen shoulder",
+                  "timing": "after immunotherapy",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tired",
+                  "timing": "after treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "digestion was messed up",
+                  "timing": "months after finishing treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "stop drinking sweeteners and cola",
+              "take probiotics and supplements"
+            ]
+          },
+          {
+            "comment_id": "447.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "gained 50lbs",
+                  "timing": "after starting meds",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "radiation pneumonitis (lung damage)",
+                  "timing": "after radiation and chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "joints snap, crackle, and pop",
+                  "timing": "due to chemical/surgical menopause",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "barely walk 150 feet without getting winded",
+                  "timing": "after treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.13",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "chronic pain",
+                  "timing": "15 years post Thyroidectomy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feeling miserable",
+                  "timing": "15 years post Thyroidectomy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feeling of being \"hypo\" even when levels are in \"normal\" range",
+                  "timing": "15 years post Thyroidectomy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tired",
+                  "timing": "15 years post Thyroidectomy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sluggish",
+                  "timing": "15 years post Thyroidectomy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "headaches",
+                  "timing": "15 years post Thyroidectomy",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "started seeing a therapist",
+              "walks",
+              "fresh air",
+              "trying to find activities that bring you joy but aren't physically exhausting"
+            ]
+          },
+          {
+            "comment_id": "447.14",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tired",
+                  "timing": "after any treatments",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.15",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.16",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.17",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.18",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.19",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.20",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "not as physically fit as I used to be",
+                  "timing": "after treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "need that nap on my lunch break",
+                  "timing": "after treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "not being able to concentrate on a task for hours on end",
+                  "timing": "after treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.21",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "somewhat messed up",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.22",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "still struggle sometimes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.24",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.25",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.26",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.27",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "aches and pains",
+                  "timing": "6 months post cancer",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.28",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.29",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.30",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.31",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "muscle spasms",
+                  "timing": "after thyroidectomy",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "dry eyes",
+                  "timing": "after thyroidectomy",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "take supplements",
+              "buy eye drops"
+            ]
+          },
+          {
+            "comment_id": "447.32",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.33",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "taking levothyroxine"
+            ]
+          },
+          {
+            "comment_id": "447.34",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feels like something isn't quite balanced",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "taking levothyroxine"
+            ]
+          },
+          {
+            "comment_id": "447.35",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.36",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.37",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.38",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "falling asleep in the afternoons",
+                  "timing": "2-3 months after 3 weeks of post surgical time off",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "needed naps again",
+                  "timing": "after returning to full time work",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "working half days",
+              "returned to work full time"
+            ]
+          },
+          {
+            "comment_id": "447.39",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.40",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.41",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "dry mouth",
+                  "timing": "after RAI",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "hard candies",
+              "stick to moister foods"
+            ]
+          },
+          {
+            "comment_id": "447.42",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.43",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "take a nap during lunch or pass out for up to 2 hours when I come home",
+                  "timing": "after treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "back to working full time (thankfully 3 days from home and 2 in the office)"
+            ]
+          },
+          {
+            "comment_id": "447.44",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.45",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "447.46",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "483",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "permanently losing sensation in hands and feet",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "steroids inflate all my soft parts",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "not having nose hairs",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "all my features rubbed out, transformed into a toe",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ],
+          "major": []
+        },
+        "lifestyle_changes": [
+          "experiment with wigs and liberal use of eyeliner",
+          "learn that temporary tattoo eyebrows are a thing"
+        ],
+        "comments": [
+          {
+            "comment_id": "483.1",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "483.2",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "483.3",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "483.4",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "483.5",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "483.6",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "483.7",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "483.8",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "483.9",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "Using crutches"
+            ]
+          },
+          {
+            "comment_id": "483.10",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "483.11",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

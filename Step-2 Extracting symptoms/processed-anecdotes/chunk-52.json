@@ -1,0 +1,225 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "153",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "jaundice (skin and eyes turned yellow)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "very itchy skin",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "blockage in the tubing leading from gal bladder and pancreas to small intestine",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "pain where the tubing went over the collar bone",
+              "timing": "post-port placement",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "tension/pain whenever turned head on the side of neck where port was placed",
+              "timing": "post-port placement",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "pain spreading from neck across chest to and down arm",
+              "timing": "post-chemo",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "inability to move due to pain",
+              "timing": "post-chemo",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "pain center moved to the tip of collar bone",
+              "timing": "post-chemo",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "swollen lymph node",
+              "timing": "during hospitalization",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "severe blood infection",
+              "timing": "post-discharge from St. Luke's East",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "delirium",
+              "timing": "during hospitalization for blood infection",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "hallucinations",
+              "timing": "during hospitalization for blood infection",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "pockets of infection throughout right and center chest",
+              "timing": "during surgery to remove port",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "ruptured artery in chest",
+              "timing": "during sponge change in chest",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "weight loss (from 265 pounds to 215 pounds)",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "inability to walk unaided",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "blacking out when standing up",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "153.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "153.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "spots on spleen grew",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "153.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "155",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "lump come through the roof of mouth",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "speech impediment arising from plate in mouth",
+              "timing": "post surgery",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "155.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "167",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "wife having fever dreams involving snakes",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "receded into the computer",
+          "became more antisocial"
+        ],
+        "comments": [
+          {
+            "comment_id": "167.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "329",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "329.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "329.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "329.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "329.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "329.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "329.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "329.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

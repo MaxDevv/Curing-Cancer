@@ -1,0 +1,1074 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "195",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "fatigue",
+              "timing": "pre-treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "nausea",
+              "timing": "pre-treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "possible sore throat",
+              "timing": "pre-treatment",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "195.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "extreme sore throat",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loss of sense of taste",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "loss of sense of smell",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "burned esophagus to the point the worst pain I've ever had was simply swallowing",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "weight loss of 30 pounds in a month",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling giddy, almost like being drunk, for a couple of days",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "hair loss",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lost taste",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "lost smell",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "hair on the neck never grew back",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "minimal sore throat for less than a day",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "no burn marks",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "minimal fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "painful sternum",
+                  "timing": "pre-treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "badly affected skin, but fortunately didn't break",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "sharp stabbing pains",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "discomfort",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "getting plenty of rest",
+              "sleep when you need it"
+            ]
+          },
+          {
+            "comment_id": "195.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "burning ribs",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "occasional tenderness in rib area",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "mild tiredness",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "extreme tiredness",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "upping water intake",
+              "moisturizing the area",
+              "exercise",
+              "doing something to keep moving"
+            ]
+          },
+          {
+            "comment_id": "195.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bad sunburn in armpit and under boob",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "red spots",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tender skin across collarbones and chest",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "swallowing difficulties",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "inflammation",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "coughing",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "spitting",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "raw feeling in chest",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "tight muscles cross neck and chest",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "physical therapy"
+            ]
+          },
+          {
+            "comment_id": "195.11",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tired like I'd had a decent lunch",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "skin irritation kind of like a nappy rash",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.13",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "esophagus pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "weight loss of 20 lbs over the last 5 months",
+                  "timing": "pre-treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loss of appetite driven by loss of taste",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "drunk feeling",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "brain fog",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.17",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.18",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.19",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sharp stabbing pains",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "swallowing issues",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "inflammation",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "muscle tightness",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "physical therapy"
+            ]
+          },
+          {
+            "comment_id": "195.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "metastasis to lungs",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "metastasis to brain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.23",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.24",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "can't feel the heat from the shower on right leg",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "pain from water hitting the right leg",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "avoiding showers"
+            ]
+          },
+          {
+            "comment_id": "195.26",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "drunk feeling",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "hair thinning only noticeable to self",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "tiredness",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.27",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "extreme dry mouth",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "mild dry mouth",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "affected swallowing muscles",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "affected speech",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "pain from radiation burns is cumulative",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "swallowing therapy"
+            ]
+          },
+          {
+            "comment_id": "195.28",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "loss of taste",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.29",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "pre-treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.30",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "skin peeling",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "skin blistering",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "stabbing pains",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.31",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "enlarged lymph node",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.33",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.34",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.35",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.36",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.37",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.38",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.39",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.40",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.41",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.42",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.43",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.44",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.45",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "slight dryness in throat",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.46",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.47",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.48",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "195.49",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "sore throat",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "left side heaviness",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "left side muscle weakness",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "dysesthesia on right side",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "204",
+        "symptoms": {
+          "minor": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "204.1",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.2",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.3",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.4",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.5",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.6",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.7",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.8",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.9",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "starving",
+              "living homeless to continue treatment"
+            ]
+          },
+          {
+            "comment_id": "204.10",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.11",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.12",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "onset of pneumonia",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.14",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.15",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.16",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.17",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.18",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "204.19",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "206",
+        "symptoms": {
+          "minor": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "206.1",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "constant throwing up",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "trouble sleeping",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "loss of appetite",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.4",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.5",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "projectile vomiting",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.7",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea intensifying",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.9",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain",
+                  "timing": "pre-surgery",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.11",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.12",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.13",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.14",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "206.15",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

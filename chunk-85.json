@@ -1,0 +1,360 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "234",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "anxiety",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "feeling anxious where I shake and feel like an elephant is sitting on my chest",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "nausea",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "weight gain",
+              "timing": "during treatment (chemo)",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "hair loss (long hair)",
+              "timing": "during treatment (chemo)",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "breakouts on face",
+              "timing": "during treatment (chemo)",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "feeling insecure",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "major"
+            },
+            {
+              "symptom": "feeling undateable and hideous",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "major"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "skipped a semester of school",
+          "avoiding medical appointments due to fatigue from hospital visits and calls"
+        ],
+        "comments": [
+          {
+            "comment_id": "234.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "weight gain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "hair loss",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "spent a lot of time at the cancer ward",
+              "stayed in one class",
+              "dropped all other classes"
+            ]
+          },
+          {
+            "comment_id": "234.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "depression",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "hair loss (long thick hair)",
+                  "timing": "during treatment (chemo)",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "quit job"
+            ]
+          },
+          {
+            "comment_id": "234.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "weight gain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "emotional eating",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "extreme hunger",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "weight loss",
+                  "timing": "during maintenance therapy",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "missed a year of uni",
+              "managed to take two exams in between treatments",
+              "stopped lifting"
+            ]
+          },
+          {
+            "comment_id": "234.9",
+            "symptoms": {
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "234.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "246",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "little to no pain",
+              "timing": "recent (last 3 weeks)",
+              "initially_perceived_as": "positive"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "eating whatever she wants",
+          "travel to Cancun and Disney World"
+        ],
+        "comments": [
+          {
+            "comment_id": "246.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "246.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "374",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "FDG avidity seen in the left lower extremity over the dorsum of the foot within the musculature",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "intense focus of FDG avidity adjacent to the 2nd metatarsal",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "swelling in left foot",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "pain in left foot, especially when walking or using it a lot",
+              "timing": "post-diagnosis",
+              "initially_perceived_as": "minor"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    }
+  ]
+}

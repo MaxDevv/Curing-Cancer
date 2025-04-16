@@ -1,0 +1,555 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "21",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "symptoms dismissed as acid reflux",
+              "timing": "7-8 months prior to diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "anxiety attacks",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "weight loss (ended up weighing 69 lbs at one point, normally 112 lbs)",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "tumor in stomach (14 cm)",
+              "timing": "at diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "fainting",
+              "timing": "day of cancer confirmation",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "blood in stool",
+              "timing": "day of cancer confirmation",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "vomiting everything (with blood)",
+              "timing": "day of cancer confirmation",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "sepsis",
+              "timing": "after surgery",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "agonizing pain",
+              "timing": "after surgery",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "bowel obstruction",
+              "timing": "after endoscopy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "holes in stomach from tubes",
+              "timing": "during treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "required blood transfusion",
+          "underwent emergency surgery (partial gastrectomy and partial colectomy)",
+          "removal of lymph nodes",
+          "NPO (nothing by mouth) for most of hospital stay",
+          "TPN (total parenteral nutrition) for nutrients",
+          "learning how to walk again",
+          "learning how to sit on the toilet again",
+          "learning how to get up from bed again",
+          "FOLFOX chemotherapy",
+          "radiation treatment"
+        ],
+        "comments": [
+          {
+            "comment_id": "21.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "total gastrectomy",
+              "chemo"
+            ]
+          },
+          {
+            "comment_id": "21.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "recurrence of stomach cancer",
+                  "timing": "after 18 months of being NED",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "surgery to remove cancer"
+            ]
+          },
+          {
+            "comment_id": "21.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.5",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "total hysterectomy",
+              "follow up scans every 3 months for the next two years"
+            ]
+          },
+          {
+            "comment_id": "21.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weight loss",
+                  "timing": "after surgery",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "anemia",
+                  "timing": "after gallbladder removal",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "gallbladder ultrasound",
+              "gallbladder removal",
+              "CT scan",
+              "port placement",
+              "chemo",
+              "surgery"
+            ]
+          },
+          {
+            "comment_id": "21.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood and stool combining",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "vomiting blood and food",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sepsis",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "abnormal heart rate",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "low blood pressure",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "blood infusions"
+            ]
+          },
+          {
+            "comment_id": "21.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.22",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "FLOT chemotherapy",
+              "oesophagectomy",
+              "partial gastrectomy",
+              "removal of part of diaphragm",
+              "removal of about 40 lymph nodes"
+            ]
+          },
+          {
+            "comment_id": "21.23",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "throwing up a lot of blood",
+                  "timing": "prior to diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "anemia",
+                  "timing": "prior to diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "chemo"
+            ]
+          },
+          {
+            "comment_id": "21.24",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "temporary colostomy",
+              "sub total colectomy",
+              "surveillance",
+              "two big surgeries",
+              "Nephroureterectomy",
+              "adhesion lysis",
+              "split cycles of chemo",
+              "immuno therapy",
+              "genetic counselor referral"
+            ]
+          },
+          {
+            "comment_id": "21.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.27",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "total gastrectomy"
+            ]
+          },
+          {
+            "comment_id": "21.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.31",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "chemos"
+            ]
+          },
+          {
+            "comment_id": "21.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.34",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "total gastrectomy"
+            ]
+          },
+          {
+            "comment_id": "21.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.37",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "chemo",
+              "surgery to remove part of large intestine",
+              "surgery to remove a chunk of the liver",
+              "surgery to remove bunch of lymph nodes"
+            ]
+          },
+          {
+            "comment_id": "21.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.48",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood and stool combining",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "vomiting blood and food",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "high heart rate",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.60",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.61",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "21.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "92",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "92.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "92.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "98",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    }
+  ]
+}

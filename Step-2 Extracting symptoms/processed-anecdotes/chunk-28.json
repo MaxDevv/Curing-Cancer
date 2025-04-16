@@ -1,0 +1,283 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "69",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "lump in neck",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "pain in left ear",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "headaches",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "allergic reaction to medication",
+              "timing": "during treatment for ear infection",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "stronger headaches due to allergic reaction",
+              "timing": "during treatment for ear infection",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "nosebleeds due to allergic reaction",
+              "timing": "during treatment for ear infection",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "lightning pains in ear and neck due to allergic reaction",
+              "timing": "during treatment for ear infection",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "feeling ill",
+              "timing": "during treatment for ear infection",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "very tired",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "not wanting to eat",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "blood got very dark",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "difficulty eating due to material tube in nose after biopsy",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "dizziness from fright after cancer diagnosis",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "sore and itchy arm where tube was inserted for chemotherapy",
+              "timing": "during treatment",
+              "initially_perceived_as": "annoyed"
+            },
+            {
+              "symptom": "very tired",
+              "timing": "during chemotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "bad constipation",
+              "timing": "during chemotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "nausea",
+              "timing": "during chemotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "sore throat due to being sick",
+              "timing": "during chemotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "appetite not good",
+              "timing": "during chemotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "blocked left nostril",
+              "timing": "pre-diagnosis and during chemotherapy",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "food tasting like dirty potatoes",
+              "timing": "after chemotherapy",
+              "initially_perceived_as": "annoyed"
+            },
+            {
+              "symptom": "constipation",
+              "timing": "after chemotherapy",
+              "initially_perceived_as": "annoyed"
+            },
+            {
+              "symptom": "awkward itchiness inside arm from needle",
+              "timing": "during chemotherapy",
+              "initially_perceived_as": "annoyed"
+            },
+            {
+              "symptom": "sore throat",
+              "timing": "during radiotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "mouth ulcers",
+              "timing": "during radiotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "panic attack and slight loss of consciousness after eating a whole chilly",
+              "timing": "during remission",
+              "initially_perceived_as": "concerned"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "pain in left ear causing headaches which prevent sleeping at night",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "no energy",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "having to spend all days in bed because I couldn't even stand up",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "shitting German black sausages",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "unable to talk because I had no control over my lips because I couldn't feel them due to anaesthetic",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "dribbling because I had no control over my lips because I couldn't feel them due to anaesthetic",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "being sick every half an hour",
+              "timing": "during chemotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "losing a lot of weight (10kg)",
+              "timing": "during chemotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "not being able to eat",
+              "timing": "during radiotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "not being able to drink",
+              "timing": "during radiotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "not being able to talk",
+              "timing": "during radiotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "admitted to hospital because I have not been eating for the last 2 weeks",
+              "timing": "during radiotherapy",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "brain completely forgot how to eat solid foods",
+              "timing": "during remission",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "headaches gone",
+              "timing": "during remission",
+              "initially_perceived_as": "relieved"
+            },
+            {
+              "symptom": "earaches gone",
+              "timing": "during remission",
+              "initially_perceived_as": "relieved"
+            },
+            {
+              "symptom": "nosebleeds gone",
+              "timing": "during remission",
+              "initially_perceived_as": "relieved"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "taking anti-inflammatory drugs for lump in neck",
+          "taking Anti-Biotic drop solutions for ear",
+          "using a cleaning spray to help keep ear clean",
+          "taking stronger medication",
+          "taking iron supplements",
+          "got a cigarette",
+          "bought a hat for when I start losing my hair",
+          "bought McDonalds",
+          "taking medication",
+          "taking sleeping tablets",
+          "taking protein supplements"
+        ],
+        "comments": [
+          {
+            "comment_id": "69.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "69.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "69.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "69.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "69.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "69.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "69.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "183",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    }
+  ]
+}

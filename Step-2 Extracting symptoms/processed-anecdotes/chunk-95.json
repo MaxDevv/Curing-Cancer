@@ -1,0 +1,648 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "249",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "melasma on the face (darkening of the skin)",
+              "timing": "at least a year before diagnosis",
+              "initially_perceived_as": "sun damage"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "249.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fatigue (extreme, requiring sitting down and causing the person to wake up hours later)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "unusual infections (plural) that the person could not fight off",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "chest tightness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "chest pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "blood counts were all over the place",
+                  "timing": "pre-diagnosis for a year and a half",
+                  "initially_perceived_as": "fluke"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sickly appearance",
+                  "timing": "several years before diagnosis",
+                  "initially_perceived_as": "looking good"
+                },
+                {
+                  "symptom": "pale complexion",
+                  "timing": "several years before diagnosis",
+                  "initially_perceived_as": "looking good"
+                },
+                {
+                  "symptom": "unhealthy appearance",
+                  "timing": "several years before diagnosis",
+                  "initially_perceived_as": "looking good"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "severe pain in the stomach",
+                  "timing": "two years pre-diagnosis",
+                  "initially_perceived_as": "indigestion or IBS"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "neck pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "a bad kink in my neck, normal aches and pains of pregnancy"
+                },
+                {
+                  "symptom": "neck swelling",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "a bad kink in my neck, normal aches and pains of pregnancy"
+                },
+                {
+                  "symptom": "C4 significantly eroded away by a tumor",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "C4 collapsed onto a nerve",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "obvious lumps in abdomen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "a ton of stomach pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "low right back pain - a constant dull ache that was much worse in certain positions like lying down",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored by health care providers"
+                },
+                {
+                  "symptom": "irregular bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "might be a sign of menopause"
+                },
+                {
+                  "symptom": "loss of energy",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored by health care providers"
+                },
+                {
+                  "symptom": "tired all the time",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored by health care providers"
+                },
+                {
+                  "symptom": "sick all the time - one thing after another",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored by health care providers"
+                },
+                {
+                  "symptom": "swollen glands",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored by health care providers"
+                },
+                {
+                  "symptom": "sinusitis",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored by health care providers"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored by health care providers"
+                },
+                {
+                  "symptom": "periods were days apart",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "expecting them to stop or taper off"
+                },
+                {
+                  "symptom": "periods got heavier",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "expecting them to stop or taper off"
+                },
+                {
+                  "symptom": "periods got closer together",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "expecting them to stop or taper off"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "throwing up",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "serious"
+                },
+                  {
+                  "symptom": "bleeding constantly",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "serious"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "lose weight",
+              "exercise",
+              "eat right",
+              "take this drug",
+              "stop taking that drug",
+              "ice",
+              "heat",
+              "physical therapy",
+              "see a mental health provider"
+            ]
+          },
+          {
+            "comment_id": "249.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bumpy mole on scalp that grew back after being cut off",
+                  "timing": "years before diagnosis",
+                  "initially_perceived_as": "weird"
+                },
+                {
+                  "symptom": "itchy mole on scalp",
+                  "timing": "~3 years leading up to diagnosis",
+                  "initially_perceived_as": "cosmetic procedure"
+                },
+                {
+                  "symptom": "little stabs of pain from mole on scalp",
+                  "timing": "~3 years leading up to diagnosis",
+                  "initially_perceived_as": "cosmetic procedure"
+                },
+                {
+                  "symptom": "large white halo around mole",
+                  "timing": "shortly before diagnosis",
+                  "initially_perceived_as": "cosmetic procedure"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "overall lethargy",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "laziness"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "laziness"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "cough",
+                  "timing": "19 months before diagnosis",
+                  "initially_perceived_as": "acid reflux and asthma"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "projectile vomiting",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "loss of balance",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "concentration problems",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "occasional rectal bleeding",
+                  "timing": "few years before diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "narrow stool",
+                  "timing": "few years before diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "blood every time going to the bathroom",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "worried"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.14",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "chronic back pain and accepted it as the new normal, bulging disc"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "unexplained swelling in arms and legs",
+                  "timing": "2 years before diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "knee pain",
+                  "timing": "2 years before diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bumps going up and down the length of her arm",
+                  "timing": "2 years before diagnosis",
+                  "initially_perceived_as": "frozen shoulder"
+                },
+                {
+                  "symptom": "constantly catching colds or the flu",
+                  "timing": "2 years before diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "high fevers and temperatures often",
+                  "timing": "2 years before diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "persistent cough",
+                  "timing": "2 years before diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fluid in one of her lungs",
+                  "timing": "2 years before diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stomach hurt quite a bit",
+                  "timing": "over a year before her diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "quit vinegar",
+              "eat a raw onion"
+            ]
+          },
+          {
+            "comment_id": "249.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sweat so bad in the night",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.17",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "returning with the same symptoms plus some extra",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe itching all over body",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "random fevers",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weird blood counts",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "gigantic swollen lump on the side of my neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.19",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "enflamed lymph nodes",
+                  "timing": "over the course of three years",
+                  "initially_perceived_as": "some people just have enflamed lymph nodes"
+                },
+                {
+                  "symptom": "feeling like shit most of the time",
+                  "timing": "over the course of three years",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.20",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pale appearance",
+                  "timing": "just before diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.21",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "disgusting pale in pictures",
+                  "timing": "three years already",
+                  "initially_perceived_as": "just pale"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.26",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swelling in her arms and legs with bumps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "frozen shoulder"
+                },
+                {
+                  "symptom": "pelvic pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "constantly getting sick with fevers",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "felt very weak",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "got tired quickly",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "felt like she was going to pass out",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.35",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "chronic dry cough",
+                  "timing": "6+ months prior to diagnosis",
+                  "initially_perceived_as": "COPD"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.39",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swollen neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.40",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "stomach pain",
+                  "timing": "around since 8 years old",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.44",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lower back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "249.51",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "radiation pneumonia",
+                  "timing": "post diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "317",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "317.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sore on the side of my tongue started out smaller than my pinky nail, like a canker sore",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sore on the side of the tongue quickly grew into probably a bit longer than my pinky",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sore on the side of my tongue has just taken on a life on the side of my tongue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

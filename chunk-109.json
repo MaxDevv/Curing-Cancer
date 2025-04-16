@@ -1,0 +1,598 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "275",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "275.1",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Life slows down a lot"
+            ]
+          },
+          {
+            "comment_id": "275.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Staying active while isolated"
+            ]
+          },
+          {
+            "comment_id": "275.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "terrible case of neuropathy",
+                  "timing": "post-transplant, after fighting off a virus",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Shingles",
+                  "timing": "post-transplant, after stopping medication",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Relocated to hospital area for 100 days for monitoring",
+              "Careful to avoid any illness",
+              "Taking prescribed medications"
+            ]
+          },
+          {
+            "comment_id": "275.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "mucositis for about a week",
+                  "timing": "in hospital",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "painful swallowing",
+                  "timing": "in hospital, during mucositis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "skin rash",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "liver enzymes go a bit high",
+                  "timing": "post-transplant",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Isolation after transplant"
+            ]
+          },
+          {
+            "comment_id": "275.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sleepiness",
+                  "timing": "during transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "during transplant",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Exercising (walking on a treadmill)",
+              "Eating healthy",
+              "Keeping mind focused with goals and activities"
+            ]
+          },
+          {
+            "comment_id": "275.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "very weak",
+                  "timing": "post-transplant, during 3 weeks in an air locked room",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "needed assistance to walk at first",
+                  "timing": "post-transplant, during 3 weeks in an air locked room",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "neuropathy",
+                  "timing": "lasting side effect",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Walk as much as you can, every day 3 times a day"
+            ]
+          },
+          {
+            "comment_id": "275.8",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "devotion to exercise",
+              "relatively healthy general lifestyle"
+            ]
+          },
+          {
+            "comment_id": "275.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.12",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Life post transplant slows down",
+              "Patient with body",
+              "avoid any unnecessary outings or travel",
+              "catching a cold can send your body into panick mode"
+            ]
+          },
+          {
+            "comment_id": "275.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "cold that lasted a month",
+                  "timing": "December/January",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "neuropathy in feet",
+                  "timing": "caused by pre-transplant chemo",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "hair did take time to grow back fully",
+                  "timing": "After the transplant",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.19",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Sinus cold that just wouldn't relent",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "being weak",
+                  "timing": "after SCT",
+                  "initially_perceived_as": "not worried"
+                },
+                {
+                  "symptom": "having low blood cell numbers",
+                  "timing": "after SCT",
+                  "initially_perceived_as": "not worried"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "neutropenic fever",
+                  "timing": "post allo-transplant",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "post allo-transplant",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Needed to be home for 100 days to keep from catching anything"
+            ]
+          },
+          {
+            "comment_id": "275.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea from allo transplant chemo",
+                  "timing": "during transplant chemo",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.23",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "wasn't especially hungry",
+                  "timing": "for the first few weeks post-transplant",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "275.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "282",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "282.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nodules in his lung",
+                  "timing": "during scans",
+                  "initially_perceived_as": "suspicious"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "abdominal pain",
+                  "timing": "two years ago",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "lesions on my spine",
+                  "timing": "two years ago, incidentally noted on CT scan",
+                  "initially_perceived_as": "suspicious for metastatic disease"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "suspicious spots on his liver and gallbladder",
+                  "timing": "during scans",
+                  "initially_perceived_as": "suspicious"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lucency in my right upper lung lobe",
+                  "timing": "unknown",
+                  "initially_perceived_as": "suspicious for metastatic disease"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sciatica",
+                  "timing": "resulting from plasmacytoma in L4 pressing against the nerve roots of the sciatic nerve",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "incredibly painful 24/7",
+                  "timing": "resulting from plasmacytoma in L4 pressing against the nerve roots of the sciatic nerve",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.30",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sclerotic lesions on spine",
+                  "timing": "unknown",
+                  "initially_perceived_as": "consistent with metastatic disease"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "irregularities in my lungs",
+                  "timing": "Revealed on CT for Kidney stone in '20",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "one definable tumor in my right lung",
+                  "timing": "recent",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "\"ground glass\" in my upper left lung: patch of very small tumors",
+                  "timing": "recent",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feeling run down",
+                  "timing": "recent, last two scans have shown growth",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.35",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "so worked up",
+                  "timing": "during testing",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "282.36",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "soooo nervous",
+                  "timing": "before biopsy",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

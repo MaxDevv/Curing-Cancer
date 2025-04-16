@@ -1,0 +1,836 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "7",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Swollen lymph node (3.0X3.3 CM's big)",
+              "timing": "Relapse, February 10th doing 1 year scans and bloodwork",
+              "initially_perceived_as": "Concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Went back to work at garbage job one week after surgery",
+          "Moved back in with mom due to landlord selling townhouse",
+          "Tried to work during 3XBEP treatment but couldn't due to physical labor requirements",
+          "Fired from job for not being able to work during treatment",
+          "Recovering from PC_RPLND surgery, unable to do physical labor until September/October",
+          "Looking for non-physical labor work"
+        ],
+        "comments": [
+          {
+            "comment_id": "7.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Pain",
+                  "timing": "Currently",
+                  "initially_perceived_as": "Concerned"
+                },
+                {
+                  "symptom": "Other issues with this body",
+                  "timing": "Currently",
+                  "initially_perceived_as": "Concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Quit job due to inability to perform it",
+              "Trying to get up everyday and function to the best of ability",
+              "Seeing grandkids everyday",
+              "Trying to eat good food",
+              "Trying to relax and feel comfortable"
+            ]
+          },
+          {
+            "comment_id": "7.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Bleeding",
+                  "timing": "Pre-treatment, while still working",
+                  "initially_perceived_as": "Unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Continued to work while bleeding prior to treatment",
+              "Took FMLA leave",
+              "Went on leave for 4 months after Week 3 of External Beam Radiation due to effects kicking ass hard",
+              "Returned to work after treatments",
+              "Fired from work and told to vacate premises"
+            ]
+          },
+          {
+            "comment_id": "7.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.4",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Husband, used to manual labor, started working with the state benefits office"
+            ]
+          },
+          {
+            "comment_id": "7.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.13",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Looking for somewhere where it isn't physical labor"
+            ]
+          },
+          {
+            "comment_id": "7.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "7.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "8",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "8.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.53",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Always include soursop leaves soup in your daily diet"
+            ]
+          },
+          {
+            "comment_id": "8.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.60",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.61",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.66",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.67",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.68",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.69",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "8.70",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "10",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Two tumors: one on pituitary and the other on hypothalamus",
+              "timing": "August 2015, during diagnosis",
+              "initially_perceived_as": "Concerned"
+            },
+            {
+              "symptom": "Weight loss (85.7 lbs)",
+              "timing": "Day before diagnosis",
+              "initially_perceived_as": "Concerned"
+            },
+            {
+              "symptom": "Double vision",
+              "timing": "Pre-diagnosis",
+              "initially_perceived_as": "Unknown"
+            },
+            {
+              "symptom": "Violently throw up even stomach acid",
+              "timing": "Pre-diagnosis",
+              "initially_perceived_as": "Unknown"
+            },
+            {
+              "symptom": "Dry heave for hours on end",
+              "timing": "Pre-diagnosis",
+              "initially_perceived_as": "Unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "10.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Avascular Necrosis: a degenerative joint disease that causes the blood vessels in my joints to die so my joints slowly die and collapse in on themselves",
+                  "timing": "Post-treatment",
+                  "initially_perceived_as": "Concerned"
+                },
+                {
+                  "symptom": "Hormone deficiency",
+                  "timing": "Post-treatment",
+                  "initially_perceived_as": "Concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Two joint replacements",
+              "Two joints repaired",
+              "Take prescription supplements for hormones"
+            ]
+          },
+          {
+            "comment_id": "10.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.18",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Avascular Necrosis: a degenerative joint disease that causes the blood vessels in my joints to die and so my joints slowly die and collapse in on themselves",
+                  "timing": "Post-treatment",
+                  "initially_perceived_as": "Concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.22",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Going to therapy"
+            ]
+          },
+          {
+            "comment_id": "10.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.29",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Writing a book series"
+            ]
+          },
+          {
+            "comment_id": "10.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.37",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Chronic nausea",
+                  "timing": "Due to treatment",
+                  "initially_perceived_as": "Concerned"
+                },
+                {
+                  "symptom": "Chronic pain",
+                  "timing": "Due to treatment",
+                  "initially_perceived_as": "Concerned"
+                },
+                {
+                  "symptom": "Avascular Necrosis",
+                  "timing": "Due to treatment",
+                  "initially_perceived_as": "Concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Take hormone replacements (e.g., desmopressin)"
+            ]
+          },
+          {
+            "comment_id": "10.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "10.39",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Writing a fictional fantasy book series with friends"
+            ]
+          },
+          {
+            "comment_id": "10.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "36",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "36.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "36.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "36.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "36.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "125",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": []
+      }
+    }
+  ]
+}

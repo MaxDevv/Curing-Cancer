@@ -1,0 +1,774 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "267",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "Terminal cancer",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "No job because of increasing cancer symptoms",
+          "Considering selling everything to travel",
+          "Renting real estate and taking care of it"
+        ],
+        "comments": [
+          {
+            "comment_id": "267.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "BRCA2 ovarian cancer stage 3c",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Renting a house with a yard and a garage",
+              "Staying put instead of traveling"
+            ]
+          },
+          {
+            "comment_id": "267.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.3",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Considering traveling if they had the means"
+            ]
+          },
+          {
+            "comment_id": "267.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 esophageal cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Considering cashing in savings to travel the world"
+            ]
+          },
+          {
+            "comment_id": "267.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.7",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Finding comfort in family",
+              "Considering staying put"
+            ]
+          },
+          {
+            "comment_id": "267.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.9",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Considering traveling but missing kids"
+            ]
+          },
+          {
+            "comment_id": "267.10",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Considering aggressive financial strategies"
+            ]
+          },
+          {
+            "comment_id": "267.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.12",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Suggests getting on benefits and taking a part-time job."
+            ]
+          },
+          {
+            "comment_id": "267.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Terminal cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Choosing to keep working",
+              "Traveling during summer breaks"
+            ]
+          },
+          {
+            "comment_id": "267.16",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Would live normally despite diagnosis"
+            ]
+          },
+          {
+            "comment_id": "267.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Kidney cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Stopped working",
+              "Focusing energy on desired activities",
+              "Learning the violin",
+              "Putting money aside for bucket list",
+              "Considering traveling but missing connection with loved ones"
+            ]
+          },
+          {
+            "comment_id": "267.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.19",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Suggests looking into DWD options"
+            ]
+          },
+          {
+            "comment_id": "267.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.21",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Living as if there is no end"
+            ]
+          },
+          {
+            "comment_id": "267.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.28",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Considering traveling"
+            ]
+          },
+          {
+            "comment_id": "267.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.30",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Sell up, travel the world, do all the things you have wanted to do - the full bucket list as much as you are able"
+            ]
+          },
+          {
+            "comment_id": "267.31",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Terminal cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.35",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Planning to sell the house and move to Greece"
+            ]
+          },
+          {
+            "comment_id": "267.36",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "BRCA2 pancreatic cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.44",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Stopped listening to doctors and quit medication"
+            ]
+          },
+          {
+            "comment_id": "267.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.46",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Driving to the Oregon Coast to feel happy"
+            ]
+          },
+          {
+            "comment_id": "267.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.50",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Enjoying life but saving money for later"
+            ]
+          },
+          {
+            "comment_id": "267.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.55",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage Four cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Staying on Carboplatin"
+            ]
+          },
+          {
+            "comment_id": "267.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.60",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "267.61",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Going on travels with destination unknown"
+            ]
+          },
+          {
+            "comment_id": "267.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "301",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Thinning hair",
+              "timing": "during treatment",
+              "initially_perceived_as": "mild"
+            },
+            {
+              "symptom": "Scalp breaking out",
+              "timing": "during treatment",
+              "initially_perceived_as": "mild"
+            },
+            {
+              "symptom": "Mouth sensitivity, mainly to citrus and alcohol",
+              "timing": "during treatment",
+              "initially_perceived_as": "mild"
+            },
+            {
+              "symptom": "Vaginal/anal areas are much more sore",
+              "timing": "during treatment",
+              "initially_perceived_as": "mild"
+            },
+            {
+              "symptom": "Whole body feels like arthritis flare-ups",
+              "timing": "during treatment",
+              "initially_perceived_as": "mild"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "Neuro-endocrine pancreatic tumor",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Not drinking alcohol now",
+          "Fastidious and use a bidet with plain water after almost every trip to the bathroom.",
+          "Nonexistent active sex life now"
+        ],
+        "comments": [
+          {
+            "comment_id": "301.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Nausea",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Lost 10 lbs because of nausea"
+            ]
+          },
+          {
+            "comment_id": "301.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Bleeding feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Drop down to 20 mg"
+            ]
+          },
+          {
+            "comment_id": "301.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Hand foot skin syndrome",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Decreasing the dose then stopping it"
+            ]
+          },
+          {
+            "comment_id": "301.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "301.5",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Switching to baby shampoo and mild toothpaste",
+              "Eat pretty much anything to gain weight"
+            ]
+          },
+          {
+            "comment_id": "301.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "301.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "301.8",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "Try a couple of scalp options"
+            ]
+          },
+          {
+            "comment_id": "301.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "301.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "301.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Bleeding feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Gone down as low as possible for the cabometrix"
+            ]
+          },
+          {
+            "comment_id": "301.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "324",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "Back pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "Nerve pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "Lymphoma",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Two lesions on thoracic vertebrae",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Compression fracture",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Cancer in several lymph nodes in neck and torso",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "Doing a whole semester of school",
+          "Doing high impact exercise with the help of Tylenol"
+        ],
+        "comments": [
+          {
+            "comment_id": "324.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "324.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Shoulder pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Extreme neuropathy in hands and feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Stage 4 esophagus cancer with Mets to lungs, liver, and brain",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "324.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Tumors on both sides",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "324.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "Tingling in lower body",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "T spine lymphoma tumor",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Loss of feeling in lower body",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "324.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Lump behind left knee",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "Cutaneous T cell lymphoma NOS",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Intense chemo regimen"
+            ]
+          },
+          {
+            "comment_id": "324.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "324.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage 4 lung cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "324.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "324.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "T cell lymphoma cutaneous",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "324.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

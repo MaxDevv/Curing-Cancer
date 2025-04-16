@@ -1,0 +1,498 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "251",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "251.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump (enlarged node) in her neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bump on neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "many smaller bumps started growing around the original bump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "night sweats more frequently",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "persistent dry cough that was really bad with awful fits",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "coughing so hard that I would throw up",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "neck swelled on my right side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lymph nodes in my jaw started to get hard, as well as swollen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "left side of my jaw and lower face went numb",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "extreme fatigue, over the course of 2 months",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "massive night sweats, every night that soaked through my bedding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "reduced gym visits from 4-5 times a week to none",
+              "reduced weekend outings due to lack of energy"
+            ]
+          },
+          {
+            "comment_id": "251.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "coughing so hard that I was throwing up",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "occasional night sweat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump in neck right above collar bone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "fatigued more than usual",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lost 10 lbs so far",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "joint pain (knee was swollen and painful for unknown reason)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "dizziness spells with numbing in arm",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "excessive sweating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "fits of itching spells that aren't consistent",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "two little bumps one bigger than the other on the groin area",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "one bump would often swell so no surprise there but it feels weird this time",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain when I touch them",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "one bump did seem to get a bit bigger",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "mild pain in my chest that progressively got worse and worse over the course of about four months",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "excruciating pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain would radiate into my left shoulder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "alcohol made the pain worse by a margin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "itching",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump in the centre of his neck which is hard but doesn't hurt",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bump on the side of the neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "coughing spells",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "increase in the intensity of hot flashes/sweating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "overall fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.30",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lumps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lost 18 pounds in the last month; with no new exercise or eating habits",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hardened lymph nodes",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.35",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "smaller lumps all around it starting to grow",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.36",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "3 lumps, 2 of them are pretty big",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.39",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain when drinking alcohol",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "251.41",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain was on the nodes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "256",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "256.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "much harder to move about",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lost appetite",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "unable to pass urine",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "rattly breath",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sleeping most of the time",
+                  "timing": "pre-death",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "256.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sweating",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "changes in breath",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "can go from bed to the sofa and to the bathroom, with fatigue"
+            ]
+          },
+          {
+            "comment_id": "256.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "always very sleepy",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "low wisthle that happens only when he is sleeping",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "256.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "felt the heart pumping different",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "277",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "277.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "steroids / chemo affects your moods. So I will be sad for no reason",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tired",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "hard to find fun things to do when too tired to get out of bed",
+              "fight hard against the negative downward spiral induced by few pleasures and achievements"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

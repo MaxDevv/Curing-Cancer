@@ -1,0 +1,504 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "190",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "190.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "extreme shoulder pain on the right shoulder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "believed to have a torn shoulder cuff"
+                },
+                {
+                  "symptom": "big lymph nodes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "friends leaving",
+              "picking and choosing who to share with",
+              "relying on online friends for support"
+            ]
+          },
+          {
+            "comment_id": "190.3",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "preparing for hair loss by buying cute \"cancer hats\", headbands, and earrings"
+            ]
+          },
+          {
+            "comment_id": "190.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "distended belly",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "stopped being a workaholic",
+              "stopped trying to make everyone happy at own expense",
+              "stopped tolerating toxic people"
+            ]
+          },
+          {
+            "comment_id": "190.5",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "being own advocate and telling doctor medicine is NOT working"
+            ]
+          },
+          {
+            "comment_id": "190.6",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "missing college",
+              "missing being a normal young adult"
+            ]
+          },
+          {
+            "comment_id": "190.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "hemmeroids, gastro tearing, IBS"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "telling everyone about cancer"
+            ]
+          },
+          {
+            "comment_id": "190.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "SIADH-Induced vomiting",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "headache-induced vomiting",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.22",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "juggling college work and cancer treatment",
+              "experiencing shaking and nervous breakdowns"
+            ]
+          },
+          {
+            "comment_id": "190.23",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "stopped going out socially so much",
+              "engaged in destructive behaviours like excessive drinking or smoking pot to lower inhibitions",
+              "restarted work only two half days a week"
+            ]
+          },
+          {
+            "comment_id": "190.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "trouble breathing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "finding new hobbies to get through the downtime at chemo treatments"
+            ]
+          },
+          {
+            "comment_id": "190.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.29",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.35",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "discovering new ways to style head/face with makeup, earrings, headbands, hats, and beanies"
+            ]
+          },
+          {
+            "comment_id": "190.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.37",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "keeping some normalcy",
+              "doing as much as possible during the good days",
+              "changed perspective of life",
+              "trying to live each day and take it step by step"
+            ]
+          },
+          {
+            "comment_id": "190.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.40",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.44",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "change in bowel habits for more than 2 weeks",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "spreading the word to everyone to get checked"
+            ]
+          },
+          {
+            "comment_id": "190.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.48",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "quit drinking cold turkey after diagnosis"
+            ]
+          },
+          {
+            "comment_id": "190.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.60",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.61",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.62",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.66",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.67",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.68",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.69",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.70",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.71",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.72",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.73",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.74",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "190.75",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "270",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "symptoms getting a little worse (compared to long COVID and allergies)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed, attributed to long COVID and allergies"
+            }
+          ],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "270.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "chest pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "shortness of breath",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.11",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "side effects of cancer treatment (multiple side effects)",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "passed out",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "couldn't walk",
+                  "timing": "post-passing out",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "broke ankle",
+                  "timing": "post-passing out",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "broke back",
+                  "timing": "post-passing out",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "horrible pain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "dizziness",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "bleeding",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major concern"
+                },
+                 {
+                  "symptom": "spot found in the mouth",
+                  "timing": "current",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "swelling",
+                  "timing": "current",
+                  "initially_perceived_as": "major concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.28",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fainting",
+                  "timing": "pre-diagnosis, if treatment was delayed",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bleeding out",
+                  "timing": "pre-diagnosis, if treatment was delayed",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "270.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "302",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "hallucinations (seeing things in the dark)",
+              "timing": "after upping dosage of oxycodone",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "crazy distortions when eyes are closed",
+              "timing": "after upping dosage of oxycodone",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "muscle spasms in arms and legs, mostly in fingers",
+              "timing": "after upping dosage of oxycodone",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "extreme anxiety",
+              "timing": "after upping dosage of oxycodone",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "depression",
+              "timing": "after upping dosage of oxycodone",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "worse pain",
+              "timing": "recent",
+              "initially_perceived_as": "major concern"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "upping dosage of oxycodone"
+        ],
+        "comments": [
+          {
+            "comment_id": "302.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hallucinations at night",
+                  "timing": "post operation",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "confusion in the day",
+                  "timing": "post operation",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "taking oxy post operation"
+            ]
+          },
+          {
+            "comment_id": "302.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "302.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "302.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "302.5",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "taking oxycodone for months",
+              "gradually reducing dosages of oxycodone to stop it"
+            ]
+          },
+          {
+            "comment_id": "302.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hallucinate a smidgen",
+                  "timing": "after partial nephrectomy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "white out",
+                  "timing": "after partial nephrectomy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fall down",
+                  "timing": "after partial nephrectomy",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "itchy teeth",
+                  "timing": "before any cancer stuff",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "given oxy after partial nephrectomy"
+            ]
+          },
+          {
+            "comment_id": "302.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "hearing music playing",
+                  "timing": "after dilaudid injection",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "took dilaudid via injection in the ER"
+            ]
+          },
+          {
+            "comment_id": "302.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "confusion",
+                  "timing": "recent",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "taking oxycodone"
+            ]
+          },
+          {
+            "comment_id": "302.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "302.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "302.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "377",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "difficulty standing at times",
+              "timing": "post-ommaya port placement",
+              "initially_perceived_as": "major concern"
+            },
+            {
+              "symptom": "weakness",
+              "timing": "post-ommaya port placement",
+              "initially_perceived_as": "major concern"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "377.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "377.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "377.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

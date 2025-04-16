@@ -1,0 +1,1047 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "241",
+        "symptoms": {
+          "minor": [],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "241.1",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "swollen lymph node",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anxiety about throat cancer",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "3 swollen lymph nodes on the right side of neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swollen lymph node/glands in neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "feeling like coming down with tonsillitis",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "loss of taste",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "a bit of hair loss(from radio-t)",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sore throat",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "no energy",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "dry mouth/throat",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "swallowing is not 100%",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "lost 2 stone",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "had to use the stomach tube they put in before the treatment to feed for maybe 2 weeks using the food they gave me [high calorie shakes]",
+              "stopped doing cycling, SUPing, surfing, weight training",
+              "going back to work in early Sept with a slow progressive easing into it",
+              "being very careful to not just get fat again"
+            ]
+          },
+          {
+            "comment_id": "241.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "white patches on one side of throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "dry throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "throat started hurting where the patches are",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "smoked 10 a day for donkeys years"
+            ]
+          },
+          {
+            "comment_id": "241.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "small lump or two that moves around the hyoid bone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "throat feels more dry and uncomfortable",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "small ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "throat pain on one side, but not in throat. Like left of the Adam's apple",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "a little feeling of a lump when I swallow",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "numb tongue",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "slight pain on the one side of throat while swallowing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "corresponding pain in ear (no infection)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling like there's something in my throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sore throat that refuses to get better",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "nauseous",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "incredibly exhausted",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lymph nodes on the left side swelling and kinda getting better before acting up again",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "trying like hell to quit smoking",
+              "relapsing into smoking"
+            ]
+          },
+          {
+            "comment_id": "241.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "rough patch in the right side of my throat, feels like tucked behind where my tonsils were",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sometimes makes swallowing difficult",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "can cause such an irritation that I cough uncontrollably and frequently vomit",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain started upper back and sternum was sore",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "throat feels weird",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "having to clear my throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "spitting mucous out",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "burp up water if I drink it and sometimes acid",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "constipated",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "last poop was a tiny pebble and darker than usual",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.13",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sore throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "upper back pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sternum or upper Abbs feel sore",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "upper back and sternum feel weird",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.17",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "trouble swallowing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.19",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "ear clicking",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "throat has been irritated",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "admins sweating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.20",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "mass",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.21",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pin like pain in the pharynx which was intermitted",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "occational pain in other parts of throat , that too were intermittend",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.22",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "trouble swallowing on my left side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "left lymph node is sensitive when I touch it",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "stiff jaw",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sore throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "coughing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "when I swallow it feels like it has a tough time going down",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "drinking vodka for a few years as I am an alcoholic"
+            ]
+          },
+          {
+            "comment_id": "241.24",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "left tonsil is slightly larger than my right",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feels lumpy still",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.26",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "a tight feeling around my throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "a weird itch at the back of my throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sometimes a weird feeling towards the right side of my back throat as if something is stuck there",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "frequent ear pain mostly on the right side but sometimes on the left as well",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.27",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tightness in neck on right side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "intermittent right tonsil pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "swollen lymph nodes in neck on right side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "former smoker",
+              "former drinker"
+            ]
+          },
+          {
+            "comment_id": "241.28",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling of something stuck in my throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feels like something is poking me in the throat (right side)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.29",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "lump on my lymph node",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.30",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "swollen nodes especially on my right side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.31",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "reoccurring sore throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "smoke marijuana"
+            ]
+          },
+          {
+            "comment_id": "241.32",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "small lump in my neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.33",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "spot on my soft pallet",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.34",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "throat lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "it's hard to eat sometimes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "it feels like somethings caught in my throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.35",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "hoarse coughs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "constant scratching on Left side of throat triggering cough",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "dry cough 90% of time",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "difficult swallowing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "throat is sore 24/7",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "cough some during the day",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "triggering my asthma",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.38",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swollen larynx on the left side only one sided",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lymph node on the left side was also swollen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "couldn't eat or drink anything",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.63",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "mild but sharp pain sensations in the front of my neck right below left jaw and sometimes at same area of right jaw",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "minor sinus nasal bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.66",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tendon beside my esophagus or whatever it is back with my fingers the pain goes away",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.68",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling of a small lump in my throat, not painful or anything but I can basically move it to the side with my fingers and it kinda pops",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "dry throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "kinda sore throats quite a lot and they seem to linger longer than they ever used to",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.83",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "cough that comes and goes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.84",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "throat cough",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "losing weight",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.87",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "mild but constant sore throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.92",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pins and needles and soreness in back of my throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.93",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "affected your voice at all? Made it deeper or occasionally took a second to engage your voice",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.113",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "slight redness inflammation in my stomach",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.114",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.115",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": [
+              "quit in Early Jan. when we went to Italy",
+              "started smoking pot again"
+            ]
+          },
+          {
+            "comment_id": "241.120",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.136",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "taste is about 50%",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "hardly any siliva in my throat",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.140",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "chronic throat dryness/discomfort/sharp sensation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "frequently painful lymph nodes on that side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "occasionally ear/jaw pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cobblestone throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "moving it makes me really nauseated",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Hurts my neck at least a few times a week now",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "MUST use chloraseptic spray and sleep with lozenges in my mouth nightly to get any rest"
+            ]
+          },
+          {
+            "comment_id": "241.141",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swollen lymph nodes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "a lil bit of pain near my tonsil right side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.144",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "very dry throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sore throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "small bump in Hyioid area (front center throat above Adam's Apple)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment

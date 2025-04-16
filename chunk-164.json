@@ -1,0 +1,614 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "417",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "sweating profusely",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "heart pounding in chest",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "feeling like you can't breathe",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "terrible GI problems",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "exhaustion",
+              "timing": "post-treatment",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "feeling slightly bit tired",
+              "timing": "post-treatment",
+              "initially_perceived_as": "concerned"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "feeling unwell",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "maintaining good relationships with a few friends and a gf (now wife)",
+          "progressing through university, achieving a PhD",
+          "withdrawn from friends and family",
+          "not spending much quality time with wife",
+          "starting and giving up on a dozen projects and ideas",
+          "doing nothing at home while waiting to heal",
+          "watching youtube videos",
+          "playing video games",
+          "reading"
+        ],
+        "comments": [
+          {
+            "comment_id": "417.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "debilitating chronic vertigo condition",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feeling like shit",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "foregoing or modifying certain recommended cancer treatments"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "418",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "418.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling of pressure on bladder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was a UTI"
+                },
+                {
+                  "symptom": "leaky bladder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "brushed it off as age and pelvic floor weakness"
+                },
+                {
+                  "symptom": "serious bloating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "mass which I also thought was my inflamed bladder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.24",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bloating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "frequent urination",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cramps were in chest",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain so painful I couldn't stand up straight",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.30",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "small blister on arm",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "passing thought"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.34",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "418.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "419",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "softball sized lump in lower abdomen",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "barely walk 100 yards before I had to stop and lay down",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "hardly get out of bed",
+              "timing": "during treatment",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "walking a mile and a half in the blazing sun",
+          "jogging",
+          "moving in general"
+        ],
+        "comments": [
+          {
+            "comment_id": "419.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "exercise"
+            ]
+          },
+          {
+            "comment_id": "419.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "during chemo treatments",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "during chemo treatments",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "out of breath constantly",
+                  "timing": "post chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "419.13",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "exercise"
+            ]
+          },
+          {
+            "comment_id": "419.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "walking"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "427",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "hot",
+              "timing": "during first round of Folinferfox",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "soiled myself during the infusion",
+              "timing": "during first round of Folinferfox",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "super dizzy",
+              "timing": "during first round of Folinferfox",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "woozy",
+              "timing": "during first round of Folinferfox",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "dry heaving",
+              "timing": "during first round of Folinferfox",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "throwing up",
+              "timing": "during first round of Folinferfox",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "427.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "body aches",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "bloating",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "severe chest and heart pain",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "migraines",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feeling like death",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "427.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "427.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sweating",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "trouble spending time out of bed",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "hunched over",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "energetic"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "233",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "enlarged neck lymph nodes",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "probably just a cyst, then realizing it could be something more serious"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "233.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump on neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "changed hair washing frequency from every day/every other day to 2 times a week"
+            ]
+          },
+          {
+            "comment_id": "233.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "no appetite",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "odd, inexplicable"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "confusion",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "frustration",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "panic attacks",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump coming from neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "insomnia",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "only washed hair gently twice a week"
+            ]
+          },
+          {
+            "comment_id": "233.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "enlarged neck lymph nodes, especially on the left side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.13",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "itching",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "freaking pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stomach hurts like crazy",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "large mass in chest",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "a bit fatigued"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "chemo brain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.26",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "asymmetric neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was a muscle or just something random"
+                },
+                {
+                  "symptom": "tiny lump protruding on one side of the neck when doing back exercises",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was a muscle or just something random"
+                },
+                {
+                  "symptom": "belly malfunctions",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "random viruses",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feeling bleh after chemo",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.27",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "itching",
+                  "timing": "pre-diagnosis, when lymph nodes first enlarged",
+                  "initially_perceived_as": "didn't think much of it, but it was weird that couldn't find any insect bites or skin rashes"
+                },
+                {
+                  "symptom": "feeling too hot or too cold in a short period of time",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "not sure if it was random or just caused by overthinking might have cancer, or just random body \"sensations\" that focused on too much"
+                },
+                {
+                  "symptom": "feeling randomly too fatigued and tired while doing not much",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "not sure if it was random or just caused by overthinking might have cancer, or just random body \"sensations\" that focused on too much"
+                },
+                {
+                  "symptom": "lump on one of testicles",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "very concerned, but my urologist said it was just a twisted vein, and other symptoms also might be from sitting too much, which I do in work."
+                },
+                {
+                  "symptom": "weird sensitivity in testicles",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "very concerned, but my urologist said it was just a twisted vein, and other symptoms also might be from sitting too much, which I do in work."
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "weird feeling of dizziness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "got me scared I got sepsis or something"
+                },
+                {
+                  "symptom": "pain irradiating from groin down to legs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "very concerned, but my urologist said it was just a twisted vein, and other symptoms also might be from sitting too much, which I do in work."
+                },
+                {
+                  "symptom": "lymph nodes matted together",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lymph nodes size around 5cm in length",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.28",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "constipation",
+                  "timing": "during treatment, ABVD",
+                  "initially_perceived_as": "made some days feel like a complete blehh when your stomach is not working"
+                },
+                {
+                  "symptom": "feeling more drugged during the infusion days",
+                  "timing": "during treatment, BEACOPP",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "hair falling out",
+                  "timing": "during treatment, BEACOPP",
+                  "initially_perceived_as": "kinda excited and scared"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.29",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "little lung damage",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "not a huge deal, lung function is 100%"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.31",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "itching",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.32",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.34",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "myungs still aren't 100%",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.36",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.37",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.40",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lymph nodes are still here",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "new lymph nodes pop up",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.44",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.45",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "itching",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "really bad a nightmare"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.47",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "one swollen node under jaw",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "forgot about it"
+                },
+                {
+                  "symptom": "3 more swollen lymph nodes in neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "idk if its just response to the flu"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "idk how often ppl get night sweats with lymphoma"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.50",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "several lymph nodes bigger than normal",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lymph nodes clumped together",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.51",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "beard falling out",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "sucked to see my precious beard falling out"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.54",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Bleomycin Pulmonary Toxicity",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lungs are a little scarred",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.55",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "really bad night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "enlarged lymph nodes in one armpit",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.59",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.60",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.61",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.66",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.67",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.68",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.69",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.70",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.71",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "a lot of mashed together lymph nodes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.72",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "enlarged lymph node under armpit",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.73",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "stomach issues",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "done a number on my stomach"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.74",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.75",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "233.76",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "95",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "firm feeling in the left testicle",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "taking days off from work for medical reasons",
+          "potential future time off from work due to chemo",
+          "possible inability to finish the school year due to chemo",
+          "potential loss of hair due to chemo"
+        ],
+        "comments": [
+          {
+            "comment_id": "95.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sudden weight loss",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "inability to eat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feeling very tired",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "general unwellness",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.9",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "surgery",
+              "chemotherapy",
+              "taking a rest"
+            ]
+          },
+          {
+            "comment_id": "95.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.16",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.21",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.26",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "hair loss from medicine",
+                  "timing": "during chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "taking time off work for chemo"
+            ]
+          },
+          {
+            "comment_id": "95.27",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.29",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "having an operation"
+            ]
+          },
+          {
+            "comment_id": "95.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.32",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "wearing a mask to avoid infection",
+              "frequent hand washing"
+            ]
+          },
+          {
+            "comment_id": "95.33",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.34",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "taking time off work for health issues"
+            ]
+          },
+          {
+            "comment_id": "95.35",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.37",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "being out sick"
+            ]
+          },
+          {
+            "comment_id": "95.38",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "95.39",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "121",
+        "symptoms": {},
+        "lifestyle_changes": [
+          "undergoing surgery"
+        ],
+        "comments": [
+          {
+            "comment_id": "121.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "121.2",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "undergoing surgery",
+              "waiting to hear if further treatment will be needed"
+            ]
+          },
+          {
+            "comment_id": "121.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "121.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "121.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "121.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "121.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "scar tissue closing ear canal",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "ruptured ear drum",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "horner's syndrome",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "heart palpitations",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "undergoing a barium swallow test",
+              "undergoing surgery"
+            ]
+          },
+          {
+            "comment_id": "121.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "121.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "121.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "121.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "122",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "122.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

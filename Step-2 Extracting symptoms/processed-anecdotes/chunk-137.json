@@ -1,0 +1,534 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "339",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "stage 4 colon cancer with liver metastases",
+              "timing": "diagnosed in November",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "cancer of unknown primary origin (CUP)",
+              "timing": "changed to a month later",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "rapidly declining health",
+              "timing": "past few months",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "stopped being able to eat",
+              "timing": "unknown",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "ascites",
+              "timing": "end of life",
+              "initially_perceived_as": "side effects"
+            },
+            {
+              "symptom": "cognitive decline",
+              "timing": "this week",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "researching cancer",
+          "writing lists",
+          "trying new treatments and remedies"
+        ],
+        "comments": [
+          {
+            "comment_id": "339.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weakened body",
+                  "timing": "final days",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.6",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.7",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.9",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.11",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "constantly researching about cancer and trying to understand what happens after death"
+            ]
+          },
+          {
+            "comment_id": "339.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.15",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "dying of terminal breast cancer",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "spending as much time as I can right now with my mom"
+            ]
+          },
+          {
+            "comment_id": "339.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stage 3 colon cancer",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "egg sized tumor that invades and breaks through the wall in the colon",
+                  "timing": "unknown",
+                  "initially_perceived_as": "silent killer"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "fighting lymphoma",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.20",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Cancer",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Stage IV cancer",
+                  "timing": "diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "high risk abnormalities",
+                  "timing": "pap",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "getting a biopsy"
+            ]
+          },
+          {
+            "comment_id": "339.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pancreatic cancer with the Mets to the liver",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cognitive decline that comes with liver failure",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "terminal agitation",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.27",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Pancreatic Cancer",
+                  "timing": "diagnosed in July 2023",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.28",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.29",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.30",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "339.31",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "348",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "nausea (4-10 at all times)",
+              "timing": "last week",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "acidic stomach",
+              "timing": "last week",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "constipation",
+              "timing": "after each of my three infusions",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "DPD deficiency",
+              "timing": "After DPD test",
+              "initially_perceived_as": "concerned"
+            },
+             {
+              "symptom": "UGT deficiency",
+              "timing": "After UGT test",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "Dizziness",
+              "timing": "Fri-sun",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "reading thrillers",
+          "switched oncologists",
+          "adjusted pre meds on infusion days",
+           " mostly slept Tues-Thurs"
+        ],
+        "comments": [
+          {
+            "comment_id": "348.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "terrible nausea (constant 5-8 every day)",
+                  "timing": "due to radiation",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "acid reflux",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "vomiting profusely",
+                  "timing": "days",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Medical marijuana was the thing that saved him",
+              "managed to put some weight back on towards the end of his chemotherapy regimen"
+            ]
+          },
+          {
+            "comment_id": "348.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "horrible nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "acid",
+                  "timing": "caused by the oxaliplatin",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "took tums (calcium) antacid",
+              "no drug worked"
+            ]
+          },
+          {
+            "comment_id": "348.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "really bad nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "acid reflex",
+                  "timing": "badly",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "nausia",
+                  "timing": "badly",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "massive stomach pain (felt like someone was reaching in and twisting my stomach into knots)",
+                  "timing": "after a few days",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "348.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}
