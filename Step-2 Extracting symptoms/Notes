@@ -1,12 +1,12 @@
 
 === Overview ===
     - Ngl i kinda wanna get a view of the scale of data im dealing with here, like just how much, how many tokens, how long will this take
-    - Total Posts: 744
+    - Total Posts: 494
     - Total Comment: 12499 (Note: this is just the first layer of comments lol; some comments have their own responses and those responses have responses and so on and so forth)
     - Total Tokens: 1,198,678
-        - Nice, just shy of 1.2 million, i could split the text into two chunks and have gemini mass process them, or I could have them individually processed, but given how the limit is 15 rpm and 744/15 = 49.6 and im lazy, we batch lol. 
-    - Avg Tokens Per post: (1198678 - 969025)/744 = 308.67
-    - Avg Comments Per Post: 12499/744 = 16.80
+        - Nice, just shy of 1.2 million, i could split the text into two chunks and have gemini mass process them, or I could have them individually processed, but given how the limit is 15 rpm and 494/15 = 32.93 and im lazy, we batch lol. 
+    - Avg Tokens Per post: (1198678 - 969025)/494 = 464.88
+    - Avg Comments Per Post: 12499/494 = 25.30
     - Avg Tokens Per comment: 969025/12499 = 77.53
 
     - The current plan is to break the posts into chunks of around 700k tokens and feed that to gemini and hope that the responses fit in its 1 million token context window
