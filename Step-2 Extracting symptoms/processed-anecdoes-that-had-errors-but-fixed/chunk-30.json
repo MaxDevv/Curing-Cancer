@@ -1,0 +1,610 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "476",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "burning pain in stomach that got worse and worse",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned, but initially treated with antacids"
+            },
+            {
+              "symptom": "white blood cell levels were half of what they should be",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+          },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "476.21",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Hypercalcemia",
+                  "timing": "pre-diagnosis in 2020",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Mass on cecum",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "metastasis to liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "misinterpreted as seasonal depression"
+                },
+                {
+                  "symptom": "visual migraines",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "misinterpreted as seasonal depression"
+                },
+                {
+                  "symptom": "brain fog",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "misinterpreted as seasonal depression"
+                },
+                {
+                  "symptom": "scrambled blood checks",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                 {
+                  "symptom": "severe food poisoning",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.24",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "suddenly huge testicle, like a kiwi",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "panic"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.25",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "excruciating thigh/leg pain",
+                  "timing": "pre-diagnosis for 4 months",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.26",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump in breast",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.27",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain in the ear after swimming",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "nothing new"
+                },
+                {
+                  "symptom": "persistent throat and ear pain when swallowing",
+                  "timing": "pre-diagnosis a few weeks after a cold",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.28",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "knee started hurting after hiking or running",
+                  "timing": "pre-diagnosis for 3 months",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "stabbing pain in side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "blood in urine",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "spread in both lungs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "spread in the back of head",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "spread in spine",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "spread in left femur",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.29",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "seizures",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "becoming very out of breath when walking a block or two",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumor in right lung that was almost cutting off the lung from being functional",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "severe pneumonia in that lung with it being nearly 50% full of fluid",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "multiple brain tumors",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bone cancer in the spine and hip",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.30",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "itchy all over consistently for a long time",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "tried creams but didn't go to the doctor"
+                },
+                {
+                  "symptom": "trouble breathing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was covid at first"
+                },
+                {
+                  "symptom": "couldn't walk up a flight of stairs without stopping to pant for air",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "partially collapsed lung caused by large medistinal mass",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.31",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "very small amount of spotting, only lasted one day",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.32",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump felt while doing yoga, like sitting on a walnut",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed as a pulled muscle, which patient kind of agreed with"
+                },
+                {
+                  "symptom": "Mets to lungs",
+                  "timing": "after initial treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.33",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe anemia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "gnawing stomach pains",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "originally diagnosed with bleeding ulcers"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.34",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "focal seizures that sent me to the ER (presenting as right side numbness/weakness)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.35",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "low iron",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain (like period pain)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was endo"
+                },
+                 {
+                  "symptom": "couldn't eat or drink anything much",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "serverly swollen stomach for about a month or so",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was endo because it was all down in that area"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.36",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.37",
+            "symptoms": {
+              "major": [
+                 {
+                  "symptom": "WBC, RBCS, and HGB just tank",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "I knew something was wrong"
+                },
+                {
+                  "symptom": "tired a lot",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "I knew something was wrong"
+                },
+                {
+                  "symptom": "couldn't breathe",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "I knew something was wrong"
+                },
+                {
+                  "symptom": "running fevers",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "I knew something was wrong"
+                },
+                {
+                  "symptom": "neutropenia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "I knew something was wrong"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.38",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pneumonia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "never had it in my life"
+                },
+                {
+                  "symptom": "suspicious thing in other lung",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                 {
+                  "symptom": "missed a lymph node on all these scans",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.39",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "mild nausea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feeling of menstrual cramps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "high liver enzyme",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "no one was very concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "huge tumor in liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain in pelvis",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumors in spine",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.40",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "signs pointed to cancer somewhere",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "476",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "burning pain in stomach that got worse and worse",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned, but initially treated with antacids"
+            },
+            {
+              "symptom": "white blood cell levels were half of what they should be",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "476.61",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nauseous and unable to eat anything",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought I had gotten food poisoning"
+                },
+                {
+                  "symptom": "throwing up what I thought was the stuff in my intestines as it ws brown and gross smelling",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought I had gotten food poisoning"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "appendix burst",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "didn't realize that that pain was the appendix bursting"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.63",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.66",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.67",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.68",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.69",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.70",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.71",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.72",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.73",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.74",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.75",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.76",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.77",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.78",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.79",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.80",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "242",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "242.301",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.302",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.303",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "hemorrhoids",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.304",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain on the left side below the rib cage",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.305",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.306",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anemia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.307",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.308",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.309",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "stomach bloating every time after eating",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.310",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "no blood in stool",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.311",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood in stool (mother)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.312",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.313",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.314",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.315",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.316",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bruise-like pain on the side",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.317",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.318",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain progressing to pain with eating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "tumors on CT scan",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "complications requiring hospitalization",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.319",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.320",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.321",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tailbone pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "lower back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "digestive issues (up and down)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "disc misalignment feeling in the back",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.322",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "kidney stone pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.323",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "abdominal pain constantly",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "pain with gas",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.324",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.325",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.326",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood in stool",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.327",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "cirrhosis of the liver",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "poor diet"
+            ]
+          },
+          {
+            "comment_id": "242.328",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.329",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.330",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.331",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.332",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.333",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.334",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anemia",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "abdominal pain (annoyance)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.335",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.336",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.337",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anemia",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.338",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.339",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anal pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.340",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "mild stomach ache escalated to relentless agony in stomach",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.341",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.342",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "cysts",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.343",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.344",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "new symptoms causing paranoia",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.345",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.346",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.347",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.348",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "abdominal pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.349",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.350",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.351",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.352",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.353",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.354",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.355",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "276",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "barely any symptoms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "endometrial thickness of 5mm",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "unexpected"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "276.41",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.42",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.43",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.44",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "anxiety",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.45",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.46",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.47",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.48",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.49",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.50",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.51",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.52",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.53",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.54",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.55",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.56",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.57",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.58",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.59",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "thin, watery, mostly odorless discharge",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.60",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "increasingly painful periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                },
+                {
+                  "symptom": "periods coming closer together",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                },
+                {
+                  "symptom": "heavier than normal periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                },
+                {
+                  "symptom": "spotting between periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                },
+                {
+                  "symptom": "thin watery discharge between periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mild"
+                },
+                {
+                  "symptom": "bleeding after menopause",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major, led to diagnosis"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

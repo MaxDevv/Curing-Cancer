@@ -1,0 +1,529 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "48",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "nerve pains in legs (jolts of pain)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tingling in knees, feet, calves, and thighs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "incessant twitching in legs, torso, arms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "annoying"
+            },
+            {
+              "symptom": "shortness of breath going up 3 flights of stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "more frequent diarrhea than normal",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "bleeding caused by meloxicam on an empty stomach",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "low B12 value",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "30mm mass in transverse colon",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "left knee pain (runner's knee / patellofemoral pain syndrome)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "wobbling going down stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "elbow pain when lifting 5lb weights",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "knees turn purple after a shower",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "working out multiple times a week",
+          "hiking",
+          "being active",
+          "resting"
+        ],
+        "comments": [
+          {
+            "comment_id": "48.101",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.102",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.103",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "metastatic lesions on the liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pancreatic cancer lesion",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.104",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.105",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.106",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hemoglobin at 6.2",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "nodule in lung",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cancer in ribs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.107",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe chest pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "difficulty swallowing",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "food getting stuck, requiring regurgitation",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.108",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumor pressing on nerves shutting down vocal cords",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.109",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "felt like pregnancy",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mass pushing down on bladder and ovaries",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.110",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lost feeling in half of foot",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tiredness",
+                  "timing": "pre-diagnosis and post-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "stage 4 Ewing's Sarcoma in pelvis, lower spine, and lungs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "nerve and leg pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fevers",
+                  "timing": "pre-diagnosis and post-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weight gain from steroids",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.111",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.112",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bulge of muscle pooching out, size of previously corrected hernia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "suspected mesh loosening"
+                },
+                {
+                  "symptom": "cancerous appendix oozing mucin (mucous)",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.113",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "PVC with heart",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.114",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.115",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "elevated PSA",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.116",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "diarrhea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mets in spine & lymph nodes",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "liver FULL of cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.117",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "level 10 pain after eating a big meal",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "extreme pain"
+                },
+                {
+                  "symptom": "large mass in stomach",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.118",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "metastatic breast cancer",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.119",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling like fighting something",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.120",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.121",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.122",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.123",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "terrible acid reflux",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fatty liver",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain in abdomen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "liver full of tumors, one the size of a golf ball",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.124",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.125",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.126",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.127",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.128",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.129",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.130",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.131",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "worsening anxiety",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.132",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.133",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.134",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.135",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.136",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.137",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cancer primary on the tail of the pancreas",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.138",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumor pushed against nerves in the back where pancreas meets spleen",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.139",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.140",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "extreme side effects (of clinical trial)",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

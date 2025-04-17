@@ -1,0 +1,747 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "49",
+        "symptoms": {
+          "minor": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "49.1",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "49.2",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "49.3",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "49.4",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "50",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "headaches",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "blindness in right eye",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "inability to speak during headache",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "mouth couldn't form words, specifically, the word 'hummingbird'",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "50.1",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.2",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.3",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "inability to say the words",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.4",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.5",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "taking care of body and mind"
+            ]
+          },
+          {
+            "comment_id": "50.6",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.7",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.8",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.9",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bald spots from radiation",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.11",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.12",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.13",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "50.14",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "51",
+        "symptoms": {
+          "minor": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "51.1",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.2",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.3",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.4",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.5",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.6",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.7",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.8",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.9",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.10",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.11",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.12",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.13",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.14",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.15",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "51.16",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "48",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "left knee pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "runner's knee / patellofemoral pain syndrome",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "nerve pains in legs (jolts of pain)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "tingling in knees, feet, calves, and thighs when wearing pants or having anything on legs while sitting",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "incessant twitching in legs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "twitching spread to torso and arms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "weakness",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "wobbly when going down stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "elbow pain when lifting 5lb weights",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "knees turn purple after a shower",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "more frequent diarrhea than normal",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "bleeding a handful of times (caused by meloxicam on empty stomach)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            },
+            {
+              "symptom": "short of breath going up 3 flights of stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "minor"
+            }
+          ],
+          "major": []
+        },
+        "lifestyle_changes": [
+          "working out multiple times a week",
+          "hiking",
+          "being active",
+          "resting",
+          "PT",
+          "going to the gym",
+          "swimming"
+        ],
+        "comments": [
+          {
+            "comment_id": "48.61",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "spotting",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.62",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.63",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.64",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.65",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.66",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.67",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.68",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "black dots",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.69",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.70",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "floaters",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.71",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.72",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.73",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "high heart palpitations after eating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.74",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.75",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.76",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.77",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.78",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.79",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.80",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "241",
+        "symptoms": {
+          "minor": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "241.41",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.42",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.43",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.44",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.45",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.46",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.47",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.48",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.49",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.50",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.51",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.52",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.53",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "ear pain increased with swallowing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.54",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.55",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.56",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.57",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.58",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.59",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.60",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

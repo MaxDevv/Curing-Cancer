@@ -1,0 +1,687 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "241",
+        "symptoms": {
+          "minor": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "241.161",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sensitive throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "easily catch a cold",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.162",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.163",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.164",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": [
+              "stopped drinking"
+            ]
+          },
+          {
+            "comment_id": "241.165",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.166",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump sensation in the throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "avoiding solid foods",
+              "eating purees",
+              "eating soups",
+              "eating scrambled eggs"
+            ]
+          },
+          {
+            "comment_id": "241.167",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.168",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain on the right side of the head",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain radiates down the neck and throat (right side)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.169",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "swollen nodes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "unexplainable ear pain that doesn't go away with antibiotics",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.170",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.171",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.172",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.173",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.174",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lump in throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "cough triggered by the lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tickling sensation in throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "jaw pain getting worse",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "occasional face numbness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "every little pain",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "irritation",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.175",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "throat tightness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "scratching throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "coughing at night",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "swollen lymph node on the side of the neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "very red and swollen area just as the throat descends down after the tongue",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.176",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.177",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "chronic cough",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.178",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.179",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swollen node on the left side on my neck, feels like the size of a jellybean and it's movable",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.180",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "241",
+        "symptoms": {
+          "minor": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "241.201",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "ballooned lymph node on the other side of her neck from her surgery",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "difficulty swallowing liquid",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "cancer spread to multiple lymph nodes around her neck",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "purely Ensure/Boost diet",
+              "tube in her stomach"
+            ]
+          },
+          {
+            "comment_id": "241.202",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.203",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.204",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.205",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.206",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.207",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.208",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.209",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.210",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "dry throat",
+                  "timing": "post-covid",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "dry mouth",
+                  "timing": "post-covid",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "sore throats that linger",
+                  "timing": "post-covid",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.211",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.212",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.213",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.214",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.215",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.216",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.217",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.218",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.219",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "cough",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "taking meds for anxiety and panic"
+            ]
+          },
+          {
+            "comment_id": "241.220",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "little flap that doesn't close all the way that leads to my airway sometimes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "speech therapy"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "241",
+        "symptoms": {
+          "minor": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "241.221",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sore throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.222",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sore throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "minor irritation/redness in throat",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.223",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.224",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.225",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "globus feeling",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.226",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.227",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.228",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lump on the right side of throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "soreness in both ears",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "ears starting to feel plugged up",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.229",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.230",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.231",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.232",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.233",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.234",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.235",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swollen lymph node",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.236",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.237",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.238",
+            "symptoms": {
+              "minor": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.239",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "small lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.240",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lymph nodes underneath the jaw",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

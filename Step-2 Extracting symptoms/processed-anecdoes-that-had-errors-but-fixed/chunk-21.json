@@ -1,0 +1,499 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "242",
+        "symptoms": {
+          "minor": [],
+          "major": []
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "242.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pelvic pain initially attributed to menstrual cycle",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed as menstrual cycle pain"
+                },
+                {
+                  "symptom": "vague feeling of tenesmus",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "minor rectal bleeding, bright red",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "wrongly attributed to hemorrhoids"
+                },
+                {
+                  "symptom": "slight thinning of the stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed because it was gradual"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "repeated UTIs due to a fistula between bowel and bladder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "very deep and full body fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.2",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "blood in stool for 6 months",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed by wife as hemorrhoids"
+                },
+                {
+                  "symptom": "passing out during colonoscopy prep",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bouts of spotty blood in stool for years",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "slight constipation that a laxative would free up for years",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "full blockage for 5 days where miralax wasn't working",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "everything eaten went back the way it came",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "getting super thin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it might be an eating disorder"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "major leg swelling",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned after others pointed it out, initially dismissed by doctor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "some pain, but not terrible",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "blood in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "treated as hemorrhoids by doctor for six months"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "constipation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "blood in the stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "something that felt a little like a bruise inside",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "occasional blood in the stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "put down to straining at the gym"
+                },
+                {
+                  "symptom": "felt quite tired",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "put down to not eating enough for training"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "wobbling on a seat to get comfortable",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.8",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "sudden weight loss of 10 kg in three months",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern by family"
+                },
+                {
+                  "symptom": "bleeding on the walls of the colon",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major concern by doctors"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.9",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "inability to keep food or water down",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought they had food poisoning"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.10",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "crippling abdomen pains caused by constipation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "lived with the pain for 4 weeks before it got too bad"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sharp pain on inhalation under R breastbone that would radiate to my shoulder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was gas pain"
+                },
+                {
+                  "symptom": "pain and tenderness in R ribs and in the R upper quadrant with eating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "just queasy"
+                },
+                {
+                  "symptom": "body aches due to autoimmune disorder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "normal due to rheumatoid arthritis"
+                },
+                {
+                  "symptom": "anemia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "normal due to rheumatoid arthritis"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "normal due to rheumatoid arthritis"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "multiple liver masses",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "extreme pain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "major concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.12",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "inability to take a dump for a quite while",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stomach pains",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cancer blocked his bowels",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.13",
+            "symptoms": {
+              "minor": [],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.14",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "stomach issues her entire life",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "normal"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "very ill",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "major concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bloating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "pain in shoulder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was due to throwing a ball too hard"
+                },
+                {
+                  "symptom": "painful rib",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought she hurt her rib somehow"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.17",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "change in consistency and frequency in bowel movements (looser, but still formed, 2-6 times a day instead of once)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "chalked it up to stress"
+                },
+                {
+                  "symptom": "microscopic blood in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "wet stool since 4 years",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bleeding a lot of blood",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.19",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "passing a lot of gas",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "constipated for a week",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "blood in toilet",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain in tailbone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.20",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain when passing stools since age 7",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "blood when passing stools since age 7 (spots on toilet paper)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "mother told me its hemorrhoids"
+                },
+                {
+                  "symptom": "external hemorrhoid after passing a stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "mucus mixed in with blood on the toilet paper",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "diarrhea 80% of the time",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "constantly changing texture and color stools",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "blood when passing stools (faucet dripping every 2 seconds, water is bright red)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "external hemorrhoid almost the size of half a grape",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "pain after passing a stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "nausea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "very weak",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                },
+                {
+                  "symptom": "tired",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

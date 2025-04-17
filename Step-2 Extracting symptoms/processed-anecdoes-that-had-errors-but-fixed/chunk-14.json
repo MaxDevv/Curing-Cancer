@@ -1,0 +1,393 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "240",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "burning pain in stomach that got worse and worse",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed (took antacids)"
+            }
+          ]
+          },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "240.141",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "small spot on breast (detected via mammogram)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned (led to MRI)"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.142",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.143",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.144",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.145",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.146",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.147",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tiredness (due to treatment)",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "working as a construction worker"
+            ]
+          },
+          {
+            "comment_id": "240.148",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.149",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.150",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.151",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.152",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.153",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.154",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "GI issues",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "common in family history"
+                },
+                 {
+                  "symptom": "health anxiety",
+                  "timing": "post mom's death",
+                  "initially_perceived_as": "worried"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.155",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.156",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.157",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.158",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.159",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.160",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "240",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "burning pain in stomach that got worse and worse",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed (took antacids)"
+            }
+          ]
+           },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "240.161",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.162",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.163",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.164",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.165",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.166",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "depression",
+                  "timing": "summer",
+                  "initially_perceived_as": "caused difficulty being around kids"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.167",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.168",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.169",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.170",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "240.171",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "241",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "241.101",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.102",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.103",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sore throat most mornings",
+                  "timing": "unknown",
+                  "initially_perceived_as": "due to dry air and allergies"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.104",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.105",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.106",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.107",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.108",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.109",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.110",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.111",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.112",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.113",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "slight redness inflammation in stomach",
+                  "timing": "unknown",
+                  "initially_perceived_as": "possible GI issue"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.114",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "potential bump on larynx",
+                  "timing": "present",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "feeling of a lump in the throat (perceived)",
+                  "timing": "present",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.115",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "whistling and wheezing at night",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                 {
+                  "symptom": "sore throat",
+                  "timing": "present",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "smoking weed"
+            ]
+          },
+          {
+            "comment_id": "241.116",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.117",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "one swollen node, right under jaw (felt like a hard pebble under the skin)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.118",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.119",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.120",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

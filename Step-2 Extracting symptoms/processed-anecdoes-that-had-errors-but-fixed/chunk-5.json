@@ -1,0 +1,502 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "48",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "nerve pains in legs (jolts of pain)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tingling in knees, feet, calves, and thighs brought on by wearing pants or anything on legs while sitting",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "incessant twitching in legs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "twitching spread to torso and arms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "annoying"
+            },
+            {
+              "symptom": "shortness of breath going up 3 flights of stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "more frequent diarrhea than normal",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "bleeding caused by meloxicam on an empty stomach",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "wobbling going down stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+             {
+              "symptom": "aches",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+             {
+              "symptom": "dehydration",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "left knee injury leading to runner's knee / patellofemoral pain syndrome",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "inability to regain strength despite physical therapy, gym, and swimming",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "elbow pain when lifting 5lb weights",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "knees turning purple after a shower",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "30mm mass in transverse colon",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+             {
+              "symptom": "diarrhea for almost a month",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "working out multiple times a week",
+          "hiking",
+          "being active",
+          "resting"
+        ],
+        "comments": [
+          {
+            "comment_id": "48.41",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sweating a lot",
+                  "timing": "during chemo-like management drug/pill",
+                  "initially_perceived_as": "ignored, chalked up to side effect of chemo-like management drug/pill"
+                },
+                {
+                  "symptom": "weight gain",
+                  "timing": "original diagnosis",
+                  "initially_perceived_as": "chalked it up to 'getting chunkyyyyyy'"
+                },
+                {
+                  "symptom": "weight loss of 10-11 pounds each week",
+                  "timing": "second diagnosis",
+                  "initially_perceived_as": "initially unintentionally stopped eating but didn't notice, then did & panicked"
+                },
+                {
+                  "symptom": "throwing up episodes intermittently",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                 {
+                  "symptom": "GI symptoms",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                 {
+                  "symptom": "pain localized or systematic",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "inability to get out of bed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "inability to walk, especially on left side (large tumor later discovered in left hip)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "intense pain in upper shoulders",
+                  "timing": "unknown",
+                  "initially_perceived_as": "told 'everyone carry's stress there'"
+                },
+                {
+                  "symptom": "inability to move arm (tumor over on bone in that area; had broken a rib)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain everywhere",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sternum pain (dozen tumors there)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "inability to move completely",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.42",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "exhausted all the time",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.43",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tired more",
+                  "timing": "unknown",
+                  "initially_perceived_as": "chalked it up to age (55) and job being at a desk"
+                },
+                {
+                  "symptom": "whole body tensed up and was sore",
+                  "timing": "after loss of a friend",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "suspicious lesion on one rib",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "massage",
+              "chiropractor",
+              "muscle relaxers"
+            ]
+          },
+          {
+            "comment_id": "48.44",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "significant fatigue",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "intense night sweats where the sheets would need to have been washed as they were so soaked",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "needing to lie down or nap a lot",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.45",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "severe itching",
+                  "timing": "unknown",
+                  "initially_perceived_as": "doctors thought food allergy"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "swollen lymph nodes",
+                  "timing": "2 years later",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.46",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "a pint of blood red pee",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.47",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "after lump discovery",
+                  "initially_perceived_as": "chalking it up to stress"
+                },
+                {
+                  "symptom": "brain fog",
+                  "timing": "after lump discovery",
+                  "initially_perceived_as": "chalking it up to stress"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "lump found in breast",
+                  "timing": "march of 2022",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "religiously did breast self exams",
+              "went vegetarian",
+              "obsessed with sunscreen and protecting skin"
+            ]
+          },
+          {
+            "comment_id": "48.48",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "back pain",
+                  "timing": "december",
+                  "initially_perceived_as": "hurt back working out"
+                },
+                {
+                  "symptom": "doubling over in pain crying from back pain",
+                  "timing": "february",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.49",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "lump in breast",
+                  "timing": "unknown",
+                  "initially_perceived_as": "doctor said because I'm young (42) and it was round and smooth and mobile , its most likely a cyst, hormonal, that it would change around my period"
+                },
+                {
+                  "symptom": "lump grew",
+                  "timing": "3 months later",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "back pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                 {
+                  "symptom": "tumor in spine",
+                  "timing": "unknown",
+                  "initially_perceived_as": "doctor just said to rest"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.50",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "shit blood for a day",
+                  "timing": "post surgery",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.52",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "unexplainable aches",
+                  "timing": "unknown",
+                  "initially_perceived_as": "imaging showed nothing, took fiber"
+                },
+                {
+                  "symptom": "diarrhea for almost a month",
+                  "timing": "the summer before diagnosis",
+                  "initially_perceived_as": "colonoscopy was fine"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "48.53",
+            "symptoms": {
+              "minor": [],
+              "major": [
+                {
+                  "symptom": "lots of swelling",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "water pockets in my thighs",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "inflammation on left side of body",
+                  "timing": "unknown",
+                  "initially_perceived_as": "felt like one side of my body(left) was attacking me"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "239",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "nerve pains in legs (jolts of pain)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tingling in knees, feet, calves, and thighs brought on by wearing pants or anything on legs while sitting",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "incessant twitching in legs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "twitching spread to torso and arms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "annoying"
+            },
+            {
+              "symptom": "shortness of breath going up 3 flights of stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "more frequent diarrhea than normal",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "bleeding caused by meloxicam on an empty stomach",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "wobbling going down stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "left knee injury leading to runner's knee / patellofemoral pain syndrome",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "inability to regain strength despite physical therapy, gym, and swimming",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "elbow pain when lifting 5lb weights",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "knees turning purple after a shower",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "30mm mass in transverse colon",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "working out multiple times a week",
+          "hiking",
+          "being active",
+          "resting"
+        ],
+        "comments": []
+      }
+    }
+  ]
+}

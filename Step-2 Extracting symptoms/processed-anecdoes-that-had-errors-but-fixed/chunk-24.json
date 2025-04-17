@@ -1,0 +1,587 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "242",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "242.161",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "hemorrhoids a couple times a week almost after every bowel movement",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "inconsistent bowel movements",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.162",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.163",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "wierd bowel movments",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mucus in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "gassy",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "undigested food in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.164",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood in stool",
+                  "timing": "current",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.165",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "mild anemia after covid without internal bleeding",
+                  "timing": "post-covid",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sleep deprivation due to anxiety",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fatigue due to anxiety",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "eat healthy"
+            ]
+          },
+          {
+            "comment_id": "242.166",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "odd poop",
+                  "timing": "current",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "mild anemia",
+                  "timing": "current",
+                  "initially_perceived_as": "under control"
+                },
+                {
+                  "symptom": "flare up of abdominal pain when I drink soda for a day or with greasy food",
+                  "timing": "occasionally",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.167",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.168",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.169",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.170",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bleeding out of ass",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.171",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.172",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.173",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.174",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.175",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.176",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.177",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.178",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.179",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.180",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "242",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "242.201",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.202",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bone cancer level pain",
+                  "timing": "during chronic illness",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.203",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.204",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pretty badly broken tailbone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "started walking a few miles a day"
+            ]
+          },
+          {
+            "comment_id": "242.205",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.206",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.207",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.208",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.209",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "GI symptoms",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "not worried"
+                },
+                {
+                  "symptom": "lung symptoms",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "not worried"
+                },
+                {
+                  "symptom": "cyst on liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "worse GI symptoms",
+                  "timing": "current",
+                  "initially_perceived_as": "anxious"
+                },
+                {
+                  "symptom": "worse lung symptoms",
+                  "timing": "current",
+                  "initially_perceived_as": "anxious"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.210",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.211",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.212",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.213",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.214",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swollen neck lymph nodes",
+                  "timing": "4 years",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "constant dark stools",
+                  "timing": "recent",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.215",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "slight change in bowel habits",
+                  "timing": "3 years ago",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "occasional loose stools",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.216",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.217",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.218",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bright red blood in stool",
+                  "timing": "intermittent, once a week",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bright red toilet water",
+                  "timing": "at times",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bright red blood on the tissue",
+                  "timing": "at times",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.219",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood in the stool",
+                  "timing": "consistently for two months and intermittently for 7 months",
+                  "initially_perceived_as": "anxious and stressed"
+                },
+                {
+                  "symptom": "blood on the toilet paper",
+                  "timing": "consistently for two months and intermittently for 7 months",
+                  "initially_perceived_as": "anxious and stressed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.220",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood in stool significant enough to change toilet water color",
+                  "timing": "some days",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "clearly red/soiled tissue after wiping",
+                  "timing": "some days",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain involved with 70% of these events",
+                  "timing": "almost a daily occurrence",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "heavy bleeding",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bleeding with hard stool",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "changed diet to OMAD or One Meal A Day"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "242",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "242.221",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.222",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.223",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.224",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.225",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "gut symptoms",
+                  "timing": "current",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "change lifestyle a little bit"
+            ]
+          },
+          {
+            "comment_id": "242.226",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.227",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.228",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "abdominal pain",
+                  "timing": "3 months",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "severe abdominal pain",
+                  "timing": "current, 1 year after diagnosis",
+                  "initially_perceived_as": "8 out of 10"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "drink a gallon of water a day"
+            ]
+          },
+          {
+            "comment_id": "242.229",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.230",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.231",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.232",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "persistent UTI symptoms",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.233",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.234",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.235",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.236",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.237",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.238",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.239",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.240",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

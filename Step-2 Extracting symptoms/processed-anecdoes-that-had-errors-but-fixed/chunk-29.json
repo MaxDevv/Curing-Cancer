@@ -1,0 +1,609 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "276",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "endometrial thickness was 5mm (1 mm less than the threshold for biopsy)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "barely any symptoms"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "276.101",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.102",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "worries that kept her awake at night",
+                  "timing": "during",
+                  "initially_perceived_as": "worried"
+                },
+                {
+                  "symptom": "anxiety",
+                  "timing": "during",
+                  "initially_perceived_as": "worried"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.103",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain after surgery",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "manageable"
+                },
+                {
+                  "symptom": "gas pain",
+                  "timing": "weeks after surgery",
+                  "initially_perceived_as": "worse than surgery pain"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "exercising more",
+              "trying to eat better",
+              "plan a diet that causes the least amount of gas possible but also prevents constipation"
+            ]
+          },
+          {
+            "comment_id": "276.104",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.105",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.106",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.107",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "thickened endometrium",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.108",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "dehydration",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.109",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.110",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "periods with NO uterus",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "cause for concern"
+                },
+                {
+                  "symptom": "ovarian masses",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "cause for concern"
+                },
+                {
+                  "symptom": "feels like an ectopic pregnancy",
+                  "timing": "post-hysterectomy",
+                  "initially_perceived_as": "cause for concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.111",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.112",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "thickened endometrial layer",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "only an indicator"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.113",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.114",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.115",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "eating better"
+            ]
+          },
+          {
+            "comment_id": "276.116",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.117",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.118",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nervous",
+                  "timing": "pre-results",
+                  "initially_perceived_as": "nervous"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.119",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "276.120",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "476",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "burning pain in stomach",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "ignored at first, then concerning as it worsened"
+            },
+            {
+              "symptom": "red dots on legs that would come and go",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "feeling hot and sweaty",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "low white blood cell levels (half of what they should be)",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerning"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "476.1",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "pain in rib back",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "tried physio, acupuncture, yoga"
+                },
+                {
+                  "symptom": "yelping whenever moved",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "very bad"
+                },
+                {
+                  "symptom": "pathological fracture of 8th rib",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerning"
+                },
+                {
+                  "symptom": "lytic lesion",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerning"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.2",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "burst appendix",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for medical attention"
+                },
+                {
+                  "symptom": "lung tumor",
+                  "timing": "during scan for burst appendix",
+                  "initially_perceived_as": "probably nothing"
+                },
+                {
+                  "symptom": "brain tumor",
+                  "timing": "during scans for lung tumor",
+                  "initially_perceived_as": "not cancer but still needs to come out"
+                },
+                {
+                  "symptom": "cancer in bones",
+                  "timing": "18 months later",
+                  "initially_perceived_as": "cause for medical attention"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain in upper abdomen",
+                  "timing": "pre-diagnosis (a few months)",
+                  "initially_perceived_as": "related to diverticulosis"
+                },
+                {
+                  "symptom": "mass at the head of pancreas",
+                  "timing": "during ultrasound",
+                  "initially_perceived_as": "cause for concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.4",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "oily poops",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weird feeling like full but hadn't eaten",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stomach pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thinking gallbladder"
+                },
+                {
+                  "symptom": "tumor on pancreas with mets to liver",
+                  "timing": "during scan",
+                  "initially_perceived_as": "cause for concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.5",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "stomach ulcer",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "stomach ulcer"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.6",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood from intercourse",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.7",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "back pain",
+                  "timing": "pre-diagnosis (6 months)",
+                  "initially_perceived_as": "muscular, due to mattress"
+                },
+                {
+                  "symptom": "couldn't feel legs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for immediate medical attention"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.8",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "acute pancreatitis episodes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "gall stones blocked pancreas"
+                },
+                {
+                  "symptom": "gall stones",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause of pancreatitis"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.9",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.10",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "raspberry ripple poops",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "something to be concerned about"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.12",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "blood in the toilet, never in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "hemorrhoids"
+                },
+                {
+                  "symptom": "lost 30lbs in 6 months without trying",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "not getting better"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.13",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tiny swollen lymphnode under my ear",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.14",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe chronic lower back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "constant vomiting",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "burning pain in leg muscles",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "constipation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "melon sized tumor in abdomen between stomach and spine",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "suspected underactive thyroid"
+                },
+                {
+                  "symptom": "weight gain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "suspected underactive thyroid"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.16",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hypercalcemia critical level",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for medical attention"
+                },
+                {
+                  "symptom": "acute pancreatitis",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for medical attention"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.17",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "couldn't swallow ice cream",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for medical attention"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "12.5 cm mass on liver",
+                  "timing": "during annual physical",
+                  "initially_perceived_as": "cause for concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.19",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "bump on left shin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain in shin",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for concern"
+                },
+                {
+                  "symptom": "couldn't sleep from pain in shin and surrounding joints",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for concern"
+                },
+                {
+                  "symptom": "lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "blood in leg flowing down to foot felt stuck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "cause for concern"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sudden intense pain in lower back right side that radiated down to testicles",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "kidney stone"
+                },
+                {
+                  "symptom": "threw up from pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "kidney stone"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

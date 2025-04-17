@@ -1,0 +1,684 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "239",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "hurt left knee (overuse?)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "developed runner's knee / patellofemoral pain syndrome",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "nerve pains in legs - just jolts of pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tingling in knees, feet, calves, and thighs when wearing pants or anything on legs while sitting",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "incessant twitching in legs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "twitching spread elsewhere to torso, arms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "annoying"
+            },
+            {
+              "symptom": "wobble going down stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "elbows hurting when lifting 5lb weights",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "frequent diarrhea",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "not thought much of it"
+            },
+            {
+              "symptom": "bleeding a handful of times since taking meloxicam on an empty stomach",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "knees turn purple after a shower",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "short of breath just going up 3 flights of stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "working out multiple times a week",
+          "hiking",
+          "being active",
+          "resting",
+          "trying PT",
+          "going to the gym",
+          "swimming"
+        ],
+        "comments": [
+          {
+            "comment_id": "239.101",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.102",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.103",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "metastatic lesions on the liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.104",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.105",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.106",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "hemoglobin was at 6.2",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "side effects from treatment",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.107",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "severe chest pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "difficulty swallowing, food would get stuck and need to be regurgitated",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.108",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tumor pressing on nerves shutting down vocal cords",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.109",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "felt like I was pregnant",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "felt like something was pushing down on my bladder and ovaries",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.110",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nerve and leg pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lost feeling in half of that foot",
+                  "timing": "post pelvic tumor shrinkage",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "weight loss turned to weight gain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "tiredness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fevers",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.111",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.112",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "bulge of muscle pooching out, nearly exactly the size of my previously corrected hernia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought maybe the mesh was loosened"
+                },
+                {
+                  "symptom": "firm bulge",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.113",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "PVC with heart",
+                  "timing": "unknown",
+                  "initially_perceived_as": "only noticed it under stress"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.114",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.115",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "elevated PSA",
+                  "timing": "during bloodwork check",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.116",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "diarrhea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mets in her spine & lymph nodes",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "liver full of cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.117",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "level 10 pain after eating a big meal for dinner",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "worst pain in my life for 8 hours"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.118",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.119",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feel like I'm fighting something",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.120",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.121",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.122",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.123",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "terrible acid reflux",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain in abdomen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "liver full of tumors",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.124",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.125",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.126",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.127",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.128",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.129",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.130",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.131",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "worsening anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.132",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.133",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.134",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.135",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.136",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.137",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.138",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.139",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.140",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "extreme side effects",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "239",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "hurt left knee (overuse?)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "developed runner's knee / patellofemoral pain syndrome",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "nerve pains in legs - just jolts of pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tingling in knees, feet, calves, and thighs when wearing pants or anything on legs while sitting",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "incessant twitching in legs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "twitching spread elsewhere to torso, arms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "annoying"
+            },
+            {
+              "symptom": "wobble going down stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "elbows hurting when lifting 5lb weights",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "frequent diarrhea",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "not thought much of it"
+            },
+            {
+              "symptom": "bleeding a handful of times since taking meloxicam on an empty stomach",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "knees turn purple after a shower",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "short of breath just going up 3 flights of stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "working out multiple times a week",
+          "hiking",
+          "being active",
+          "resting",
+          "trying PT",
+          "going to the gym",
+          "swimming"
+        ],
+        "comments": [
+          {
+            "comment_id": "239.121",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.122",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.123",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "terrible acid reflux",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pain in abdomen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "liver full of tumors",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.124",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.125",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.126",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.127",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.128",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.129",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.130",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.131",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "worsening anxiety",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.132",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.133",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.134",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.135",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.136",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.137",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.138",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.139",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.140",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "extreme side effects",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

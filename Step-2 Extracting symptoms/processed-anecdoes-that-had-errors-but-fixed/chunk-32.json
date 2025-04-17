@@ -1,0 +1,470 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "476",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "burning pain in stomach that got worse and worse",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "ignored initially, then couldn't ignore"
+            }
+          ,
+            {
+              "symptom": "white blood cell levels were half of what they should be",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+          }
+        ,
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "476.101",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.102",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.103",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "got a new job"
+            ]
+          },
+          {
+            "comment_id": "476.104",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nodules on thyroid",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "under watch"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.105",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tired",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "a little depressed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "had to retire from work"
+            ]
+          },
+          {
+            "comment_id": "476.106",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.107",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.108",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "taken seriously from the start"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.109",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.110",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "persistent and severe itching",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored initially"
+                },
+                {
+                  "symptom": "trouble sleeping due to itching",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored initially"
+                },
+                {
+                  "symptom": "scabs from scratching",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "ignored initially"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.111",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.112",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "symptom-free state",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "grateful"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "filling days with things they love to do and people they love to be with"
+            ]
+          },
+          {
+            "comment_id": "476.113",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "disabled memory",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.114",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.115",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.116",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.117",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.118",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.119",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.120",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.121",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.122",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.123",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.124",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.125",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.126",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.127",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "swollen lymph nodes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "panic"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.128",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.129",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.130",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.131",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.132",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.133",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.134",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.135",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.136",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.137",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.138",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.139",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "hurt hands and feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "manageable"
+                },
+                {
+                  "symptom": "peeling hands and feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "manageable"
+                },
+                {
+                  "symptom": "raw hands and feet",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "manageable"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.140",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.141",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "small spot on breast",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.142",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.143",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.144",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.145",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.146",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.147",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tiredness",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.148",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.149",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.150",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.151",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.152",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.153",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.154",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "grief",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "health anxiety",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.155",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.156",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.157",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "feeling down",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "writing five things i'm grateful for everyday"
+            ]
+          },
+          {
+            "comment_id": "476.158",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.159",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.160",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

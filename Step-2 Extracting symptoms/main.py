@@ -502,7 +502,35 @@ class MainClass:
     def restoreVerbosity(self) -> None:
         self.verbose = self.wasVerbose
 
-    
+    def mergeChunks(self, chunks, maxTokens = 6144) -> list:
+        """
+        Description:
+                    - Merges chunks of text together if their combined token count is under the limit
+                Args:
+                    - chunks: List of text chunks to potentially merge
+                Returns:
+                    - List of merged chunks that fit within token limits
+        
+        """
+        self.tempDisableVerbosity()
+        chunks = [[self.countTokens(chunk), chunk] for chunk in chunks]
+        self.restoreVerbosity()
+        for i in range(len(chunks)):
+            chunk = chunks[i]
+            if (chunk[0] == 0):
+                continue
+            if chunk[0] < maxTokens:
+                for y in range(len(chunks)):
+                    c = chunks[y]
+                    if (y == i) or (c[0] == 0):
+                        continue
+                    if (c[0] + chunk[0] + 1) <= maxTokens:
+                        chunks[i] = [chunk[0] + c[0] + 1, chunk[1] +"\n"+ c[1]]
+                        chunks[y] = [0, ""]
+                        chunk = chunks[i]
+
+        chunks = [chunk[1] for chunk in chunks if chunk[0]]
+        return chunks        
         
     def run(self) -> None:
         """
@@ -511,7 +539,7 @@ class MainClass:
         Args:
             - An imaginary argument
         """
-        self.loadDump()
+        # self.loadDump()
         # print(self.countComments())
 
         # lets test some chunk sizes, I want stuff that will fit into gemini's context window, Ik google yaps about a 1 million context window, but companies brag and exaggerate all the time so ill go for like ~300k tokens
@@ -559,48 +587,50 @@ class MainClass:
         # c = [range(0, 15), range(15, 30), range(30, 45), range(45, 60), range(60, 75), range(75, 90), range(90, 105), range(105, 120), range(120, 135), range(135, 150), range(150, 165), range(165, 180), range(180, 195), range(195, 210), range(210, 225), range(225, 240), range(240, 245), range(245, 255), range(255, 270), range(270, 285), range(285, 300), range(300, 315), range(315, 330), range(330, 345), range(345, 360), range(360, 375), range(375, 390), range(390, 405), range(405, 420), range(420, 435), range(435, 450), range(450, 465), range(465, 480), range(480, 494)]
         # for chunk in c:
         #     chunks.append("\n".join([self.formatPost(i) for i in chunk]))
+        
+        
+        
+        # new chunking technique, see self.mergeChunks
            
-        # AHHH YKW FRIK CHUNKING
-        self.tempDisableVerbosity()
-        chunks = [self.formatPost(i) for i in range(494)]
-        chunks = [[self.countTokens(chunk), chunk] for chunk in chunks]
-        self.restoreVerbosity()
-        # chunks  = [[1000, "a"], [5000, "b"], [8000, "c"], [130, "d"], [1200, "e"], [4943, "f"]]
-        # print(sum([i[0] for i in chunks]), sum([len(i[1]) for i in chunks]))
-        # print(chunks)
-        # new chunking technique
-        for i in range(len(chunks)):
-            chunk = chunks[i]
-            if (chunk[0] == 0):
-                continue
-            if chunk[0] < 6144:
-                for y in range(len(chunks)):
-                    c = chunks[y]
-                    if (y == i) or (c[0] == 0):
-                        continue
-                    if (c[0] + chunk[0] + 1) <= 6144:
-                        chunks[i] = [chunk[0] + c[0] + 1, chunk[1] +"\n"+ c[1]]
-                        chunks[y] = [0, ""]
-                        chunk = chunks[i]
-        
-        chunks = [chunk[1] for chunk in chunks if chunk[0]]
-        print(len(chunks), "chunks of size 6144 tokens")
-        # exit()
-        
+        # self.tempDisableVerbosity()
+        # chunks = [self.formatPost(i) for i in range(494)]
+        # chunks = self.mergeChunks(chunks)
+        # self.restoreVerbosity()
+
         # print([i[0] for i in chunks])
         # print(sum([i[0] for i in chunks]), sum([len(i[1]) for i in chunks]))
         # print(sum([i[0] for i in chunks]), sum([len(i[1]) for i in chunks]))
         # print(chunks)
         # exit()
-                        
-
+        
+        # hello chat
+        # errorPosts = [48, 49, 50, 51, 52, 239, 240, 241, 242, 276, 476]
+        # # subtract 1 cuz indeces are counted from zero
+        # errorPosts = [i-1 for i in errorPosts]
+        # errorPosts = [self.formatPost(i) for i in errorPosts]
+        # for idx, post in enumerate(errorPosts):
+        #     if self.countTokens(post) > 4096:
+        #         # break post into chunks of 20 comments
+        #         post = post.splitlines()
+        #         postHeader = "\n".join(post[:3])
+        #         comments = post[3:]
+        #         comments = Utils.chunk(comments, 20)
+        #         posts = [postHeader + "\n" + "\n".join(chunk) for chunk in comments]
+        #         errorPosts.extend(posts)
+        #         errorPosts[idx] = ""
+        
+        # errorPosts = [p for p in errorPosts if p]
+        # chunks = errorPosts
+        # chunks = self.mergeChunks(chunks, 4096)
+        # print(len(chunks))
+        # exit()
         # yknow given how short the data is, I don't even gotta use the api
         # simply convert them into 5 prompts
         # actually nvm, too much work
         # apiiii
 
-        self.gemini = Gemini(os.getenv("GEMINI_KEY"))
-        gemini = self.gemini
+        # self.gemini = Gemini(os.getenv("GEMINI_KEY"))
+        # gemini = self.gemini
 
         # test
         # symptoms = gemini.extractSymptoms("\n".join([self.formatPost(i) for i in range(000, 5)]))
@@ -608,26 +638,64 @@ class MainClass:
         #     json.dump(symptoms, f)
         # Nice it worked :D, first try aswell, now for everything'
 
-        for idx, chunk in enumerate(chunks):
-            if self.verbose:
-                print(f"Processing chunk {idx+1}...")
-            try:
-                symptoms = gemini.extractSymptoms(chunk)
-            except Exception as e:
-                print(e)
-                symptoms = f"Error here, {str(e)}, chunk:\n{chunk}"
+        # for idx, chunk in enumerate(chunks):
+        #     if self.verbose:
+        #         print(f"Processing chunk {idx+1}...")
+        #     try:
+        #         symptoms = gemini.extractSymptoms(chunk)
+        #     except Exception as e:
+        #         print(e)
+        #         symptoms = f"Error here, {str(e)}, chunk:\n{chunk}"
             
-            if self.verbose:
-                print(f"Chunk {idx+1} processed :D, storing chunk...")
+        #     if self.verbose:
+        #         print(f"Chunk {idx+1} processed :D, storing chunk...")
 
-            with open(f"chunk-{idx+1}.json", "w+") as f:
-                # json.dump(symptoms, f)
-                f.write(symptoms)
+        #     with open(f"chunk-{idx+1}.json", "w+") as f:
+        #         # json.dump(symptoms, f)
+        #         f.write(symptoms)
 
-            if self.verbose:
-                print(f"Chunk {idx+1} stored :D, waiting 5s...")
+        #     if self.verbose:
+        #         print(f"Chunk {idx+1} stored :D, waiting 5s...")
 
-            time.sleep(5)
+        #     time.sleep(5)
+        # finally done :D
+        # now lets combine the chunks into one
+        # posts = []
+        # for i in range(195):
+        #     with open(os.path.join(Config.SCRIPT_DIR, "processed-anecdotes", f"chunk-{i+1}.json"), "r") as f:
+        #         try:
+        #             chunk = json.load(f)
+        #             posts.extend(chunk["posts"])
+        #         except Exception as e:
+        #             print("Error in chunk", i+1, "please check manually")
+
+        # with open(os.path.join(Config.SCRIPT_DIR, "processed-anecdotes-combined.json"), "w+") as f:
+        #     json.dump(posts, f)
+        # Errors discovered in rlly long posts
+        """Error in chunk 21 please check manually Deleted entire file, redo posts 48-52
+
+            Error in chunk 87 please check manually  Deleted entire file, redo posts 239
+            Error in chunk 88 please check manually  Deleted entire file, redo posts 240
+            Error in chunk 89 please check manually     Deleted entire file, redo posts 241 
+            Error in chunk 90 please check manually  Deleted entire file, redo posts 242
+            Error in chunk 110 please check manually Post 276
+            Error in chunk 190 please check manually Post 476
+        """
+        # I think the solution is the break the comments down into chunks of 20, then attach the post to each chunk, and then rerun that through the AI
+        # see line 597 for the updates I made to account for these errors
+        # adding those to the ones we got.
+
+        # posts = []
+        # for i in range(33):
+        #     with open(os.path.join(Config.SCRIPT_DIR, "processed-anecdoes-that-had-errors-but-fixed", f"chunk-{i+1}.json"), "r") as f:
+        #         try:
+        #             chunk = json.load(f)
+        #             posts.extend(chunk["posts"])
+        #         except Exception as e:
+        #             print("Error in chunk", i+1, "please check manually")
+
+        # with open(os.path.join(Config.SCRIPT_DIR, "processed-anecdoes-total-combined.json"), "w+") as f:
+        #     json.dump(posts, f)
 
         # print(self.countTokens("\n".join([self.formatPost(i) for i in range(000, 494)])))
         # with open(os.path.join(Config.SCRIPT_DIR, "formatted-posts.txt"), "w+") as f:

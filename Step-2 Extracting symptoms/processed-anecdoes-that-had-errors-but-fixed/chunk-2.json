@@ -1,0 +1,452 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "52",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "stage 3 inflammatory breast cancer",
+              "timing": "diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "52.1",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.2",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.3",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.4",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.5",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "patchy bald head",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "sad"
+                },
+                {
+                  "symptom": "new brain lesion",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "scared"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "every little pain",
+                  "timing": "after cancer remission",
+                  "initially_perceived_as": "paranoid"
+                },
+                {
+                  "symptom": "sudden dread of dying soon",
+                  "timing": "3 months ago",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "heart attack due to chemo",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.8",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "losing a lung will inevitably shorten my life",
+                  "timing": "after surgery",
+                  "initially_perceived_as": "haunting"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.10",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.11",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.12",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.13",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.14",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.15",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling pretty crappy",
+                  "timing": "end of radiation treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.17",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.18",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.19",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.20",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "anaplastic glioma",
+                  "timing": "initial diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "anaplastic ependymoma",
+                  "timing": "more recent diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tumor in my brain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "tumor on the outside of my skull",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.21",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "recently",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.22",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.23",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.25",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "52.26",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    },
+    {
+      "post": {
+        "post_id": "241",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "241.61",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.62",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.63",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "mild but sharp pain sensations in the front of my neck right below left jaw",
+                  "timing": "suddenly getting",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "mild but sharp pain sensations in the front of my neck right below right jaw",
+                  "timing": "sometimes",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sinus nasal bleeding",
+                  "timing": "currently",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "tonsil stone on left tonsil",
+                  "timing": "currently",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.64",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.65",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.66",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "pain",
+                  "timing": "started about a month ago",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.67",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.68",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling of a small lump in my throat",
+                  "timing": "going on for about a year or 2",
+                  "initially_perceived_as": "not painful or anything"
+                },
+                {
+                  "symptom": "able to move a lump in my throat to the side with my fingers and it kinda pops",
+                  "timing": "going on for about a year or 2",
+                  "initially_perceived_as": "not painful or anything"
+                },
+                {
+                  "symptom": "dry throat",
+                  "timing": "quite a lot",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "sore throat",
+                  "timing": "quite a lot and they seem to linger longer than they ever used to",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.69",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "similar symptoms",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.70",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling like shit",
+                  "timing": "4 months",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "similar symptoms",
+                  "timing": "4 months",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.71",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.72",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.73",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.74",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "same",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.75",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "same",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.76",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.77",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "symptoms are getting better",
+                  "timing": "currently",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.78",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "exact same symptoms",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.79",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.80",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

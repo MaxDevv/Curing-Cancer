@@ -1,0 +1,1005 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "239",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "frequent diarrhea",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "never thought much of it"
+            },
+            {
+              "symptom": "nerve pains in legs (jolts of pain)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tingling in knees, feet, calves, and thighs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "incessant twitching in legs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "twitching spread to torso and arms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "annoying"
+            },
+            {
+              "symptom": "shortness of breath going up 3 flights of stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "low B12 value",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "30mm mass in transverse colon",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "left knee pain, runner's knee / patellofemoral pain syndrome",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "wobbling going down stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "inability to lift 5lb weights without elbow pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "knees turn purple after a shower",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "bleeding due to meloxicam taken on an empty stomach",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "working out multiple times a week",
+          "hiking",
+          "being active",
+          "resting",
+          "PT",
+          "going to the gym",
+          "swimming"
+        ],
+        "comments": [
+          {
+            "comment_id": "239.21",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "tongue cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tongue bit",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tongue never healed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.22",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "swollen lips",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "swollen eyes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "swollen tongue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "swollen cheek",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.23",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling really tired and overwhelmed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "chalked it up to starting a new and intimidating job"
+                },
+                {
+                  "symptom": "taking naps when usually didn't",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "chalked it up to starting a new and intimidating job"
+                },
+                {
+                  "symptom": "finding zoom meetings so exhausting that would go lay down in bed for a few minutes after they ended",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "chalked it up to starting a new and intimidating job"
+                },
+                {
+                  "symptom": "white blood cell count slightly below acceptable limit",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "lower legs were swollen (fluid retention)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "weird, like skin was pulled tight"
+                },
+                {
+                  "symptom": "blood clots in both legs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "leukemia",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "started a new and intimidating job"
+            ]
+          },
+          {
+            "comment_id": "239.24",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.25",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "heart burn",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feeling full and bloated",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "blood spotting between periods",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "side effects of IUD"
+                },
+                {
+                  "symptom": "worsening period cramps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "side effects of IUD"
+                },
+                {
+                  "symptom": "back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "missed period",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought was pregnant"
+                },
+                {
+                  "symptom": "belly started to swell up",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought was pregnant"
+                },
+                {
+                  "symptom": "stomach pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "bloated stomach",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stage 3 ovarian cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "multiple lime to grapefruit sized tumors",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "under a lot of work stress"
+            ]
+          },
+          {
+            "comment_id": "239.26",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "GERD",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "terrible terrible backpain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "related to GERD"
+                },
+                {
+                  "symptom": "metastatic retinoblastoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.27",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "digestive issues",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "problems swallowing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "acid reflux",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "shooting pains in the abdomen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "cancer spread throughout",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.28",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "rectal bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.29",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "allergy issues",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought I had allergy issues"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "sciatic",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was sciatic"
+                },
+                {
+                  "symptom": "kidney cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "NET in my lung",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.30",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump on neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Non Hodgkin's lymphoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "prostate cancer",
+                  "timing": "post cancer",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.31",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "full body itching",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumor squeezing biliary duct shut",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.32",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "everything tasted 'off'",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "felt a 'pressure from her throat to her anus'",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "diarrhea (couldn't make it to the bathroom some times)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "bursa fluid pocket swell up on elbow",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "pressure became pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lung nodules",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "thought maybe she had a bug"
+                },
+                {
+                  "symptom": "aggressive small cell lung cancer (SCLC) with mets to spine, liver, and lymph nodes were full",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.33",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Runner's Knee",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "diagnosed with Runner's Knee"
+                },
+                {
+                  "symptom": "diagnosed with a pinched nerve",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "diagnosed with a pinched nerve"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "knee pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "10cm lesion within femur bone",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fractured femur bone",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.34",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was because always played volleyball"
+                },
+                {
+                  "symptom": "16x16x15cm tumor pushing on kidney, stomach and spleen",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "played volleyball"
+            ]
+          },
+          {
+            "comment_id": "239.35",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "tired",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "thirsty",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "skin was sorta peely out today the shower",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "hair went weird textured",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.36",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "toe pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was gout"
+                },
+                {
+                  "symptom": "slight breathlessness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "attributed to lack of exercise"
+                },
+                {
+                  "symptom": "sharp shoulder pain a few minutes after drinking alcohol",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "brushed it off, thinking it was gout"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "lymph node the size of an egg on the left collarbone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "freaked out"
+                },
+                {
+                  "symptom": "Hodgkin's lymphoma, stage 2",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.37",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "headaches",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "dizziness at a very high rate",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "crippling migraines",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lump on wrist",
+                  "timing": "post-diagnosis",
+                  "initially_perceived_as": "think it's just a ganglion cyst"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "left side paralysis but it would come and go and only after playing sports",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought I must have pinched a nerve"
+                },
+                {
+                  "symptom": "brain tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Stage 2/3 astrocytoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "playing sports"
+            ]
+          },
+          {
+            "comment_id": "239.38",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "cough",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was allergies, sinus infections"
+                },
+                {
+                  "symptom": "aura migraines",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "lost voice",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "difficulty swallowing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was allergies, sinus infections"
+                },
+                {
+                  "symptom": "primary mediastinal bcell lymphoma",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "giant tumor in chest crushing everything, vocal nerve included",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.39",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "skin was breaking out SO bad",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "raging period symptoms",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "random weight gain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "hair thinning",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "raging tumor grew up to 12cm in breast over the course of a few days",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "triple-positive breast cancer",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "breast pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.40",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "annoying tickle cough",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "cold",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumor at the base of my tongue",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.81",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "couldn't keep anything down for a week",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "jaundiced",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "adenocarcinoma of the duodenum",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.82",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.83",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "low grade fevers",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "horrible fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "awful nausea",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "hair loss to the point of seeing scalp",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "lump in breast",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "they say is a 'cyst'"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.84",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.85",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.86",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "swelling",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "clots",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "stage 3 cancer of the liver",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.87",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.88",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.89",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.90",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sweats at night",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "itchy legs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "heartburn like feeling so bad it wakes me up at night",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "pain everywhere but it comes and goes",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "can't turn my neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.91",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "\"slightly suspicious\" lymph nodes",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.92",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "diarrhea a lot",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "felt diet related"
+                },
+                {
+                  "symptom": "b12 deficiency",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "bloody stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.93",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.94",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "back pain",
+                  "timing": "post chemo",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "post chemo",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.95",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.96",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.97",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.98",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.99",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "spotting of blood from my vagina",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.100",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "spotting of blood from my vagina",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "something wrong"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

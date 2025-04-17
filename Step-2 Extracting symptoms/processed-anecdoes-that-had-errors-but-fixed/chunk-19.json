@@ -1,0 +1,660 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "241",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "241.281",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "constant tingle on tongue",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "slight sore throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "sinuses feel stuffed",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "congestion in chest that the commenter can't get rid of",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.282",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.283",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.284",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.285",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swollen lymph node",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.286",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.287",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.288",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.289",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "voice loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.290",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.291",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.292",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.293",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sore throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "ear pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "swollen lymph node",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "globus sensation",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain in chest when eating",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain in back when eating",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "stopped drinking 10 years ago",
+              "trying to control reflux"
+            ]
+          },
+          {
+            "comment_id": "241.294",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.295",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.296",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.297",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "rapidly growing cancerous lymph node, visible as a lump on the right side of the neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "affected ability to swallow anything",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "inability to swallow even water",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "cardiac arrest",
+                  "timing": "during G-tube insertion surgery",
+                  "initially_perceived_as": "major"
+                },
+                {
+                  "symptom": "inability to breathe",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "coma",
+                  "timing": "post-cardiac arrest",
+                  "initially_perceived_as": "major"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.298",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.299",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.300",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "sore throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "swollen gland",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.301",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "coughing up a tiny bit of blood when clearing throat and spitting (happened 3 times in total)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.302",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.303",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "swollen lymph nodes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.304",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.305",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump at the base of neck around the dip where the collar bone is",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "itchy throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "soft squishy lump that bubbles under the cricoid cartilage (size of an almond)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "vocal cord damage",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.306",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "3-4 swollen lymph nodes in right neck",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "swollen glands",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "dull ear pain on the same side",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.307",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "symptoms have been getting much worse since feb",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.308",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sore throat upon waking that subsides after a few hours, only to return each morning",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "stopped social smoking"
+            ]
+          },
+          {
+            "comment_id": "241.309",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.310",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.311",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.312",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sharp sensation on the left side of throat (resolved)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "\"cobblestoning\" in throat",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.313",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.314",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.315",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "white lump appeared inside cheek after biting it",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "pain when eating anything",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.316",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.317",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "'pebble' (location unspecified)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.318",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.319",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.320",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.341",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "red and irritated throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "pain started on right side of throat now it's all in left side",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.342",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.343",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "spot next to uvula",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "spot is not going away",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "spot has changed shape",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "spot has gotten a little bigger",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.344",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "mild intermittent throat pains right below left jaw bone and sometimes right jaw bone",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "intermittent quick sharp pain that comes and goes (hurts for a second and stops)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "stuffy nose",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "small tonsil stone on left tonsil",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.345",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.346",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.347",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.348",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.349",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.350",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.351",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.352",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.353",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.354",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "symptoms are getting worse",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.355",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "minor difficulty swallowing",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "positional ear pain (feels like an icepick being driven into ear when moving a certain way)",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.356",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "need to spit a lot",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                },
+                {
+                  "symptom": "excessive spit throughout the day",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.357",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "ear pain",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.358",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "permanent swollen lymph nodes",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.359",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "lump on trachea",
+                  "timing": "unknown",
+                  "initially_perceived_as": "minor"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "241.360",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

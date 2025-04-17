@@ -1,0 +1,461 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "476",
+        "symptoms": {
+          "major": [
+            {
+              "symptom": "burning pain in stomach that got worse and worse",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "red dots on legs that would come and go",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "feeling hot and sweaty",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "white blood cell levels were half of what they should be",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "476.41",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "runny nose",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "loss of smell",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "high frequency hearing loss in both ears",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "20% ability to smell",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.42",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "conscious semi-seizures",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "head would absolutely pound",
+                  "timing": "during semi-seizures",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "odd both sour and bitter taste in mouth",
+                  "timing": "during semi-seizures",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "unable to understand speech; hearing it as jibberish",
+                  "timing": "during semi-seizures",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "brain unable to do some things",
+                  "timing": "following semi-seizures",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "memory shot for the first 10 or so minutes following semi-seizures",
+                  "timing": "following semi-seizures",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.43",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "heavy period",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain in pelvis",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.44",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "felt as if I had an Adam's apple, yet I'm a woman",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.45",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "random pain in abdomen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "vomiting",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "blood clots in both lungs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "blood clots in both legs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "two huge tumors on ovaries",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.46",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "sore on side of my tongue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.47",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "coughing up blood",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.49",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "losing weight without trying",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "food/drink he said tasted rancid",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.50",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump above my collar bone",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.51",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "some back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "intense pain in left rib",
+                  "timing": "post massage",
+                  "initially_perceived_as": "concerned"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "BP of 205 over 145",
+                  "timing": "post massage",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "mass on right lung",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.52",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "lump in shoulder",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lump in shoulder growing very rapidly",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.53",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "cough that I just couldn't kick",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "nodules in lungs",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "lesions on bones",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.54",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "nagging feeling that things weren't right",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.56",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "high fevers that they just couldn't break",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "fevers would just stop",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "dizzy",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "losing weight",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "very tired were just walking took everything out of me",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "passed out",
+                  "timing": "post remission",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "broke my back",
+                  "timing": "post remission",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "broke ankle",
+                  "timing": "post remission",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.57",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "strange intense pain in areas where I had had prior injuries",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "day after tennis workout, could barely move",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain was in the area of lumbar herniation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "woke up with pain so intense I could barely get out of bed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "headaches",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "neck pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "excruciating pain in middle back",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain spread to my ribs",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "pain spread to my diaphragm",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.91",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "constant deep pain with no relief ever",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "sharper pain when I would move certain ways",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "area of swelling started at surface",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "it even hurt to touch or wear bra",
+                  "timing": "unknown",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.99",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "muscle aches",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "joint pain",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "dismissed"
+                },
+                {
+                  "symptom": "stiffness",
+                  "timing": "post treatment",
+                  "initially_perceived_as": "dismissed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

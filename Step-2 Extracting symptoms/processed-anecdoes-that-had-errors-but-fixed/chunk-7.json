@@ -1,0 +1,609 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "239",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "knee pain",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "overuse"
+            },
+            {
+              "symptom": "nerve pains in legs (jolts of pain)",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "tingling in knees, feet, calves, and thighs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "incessant twitching in legs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "twitching in torso and arms",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "annoying"
+            },
+            {
+              "symptom": "wobbly when going down stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "elbow pain when lifting weights",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "knees turning purple after a shower",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "low B12 value",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "more frequent diarrhea than normal",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "didn't think much of it"
+            },
+            {
+              "symptom": "bleeding",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "caused by meloxicam on empty stomach"
+            },
+            {
+              "symptom": "runner's knee / patellofemoral pain syndrome",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            },
+            {
+              "symptom": "shortness of breath going up 3 flights of stairs",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "30mm mass in transverse colon",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "unknown"
+            }
+          ]
+        },
+        "lifestyle_changes": [
+          "working out multiple times a week",
+          "hiking",
+          "being active",
+          "resting knee"
+        ],
+        "comments": [
+          {
+            "comment_id": "239.1",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "back spasm",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "take tylenol and rest"
+                },
+                {
+                  "symptom": "sciatic nerve pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thermostat disagreement with wife"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "cancer cells in spinal lymph nodes",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "physical therapy"
+            ]
+          },
+          {
+            "comment_id": "239.2",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "very small amount of spotting lasting less than 1 day",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "almost didn't get it checked out"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.3",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.4",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "seeing tiny black dots like a swarm of flies when looking up at the clear bright sky",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "distracting"
+                },
+                {
+                  "symptom": "printed words looked like they were smudged with oil making them difficult to read",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "distracting"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "multiple large brain tumors throughout brain",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.5",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "feeling like having a heart attack whenever eating",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "self diagnosed as jack hammer esophagus"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "7.5cm tumor right in the GE junction where stomach and esophagus meet",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.6",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "stiff neck",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "bad posture"
+                },
+                {
+                  "symptom": "sudden loss of voice",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "dry air"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "paralyzed left vocal cords",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.7",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "night sweats",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "ache when sitting down too hard",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "trouble with bowel movements",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "frequent urination",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "more vaginal discharge than usual",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.8",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "cough that I couldn't kick",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "huge swollen lymph node in left armpit that just kept growing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.9",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "collapsing",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "falling hard on face and almost breaking front teeth"
+                },
+                {
+                  "symptom": "bleeding for 21 days straight",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "passing clots the size of my fist",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "mass 25 x 18cm in lower abdomen",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.10",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "face breaking out really bad",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "hearing water sloshing around in ear all the time",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "15cm ovarian tumor",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.11",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "out of breath",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "sky high white blood cell count",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.12",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "weird leg pain that became nerve pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "extreme weight loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "suddenly was two clothing sizes smaller without trying"
+                },
+                {
+                  "symptom": "feverish at night",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "unable to sleep",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "not much energy ever to do anything",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "losing the ability to walk or touch my leg without discomfort",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.13",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "right inguinal hernia (lower abdomen at crease near thigh)",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "thought it was a right inguinal hernia"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.14",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "vomiting for weeks",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.15",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "worsening back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "overworked"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.16",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "extreme hair loss",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.17",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "food didn't taste good",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "feeling like he couldn't swallow",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "food and water getting caught in throat",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "throwing up and unable to keep food down",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.18",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "right index finger nail got dark",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "weird"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.19",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "abnormal paps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "they just keep an eye on it"
+                },
+                {
+                  "symptom": "anemia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "early perimenopause"
+                },
+                {
+                  "symptom": "chronic heavy bleeding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "early perimenopause"
+                },
+                {
+                  "symptom": "last period lasted a month",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "infected ovary"
+                },
+                {
+                  "symptom": "flooding",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "infected ovary"
+                },
+                {
+                  "symptom": "anxiety attacks",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "anxiety"
+                },
+                {
+                  "symptom": "pain in chest that would turn to heartburn",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "PVC",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "node on thyroid",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "mass in pelvis",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "fluid filled mass"
+                }
+              ],
+              "major": [
+                {
+                  "symptom": "lymph nodes lit up into chest",
+                  "timing": "during diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.20",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "slowing down of ability to move in bed",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "fatigue",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "taste of blood dried in mouth",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ],
+              "major": []
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.141",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.142",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.143",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.144",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.145",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "239.146",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

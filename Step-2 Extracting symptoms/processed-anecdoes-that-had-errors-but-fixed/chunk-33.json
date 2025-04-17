@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "476",
+        "symptoms": {
+          "minor": [
+            {
+              "symptom": "burning pain in stomach",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "red dots on legs that would come and go",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            },
+            {
+              "symptom": "feeling hot and sweaty",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "dismissed"
+            }
+          ],
+          "major": [
+            {
+              "symptom": "worsening burning pain in stomach that could no longer be ignored",
+              "timing": "pre-diagnosis",
+              "initially_perceived_as": "concerned"
+            },
+            {
+              "symptom": "low white blood cell levels (half of what they should be)",
+              "timing": "during diagnosis",
+              "initially_perceived_as": "concerned"
+            }
+          ]
+        },
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "476.161",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.162",
+            "symptoms": {},
+            "lifestyle_changes": [
+              "being intentional with thoughts and words - speaking positive things",
+              "living in gratitude",
+              "making a plan for how to think and act",
+              "making a playlist with songs about joy",
+              "feeding self with positive influences"
+            ]
+          },
+          {
+            "comment_id": "476.163",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.164",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.165",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.166",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "depression",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.167",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.168",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.169",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.170",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "476.171",
+            "symptoms": {},
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}

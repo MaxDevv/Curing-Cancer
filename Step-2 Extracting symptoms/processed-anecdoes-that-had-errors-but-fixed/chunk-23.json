@@ -1,0 +1,735 @@
+{
+  "posts": [
+    {
+      "post": {
+        "post_id": "242",
+        "symptoms": {},
+        "lifestyle_changes": [],
+        "comments": [
+          {
+            "comment_id": "242.101",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.102",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Stomach pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Back pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Side pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.103",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.104",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Weight loss",
+                  "timing": "unknown",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.105",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.106",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.107",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.108",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.109",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Blood on stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.110",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.111",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.112",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Unexplained anemia",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Abdominal pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                },
+                {
+                  "symptom": "Weird poop",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.113",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.114",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Neuropathy in hands",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "lasting effect from treatment"
+                },
+                {
+                  "symptom": "Neuropathy in feet",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "lasting effect from treatment"
+                },
+                {
+                  "symptom": "Digestive system is particularly choosy",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "lasting effect from treatment"
+                },
+                {
+                  "symptom": "Inability to digest certain foods",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "lasting effect from treatment"
+                },
+                {
+                  "symptom": "Fatigue",
+                  "timing": "post-treatment",
+                  "initially_perceived_as": "unsure if cancer related or just general ageing"
+                },
+                {
+                  "symptom": "General pain through hips",
+                  "timing": "ongoing",
+                  "initially_perceived_as": "related to job and body"
+                },
+                {
+                  "symptom": "General pain through torso",
+                  "timing": "ongoing",
+                  "initially_perceived_as": "related to job and body"
+                }
+              ]
+            },
+            "lifestyle_changes": [
+              "Pelvic floor physio",
+              "Working on mental health"
+            ]
+          },
+          {
+            "comment_id": "242.115",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.116",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Other symptoms besides GI",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.117",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.118",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.119",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Blood every day for 6 months",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.120",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.121",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.122",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.123",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.124",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.125",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.126",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.127",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.128",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.129",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.130",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.131",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Black stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Very dark brown stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Small spots of blood in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Iron-y aroma in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.132",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.133",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.134",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.135",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Bleeding from the tumor",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.136",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.137",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.138",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Burning pain at the anus when going to the bathroom",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "hemorrhoids"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.139",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.140",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.141",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.142",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.143",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Need to go to the bathroom more often",
+                  "timing": "post-surgery",
+                  "initially_perceived_as": "due to parts of the bowels removed"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.144",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.145",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.146",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Relentless agony located across entire abdomen",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.147",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Lung tumors grew a little",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.148",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "One episode of constipation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Blood once in stool",
+                  "timing": "years prior",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.149",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Tummy issues",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.150",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.151",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.152",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.153",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Pain in bowels every day",
+                  "timing": "since sept 2022",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Urgency every day",
+                  "timing": "since sept 2022",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.154",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.155",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "No pain",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Minimal side effects",
+                  "timing": "during treatment",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.156",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.157",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Bleeding bright red blood with normal stools",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.158",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.159",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Intermittent blood in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "concerned"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.160",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.181",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.182",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.183",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.184",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.185",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.186",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.187",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.188",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.189",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.190",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.191",
+            "symptoms": {
+              "major": [
+                {
+                  "symptom": "Blood in stool",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "hemorrhoid"
+                },
+                {
+                  "symptom": "Tiredness",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Pale pink eyelids",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Abdominal pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.192",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.193",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Constipation",
+                  "timing": "3 months",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Diarrhea",
+                  "timing": "3 months",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Greenish stool",
+                  "timing": "3 months",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Yellowish stool",
+                  "timing": "3 months",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Dark diarrhea after constipation",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Small and greasy pieces of stool when wiping",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.194",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Stomach pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Cramps",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Gas",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                },
+                {
+                  "symptom": "Pain radiating to back",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.195",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.196",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.197",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.198",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.199",
+            "symptoms": {},
+            "lifestyle_changes": []
+          },
+          {
+            "comment_id": "242.200",
+            "symptoms": {
+              "minor": [
+                {
+                  "symptom": "Bruise pain",
+                  "timing": "pre-diagnosis",
+                  "initially_perceived_as": "unknown"
+                }
+              ]
+            },
+            "lifestyle_changes": []
+          }
+        ]
+      }
+    }
+  ]
+}
