@@ -20,6 +20,7 @@ This project is currently in active development. We have completed the initial d
    - Categorizing symptoms as "minor" (initially dismissed) or "major" (prompted immediate concern)
    - Tracking when symptoms appeared and how patients initially perceived them
    - Also extracting lifestyle and behavioral changes mentioned
+   - Encountered and resolved issues with processing larger posts (posts #48-52, #239-242, #276, #476)
 
 ### Data Scale:
 - Total Posts: 494
@@ -28,6 +29,55 @@ This project is currently in active development. We have completed the initial d
 - Average Tokens Per Post: ~465
 - Average Comments Per Post: ~25
 - Average Tokens Per Comment: ~78
+## Progress Report
+
+### Development Timeline
+
+#### April 17, 2025
+- Combined and fixed errors in anecdotes, merging them into one comprehensive source
+- Implemented chunk merging functionality to optimize processing
+- Added error handling for exceptionally long posts by splitting them into smaller comment chunks
+- Successfully completed Step 2 of the project plan
+
+#### April 16, 2025
+- Added project README documentation
+- Completed extraction of symptoms using AI processing
+- Created backup of processed data before final combination
+- Successfully got processing pipeline working after multiple iterations
+- Generated formatted posts for AI processing
+- Added statistics about data scale and processing requirements
+
+#### April 15, 2025
+- Downloaded approximately 500 posts with 12,500 comments making up 13000 anecdotes from Reddit for symptom identification
+- Transformed anecdotes into structured JSON format
+- Completed Step 1 of the project plan (Data Collection)
+- Made initial project commit and repository setup
+
+### Data Collection Phase
+- Set up Reddit API access using PRAW
+- Implemented search functionality targeting the r/cancer subreddit
+- Used "how found" as the primary search term to gather relevant anecdotes
+- Added error handling and rate limiting to comply with API restrictions
+- Successfully extracted 494 posts with their associated comments
+- Stored raw data in JSON format for further processing
+
+### Symptom Extraction Phase
+- Developed a token counting system to manage AI context window limitations
+- Implemented text cleaning functions to handle special characters and emojis
+- Created a chunking system to process large posts within AI token limits
+- Integrated Google's Gemini AI with a specialized medical research prompt
+- Structured output in JSON format with detailed symptom categorization
+- Identified and resolved issues with processing exceptionally large posts (posts #48-52, #239-242, #276, #476)
+- Implemented a solution to break down large comment sections into manageable chunks
+- Combined processed chunks into a comprehensive dataset
+
+### Technical Challenges Overcome
+- Managed token limitations of AI models by implementing dynamic chunking
+- Developed a merging algorithm to optimize chunk sizes while staying within token limits
+- Handled special characters and emoji cleaning to ensure text compatibility
+- Implemented error recovery for failed processing attempts
+- Created a system to track and reprocess problematic posts
+- Addressed overloaded model errors by reducing chunk sizes and implementing wait periods
 
 ## Planned Next Steps:
 
@@ -62,12 +112,15 @@ The project uses Python with several key libraries:
 - PRAW for Reddit API access
 - Google's Gemini AI for natural language processing
 - JSON for data storage and manipulation
+- VertexAI tokenization for token counting
+- Regular expressions for text cleaning
 
 The symptom extraction process involves:
 1. Formatting posts and comments into a structured format
-2. Chunking data to fit within AI context windows
+2. Chunking data to fit within AI context windows (targeting ~6144 tokens per chunk)
 3. Processing through Gemini AI with a specialized prompt
 4. Storing extracted symptoms in a structured JSON format
+5. Combining processed chunks into a comprehensive dataset
 
 ## Project Goals
 
@@ -76,6 +129,7 @@ The ultimate aim of this project is to create a free, accessible tool that can h
 ## Disclaimer
 
 This project is for research purposes and is not intended to replace professional medical advice or diagnosis. Always consult with healthcare professionals regarding any health concerns.
+
 
 
 Made with &#x2764; by MaxDevv :D
