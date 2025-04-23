@@ -1,0 +1,3695 @@
+Take each symptom from the provided list and reformat it into clear, medically appropriate terminology suitable for a patient questionnaire. Each reformatted symptom should:
+    1.	Use proper medical terminology while remaining understandable to patients
+    2.	Maintain all specific details mentioned (location, triggers, patterns, etc.)
+    3.	Be concise yet descriptive
+    4.	Be phrased as a standalone symptom that can complete this sentence:
+“On a scale of 1-10, how severely have you experienced an abnormal onset or worsening of this symptom within the last 6 months: {symptom}”
+Only combine symptoms that are exact duplicates. Related but distinct symptoms (e.g., similar symptoms in different body locations) should remain separate.
+In order to combine symptom simply list the 2 symptoms you reformat in the exact same wording, they will be removed via a computer so they need to be written and phrased the same way.
+MAKE SURE to go through every single symptom in the list.
+For example:
+    •	“headaches” → “persistent or recurring headaches”
+    •	“tingling in knees” → “paresthesia (tingling sensation) in the knee region”
+    •	“weird GI stuff” → “unexplained gastrointestinal disturbances”
+Please reformat each symptom in the list below:
+Chunk 1
+prompt:
+
+Take each symptom from the provided list and reformat it into clear, medically appropriate terminology suitable for a patient questionnaire. Each reformatted symptom should:
+    1.	Use proper medical terminology while remaining understandable to patients
+    2.	Maintain all specific details mentioned (location, triggers, patterns, etc.)
+    3.	Be concise yet descriptive
+    4.	Be phrased as a standalone symptom that can complete this sentence:
+“On a scale of 1-10, how severely have you experienced an abnormal onset or worsening of this symptom within the last 6 months: {symptom}”
+Only combine symptoms that are exact duplicates. Related but distinct symptoms (e.g., similar symptoms in different body locations) should remain separate.
+In order to combine symptom simply list the 2 symptoms you reformat in the exact same wording, they will be removed via a computer so they need to be written and phrased the same way.
+MAKE SURE to go through every single symptom in the list.
+For example:
+    •	“headaches” → “persistent or recurring headaches”
+    •	“tingling in knees” → “paresthesia (tingling sensation) in the knee region”
+    •	“weird GI stuff” → “unexplained gastrointestinal disturbances”
+Please reformat each symptom in the list below:
+1). back pain for about 6 months
+2). shooting pains in the abdomen
+3). shit blood for a day
+4). adenocarcinoma of the duodenum
+5). lung symptoms
+6). unintentionally stopped eating
+7). a little depressed
+8). feeling very very tired
+9). anaplastic glioma
+10). heart attack due to chemo
+11). shit blood
+12). focal seizures that sent me to the er (presenting as right side numbness/weakness)
+13). tumor
+14). mild anemia after covid without internal bleeding
+15). swollen lymph nodes
+16). chronic throat dryness
+17). pain radiates down the neck and throat (right side)
+18). partially collapsed lung caused by large medistinal mass
+19). more painful periods
+20). tumor on pancreas with mets to liver
+21). swollen throat glands on both sides of the adams apple just below the jawline
+22). discomfort underneath chin
+23). tumor squeezing biliary duct shut
+24). throat's sensitivity to cold drinks/food
+25). pain in back when eating
+26). comes and goes
+27). swollen lymph node
+28). mass in neck
+29). cancer blocked his bowels
+30). worse gi symptoms
+31). strong fatigue
+32). ache when sitting down too hard
+33). iron deficiency anemia
+34). food getting stuck requiring regurgitation
+35). mild but sharp pain sensations in the front of my neck right below right jaw
+36). pain in breast
+37). peel hands
+38). wet stool since 4 years
+39). blood in stool (mother)
+40). huge tumor in liver
+41). itchy skin generally
+42). coughing up blood
+43). feeling down
+44). neck pain
+45). encapsulated appendix in bowel region
+46). horrible pms
+47). serverly swollen stomach for about a month or so
+48). elevated psa
+49). paralyzed left vocal cords
+50). upper back and sternum feel weird
+51). lump
+52). constantly changing texture and color stools
+53). anemia
+54). hurt feet
+55). painful rib
+56). barely any symptoms
+57). throat irritated
+58). felt like pregnancy
+59). new brain lesion
+60). sleep deprivation due to anxiety
+61). weight loss rapidly (10-11 pounds each week)
+62). mild but sharp pain sensations in the front of my neck right below left jaw
+63). feeling like shit
+64). felt like something was pushing down on my bladder and ovaries
+65). bleeding due to meloxicam taken on an empty stomach
+66). couldn't sleep from pain in shin and surrounding joints
+67). vague feeling of tenesmus
+68). multiple brain tumors
+69). tumor pressing on nerves shutting down vocal cords
+70). thin watery discharge between periods
+71). thickened endometrial layer
+72). acute pancreatitis
+73). broken rib
+74). slight spotting when wiping for a day
+75). hypercalcemia critical level
+76). running fevers
+77). swallowing difficult
+78). inability to swallow even water
+79). pain near anus
+80). lump next to windpipe
+81). throwing up probably every 15 minutes
+82). endometrial thickness was 5mm
+83). barely move
+84). anemia from chronic heavy bleeding
+85). endometrial thickness of 5mm
+86). spread in spine
+87). lytic lesion
+88). blood on stool
+89). passing out during colonoscopy prep
+90). constipation
+91). red and irritated throat
+92). severe abdominal pain
+93). collapsing
+94). flooding
+95). pain was in the area of lumbar herniation
+96). periods come bi-weekly
+97). runny nose while pregnant
+98). wobbling going down stairs
+99). nausea
+100). clots
+101). same
+102). pain everywhere but it comes and goes
+103). spotting
+104). trouble with bowel movements
+105). feel like a bruise on my tailbone
+106). significant knee pain
+107). sore throat that refuses to get better
+108). frequent ear pain mostly on the right side sometimes on the left
+109). bleeding bright red blood with normal stools
+110). mass on cecum
+111). plugged ears
+112). no appetite
+113). thin stool
+114). neck hurts
+115). increasingly painful periods
+116). sore throat
+117). low white blood cell levels (half of what they should be)
+118). random throat pain
+119). ear issues
+120). neuropathy in hands
+121). urgency every day
+122). tumors in spine
+123). aches on lymph nodes near collar bones
+124). high liver enzyme
+125). a pint of blood red pee
+126). pain in chest when eating
+127). difficulty swallowing
+128). raging tumor grew up to 12cm in breast over the course of a few days
+129). couldn't walk up a flight of stairs without stopping to pant for air
+130). can't digest anything
+131). foul discharge coming out at the start of period
+132). back spasm in lower back
+133). tumor on the outside of my skull
+134). metastasis to liver
+135). post menopausal bleeding
+136). sharper pain when move certain ways
+137). mass in pelvis
+138). seizures
+139). wbc rbcs and hgb tank
+140). vocal cord damage
+141). change in consistency and frequency in bowel movements (looser but still formed 2-6 times a day instead of once)
+142). weird gi stuff
+143). stiff neck
+144). intermittent right tonsil pain
+145). hemorrhoids
+146). blood from intercourse varying amounts
+147). little blood mixed with saliva
+148). brain unable to do some things
+149). "cobblestoning"
+150). slight thinning of the stool
+151). nervous system feels shot
+152). lump grew
+153). nodule in lung
+154). throat feels full after being in cold ac
+155). painful breast
+156). stomach ulcer
+157). tiny amount of blood spotting from vagina (like period)
+158). irritation
+159). small bump in hyioid area (front center throat above adam's apple)
+160). dark diarrhea after constipation
+161). pain (like period pain)
+162). threw up due to pain
+163). small spots of blood in stool
+164). nodes stayed 'up'
+165). tumor on bone in shoulder area
+166). burning pain in my leg muscles
+167). tired a lot
+168). abnormal paps
+169). lost 30lbs in 6 months without trying
+170). massive amounts of bleeding every time going to the bathroom
+171). lesions on bones
+172). persistent cough
+173). cyst on liver
+174). weight loss of 10-11 pounds each week
+175). stage 3 inflammatory breast cancer
+176). fractured femur bone
+177). back hurts badly
+178). tenesmus
+179). corresponding pain in ear
+180). inability to get out of bed
+181). extreme side effects (of clinical trial)
+182). 3-4 swollen lymph nodes in right neck
+183). lumps
+184). periods with no uterus
+185). 75cm tumor right in the ge junction where stomach and esophagus meet
+186). sudden weight loss of 10 kg in three months
+187). anal pain
+188). last period lasted a month and lots of 'flooding'
+189). spitting mucous out
+190). nausea continued even after hysterectomy
+191). cirrhosis of the liver
+192). weight loss turned to weight gain
+193). bad digestive problems
+194). painful coughing all night every night triggering asthma
+195). acid reflux
+196). losing the ability to walk or touch leg without discomfort
+197). multiple lumps under the jaw when head is turned downwards
+198). blood on toilet paper when wiping
+199). bloated stomach
+200). sweating a lot especially at night
+201). partially collapsed lung
+202). pain in the chest that would turn to heartburn
+203). general pain through hips
+204). pain in pelvis
+205). slowing down of ability to move in bed
+206). pelvic floor issues
+207). sternum pain (dozen tumors there)
+208). tumor in my brain
+209). liver full of tumors one the size of a golf ball
+210). lump in breast (round smooth mobile)
+211). b12 deficiency
+212). pain everywhere
+213). annoying pain in ear
+214). autoimmune disease called large cell polyneuropathy
+215). cancer spread throughout
+216). losing weight without trying
+217). bone cancer level pain
+218). tiny pebble (like maybe 2-3mm diameter) below jawline not on the bone but behind it
+219). sharp pain when eating feeling it hitting my stomach
+220). ears starting to feel plugged up
+221). small ear pain
+222). periods lasting longer than before
+223). pale pink eyelids
+224). skin was breaking out so bad
+225). lump found in breast
+226). cancer in ribs
+227). tummy issues
+228). right inguinal hernia (lower abdomen at crease near thigh)
+229). peel feet
+230). feeling of a lump when i swallow
+231). pain spread to my ribs
+232). nodules in lungs
+233). spot on soft palate
+234). stage 4 cancer in bones
+235). external hemorrhoid almost the size of half a grape
+236). stage 2/3 astrocytoma
+237). very weak
+238). pain in the ear after swimming
+239). feeling overwhelmed
+240). spot has changed shape
+241). twitching spread to torso arms (not as bad but annoying)
+242). spotting of blood from vagina
+243). inflammation on left side of body
+244). feeling like having a heart attack whenever eating
+245). strange intense pain in areas where i had had prior injuries
+246). cancer cells in spinal lymph nodes
+247). bleeding from medication (meloxicam)
+248). occasionally ear pain
+249). digestion feels off when flares up
+250). pain localized or systematic
+251). abdominal pain (gone now)
+252). swollen lymphnodes
+253). scratching throat
+254). nerve pains in legs - just jolts of pain
+255). printed words looked like they were smudged with oil making them difficult to read
+256). chronic heavy bleeding
+257). uncomfortable throat
+258). blood when passing stools (faucet dripping every 2 seconds water is bright red)
+259). shortness of breath going up 3 flights of stairs
+260). very tired were just walking took everything out of me
+261). elevated platelets
+262). soft squishy lump that bubbles under the cricoid cartilage (size of an almond)
+263). tailbone feelings off and on
+264). feeling of a small lump in my throat
+265). white patches on one side of throat for 20 years
+266). unable to keep down food or water
+267). intermittent quick sharp pain that comes and goes (hurts for a second and stops)
+268). small nodule on the left lobe of lung (around 7mm)
+269). lower back pain
+270). aura migraines
+271). health anxiety
+272). diarrhea for almost a month
+273). flare up of abdominal pain when i drink soda for a day or with greasy food
+274). swollen larynx on the left side only
+275). slight pain in my right groin and quad
+276). feeling something is off in the throat
+277). stage 3 ovarian cancer
+278). a lot of gas
+279). pain started upper back and sternum was sore
+280). abdominal pain constantly
+281). feeling of a lump in the throat (perceived)
+282). lymph nodes underneath the jaw
+283). minor rectal bleeding bright red
+284). burst appendix
+285). dry throat
+286). some pain but not terrible
+287). diarrhea (couldn't make it to the bathroom some times)
+288). focal seizures presenting as right side numbness/weakness
+289). incessant twitching in legs
+290). gastritis
+291). blood every day for 6 months
+292). stomach issues her entire life
+293). heavier than normal periods
+294). high fevers that they just couldn't break
+295). tailbone pain
+296). nagging feeling that things weren't right
+297). mucus mixed in with blood on the toilet paper
+298). mild anemia
+299). left knee pain
+300). lower legs were swollen (fluid retention)
+301). one swollen node right under jaw (felt like a hard pebble under the skin)
+302). full blockage for 5 days where miralax wasn't working
+303). bump on left shin
+304). heavy period
+305). pain after passing a stool
+306). cancer primary on the tail of the pancreas
+307). 16x16x15cm tumor pushing on kidney stomach and spleen
+308). lumpy feeling in the left lingual tonsil gland
+309). excessive spit throughout the day
+310). bruise pain
+311). bowl issues since childhood
+312). pneumonia
+313). lump at lymph node
+314). weird pressure behind the throat
+315). extreme pain
+316). annoying tickle cough
+317). need to spit a lot
+318). new symptoms causing paranoia
+319). thin watery mostly odorless discharge
+320). spot has gotten a little bigger
+321). metastatic breast cancer
+322). symptoms have been getting much worse since feb
+323). it even hurt to touch or wear bra
+324). weight gain
+325). primary mediastinal bcell lymphoma
+326). swollen eyes
+327). losing weight
+328). occasional blood in the stool
+329). pressure became pain
+330). more vaginal discharge than usual
+331). raging tumor grew up to 12cm in breast
+332). intermittent pain
+333). 'pebble' (location unspecified)
+334). excruciating pain in middle back
+335). random pains throughout my abdominal and upper rib area
+336). couldn't eat or drink anything much
+337). intermittent bleeding
+338). inability to say the words
+339). weird throwing up episodes intermittently
+340). bleeding a handful of times since taking meloxicam on an empty stomach
+341). hard to eat sometimes
+342). lymph nodes lit up into chest
+343). sharper pain when i would move certain ways
+344). giant tumor in chest crushing everything vocal nerve included
+345). sensitive left lymph node upon touching
+346). liver full of tumors
+347). esophagael cancer
+348). easily catch a cold
+349). pain and tenderness in r ribs and in the r upper quadrant with eating
+350). hair loss
+351). bloating
+352). right index fingernail got dark darkening from the outside of the nail inward over the bed until the whole nail was just slightly darker than the 9 others
+353). pain radiating to back
+354). sudden intense pain in lower back right side that radiated down to testicles
+355). sternum or upper abbs feel sore
+356). paralyzed from toes up to thighs bilaterally
+357). dizziness at a very high rate
+358). affected ability to swallow anything
+359). 35 cm mass at the head of the pancreas
+360). odd both sour and bitter taste in mouth during semi-seizures
+361). major leg swelling
+362). thirsty
+363). couldn't breathe
+364). dark stool
+365). threw up from pain
+366). runny nose
+367). bulge of muscle pooching out nearly exactly the size of my previously corrected hernia
+368). stomach pain (unspecified)
+369). acute pancreatitis episodes
+370). weird leg pain that became nerve pain
+371). lump in shoulder
+372). sore throat upon waking that subsides after a few hours only to return each morning
+373). intermittent pin-like pain in the pharynx
+374). excessive periods
+375). tumors in sternum (dozen)
+376). watery discharge
+377). mds leukemia
+378). gall stones
+379). thing that pops into and out of the right position
+380). night sweats
+381). felt like one side of body (left) was attacking me (inflammation)
+382). loss of smell while pregnant
+383). 125 cm mass on liver
+384). swollen lymph nodes especially on the right side
+385). brain fog
+386). lung tumors grew a little
+387). intermittent blood in stool
+388). nauseous and unable to eat anything
+389). food/drink he said tasted rancid
+390). significant fatigue
+391). very small amount of spotting only lasted one day
+392). similar symptoms
+393). mass on right lung
+394). hoarse coughs progressed to constant scratching on left side of throat triggering cough
+395). nodes became firmer
+396). diagnosed with a pinched nerve
+397). throat cough
+398). blood in the toilet never in stool
+399). pain with gas
+400). tumor (confirmed by colonoscopy)
+401). bleeding a lot of blood
+
+{
+  "formatted-symptom": [
+    "lower back pain lasting approximately 6 months",
+    "sharp, shooting abdominal pain",
+    "hematochezia (bloody stool) for one day",
+    "diagnosis of adenocarcinoma of the duodenum",
+    "pulmonary (lung) symptoms",
+    "unintentional cessation of eating",
+    "mild depressive symptoms",
+    "persistent and debilitating fatigue",
+    "diagnosis of anaplastic glioma",
+    "myocardial infarction (heart attack) attributed to chemotherapy",
+    "hematochezia (bloody stool)",
+    "focal seizures presenting with right-sided numbness and/or weakness, requiring emergency room visit",
+    "presence of a tumor",
+    "mild anemia following COVID-19 infection, without evidence of internal bleeding",
+    "lymphadenopathy (swollen lymph nodes)",
+    "chronic xerostomia (dry throat)",
+    "pain radiating down the right side of the neck and throat",
+    "partial lung collapse secondary to a large mediastinal mass",
+    "increased menstrual pain (dysmenorrhea)",
+    "pancreatic tumor with metastasis to the liver",
+    "bilateral submandibular lymphadenopathy (swollen throat glands on both sides of the Adam's apple, just below the jawline)",
+    "discomfort underneath the chin",
+    "tumor causing biliary duct obstruction",
+    "increased sensitivity of the throat to cold foods and beverages",
+    "back pain exacerbated by eating",
+    "symptoms that are intermittent in nature",
+    "lymphadenopathy (swollen lymph node)",
+    "presence of a mass in the neck",
+    "bowel obstruction due to cancer",
+    "worsening of pre-existing gastrointestinal symptoms",
+    "intense fatigue",
+    "pain exacerbated by sitting down forcefully",
+    "iron deficiency anemia",
+    "dysphagia (difficulty swallowing) requiring regurgitation of food",
+    "mild but sharp pain sensations in the anterior (front) neck, inferior to the right jaw",
+    "mastalgia (breast pain)",
+    "desquamation (peeling) of the hands",
+    "chronic watery stools for the past 4 years",
+    "hematochezia (blood in stool) – mother's report",
+    "large hepatic (liver) tumor",
+    "generalized pruritus (itchy skin)",
+    "hemoptysis (coughing up blood)",
+    "depressed mood",
+    "cervicalgia (neck pain)",
+    "encapsulated appendix in the bowel region",
+    "severe premenstrual syndrome (PMS)",
+    "severe abdominal distention (swollen stomach) for approximately one month",
+    "elevated prostate-specific antigen (PSA) level",
+    "paralysis of the left vocal cord",
+    "unusual sensations in the upper back and sternum",
+    "presence of a lump",
+    "feces with constantly changing texture and color",
+    "anemia",
+    "podalgia (foot pain)",
+    "painful rib",
+    "minimal or absent symptoms",
+    "pharyngitis (throat irritation)",
+    "symptoms mimicking pregnancy",
+    "new lesion identified in the brain",
+    "sleep deprivation secondary to anxiety",
+    "rapid, unintentional weight loss (10-11 pounds per week)",
+    "mild but sharp pain sensations in the anterior (front) neck, inferior to the left jaw",
+    "generalized malaise (feeling unwell)",
+    "sensation of pressure on the bladder and ovaries",
+    "gastrointestinal bleeding induced by meloxicam on an empty stomach",
+    "insomnia due to pain in the shin and surrounding joints",
+    "vague sensation of tenesmus (feeling of incomplete defecation)",
+    "multiple brain tumors",
+    "tumor compressing nerves, resulting in vocal cord paralysis",
+    "thin, watery vaginal discharge between menstrual periods",
+    "thickened endometrial layer",
+    "acute pancreatitis",
+    "rib fracture",
+    "slight spotting of blood when wiping, lasting one day",
+    "critically elevated serum calcium level (hypercalcemia)",
+    "recurrent fevers",
+    "dysphagia (difficulty swallowing)",
+    "complete inability to swallow, even liquids",
+    "perianal pain (pain near the anus)",
+    "lump adjacent to the trachea (windpipe)",
+    "frequent emesis (vomiting), approximately every 15 minutes",
+    "endometrial thickness of 5mm",
+    "severely limited mobility",
+    "anemia secondary to chronic heavy menstrual bleeding",
+    "endometrial thickness of 5mm",
+    "metastatic disease to the spine",
+    "lytic bone lesion",
+    "blood present on stool",
+    "syncope (passing out) during colonoscopy preparation",
+    "constipation",
+    "erythematous and irritated throat",
+    "severe abdominal pain",
+    "loss of consciousness (collapsing)",
+    "heavy menstrual bleeding (flooding)",
+    "pain localized to the area of lumbar disc herniation",
+    "menstrual periods occurring bi-weekly",
+    "rhinorrhea (runny nose) during pregnancy",
+    "gait instability descending stairs",
+    "nausea",
+    "passage of blood clots during menstruation",
+    "pain everywhere but it comes and goes",
+    "spotting",
+    "difficulty with bowel movements",
+    "sensation of a bruise on the tailbone",
+    "significant knee pain",
+    "persistent sore throat that is resistant to improvement",
+    "frequent ear pain, predominantly on the right side, occasionally on the left",
+    "hematochezia (bleeding of bright red blood) with normal stools",
+    "mass identified on the cecum",
+    "aural fullness (plugged ears)",
+    "anorexia (lack of appetite)",
+    "thin stools",
+    "neck pain",
+    "increasingly painful menstrual periods",
+    "sore throat",
+   "low white blood cell levels (half of what they should be)",
+    "intermittent throat pain",
+    "otic (ear) issues",
+    "peripheral neuropathy in the hands",
+    "urinary urgency on a daily basis",
+    "spinal tumors",
+    "aches in lymph nodes near the clavicles (collar bones)",
+    "elevated liver enzyme levels",
+    "gross hematuria (passage of approximately a pint of red blood in urine)",
+    "chest pain exacerbated by eating",
+    "dysphagia (difficulty swallowing)",
+    "rapid growth of a breast tumor, reaching up to 12cm in a few days",
+    "exertional dyspnea (inability to walk up a flight of stairs without stopping to pant for air)",
+    "impaired digestion",
+    "malodorous vaginal discharge at the onset of menstruation",
+    "lower back muscle spasm",
+    "tumor located on the external surface of the skull",
+    "metastasis to the liver",
+    "postmenopausal bleeding",
+    "exacerbation of pain with specific movements",
+    "pelvic mass",
+    "seizures",
+    "significant decrease in white blood cell (WBC), red blood cell (RBC), and hemoglobin (HGB) levels",
+    "vocal cord damage",
+    "change in consistency and frequency of bowel movements (looser, 2-6 times a day instead of once)",
+    "unexplained gastrointestinal disturbances",
+    "nuchal rigidity (stiff neck)",
+    "intermittent pain in the right tonsil",
+    "hemorrhoids",
+    "bleeding following sexual intercourse, varying in amount",
+    "small amount of blood mixed with saliva",
+    "cognitive impairment affecting certain functions",
+    "intestinal cobblestoning (appearance of the intestinal lining)",
+    "mild thinning of the stool caliber",
+    "dysfunction of the nervous system",
+    "increase in size of a lump",
+    "pulmonary nodule (nodule in lung)",
+    "sensation of throat fullness after exposure to cold air conditioning",
+    "mastodynia (painful breast)",
+    "gastric ulcer (stomach ulcer)",
+    "trace amount of vaginal spotting (blood) resembling menstrual bleeding",
+    "irritation",
+    "small bump in the hyoid region (anterior midline of the throat, superior to the Adam's apple)",
+    "dark-colored diarrhea following a period of constipation",
+    "pelvic pain resembling menstrual cramps",
+    "emesis (vomiting) secondary to pain",
+    "trace amounts of blood in the stool",
+    "persistent lymphadenopathy (nodes remained enlarged)",
+    "bone tumor in the shoulder region",
+    "burning pain in leg muscles",
+    "persistent fatigue",
+    "abnormal Papanicolaou (Pap) smear results",
+    "unintentional weight loss of 30 pounds in 6 months",
+    "heavy vaginal bleeding with bowel movements",
+    "osseous lesions (lesions on bones)",
+    "chronic cough",
+    "hepatic cyst (cyst on liver)",
+    "rapid, unintentional weight loss of 10-11 pounds per week",
+    "stage 3 inflammatory breast cancer",
+    "femoral fracture (fractured femur bone)",
+    "severe back pain",
+    "tenesmus (feeling of incomplete defecation)",
+    "otalgia (ear pain)",
+    "inability to ambulate (get out of bed)",
+    "severe adverse effects related to a clinical trial",
+    "3-4 enlarged lymph nodes in the right neck region",
+    "presence of lumps",
+    "menstrual periods in the absence of a uterus",
+    "75 cm mass at the gastroesophageal junction",
+    "sudden, unintentional weight loss of 10 kg in three months",
+    "anal pain",
+    "prolonged menstrual period lasting one month with heavy bleeding (flooding)",
+    "expectoration of mucus",
+    "persistent nausea post-hysterectomy",
+    "hepatic cirrhosis (cirrhosis of the liver)",
+    "weight loss followed by weight gain",
+    "severe digestive issues",
+    "painful nocturnal cough exacerbating asthma",
+    "gastroesophageal reflux (acid reflux)",
+    "progressive loss of ambulation or tactile sensation in the leg",
+    "multiple submandibular lumps upon neck flexion",
+    "blood present on toilet paper after wiping",
+    "abdominal bloating",
+    "excessive diaphoresis (sweating), particularly at night",
+    "partial lung collapse",
+    "chest pain progressing to heartburn",
+    "generalized hip pain",
+    "pelvic pain",
+    "progressive decline in mobility while in bed",
+    "pelvic floor dysfunction",
+    "sternal pain associated with multiple tumors",
+    "intracranial tumor (tumor in my brain)",
+    "numerous hepatic tumors, including one the size of a golf ball",
+    "palpable breast lump (round, smooth, and mobile)",
+    "vitamin B12 deficiency",
+    "generalized pain throughout the body",
+    "mild otalgia (ear pain)",
+    "autoimmune large cell polyneuropathy",
+    "metastatic cancer (cancer spread throughout)",
+    "unintentional weight loss",
+    "severe bone pain indicative of bone cancer",
+    "small (2-3mm diameter) submandibular nodule, located behind the jawbone",
+    "acute abdominal pain after eating",
+    "sensation of aural fullness (ears starting to feel plugged up)",
+    "mild otalgia (small ear pain)",
+    "prolonged menstrual periods compared to previous cycles",
+    "conjunctival pallor (pale pink eyelids)",
+    "severe skin eruption",
+    "breast lump detected",
+    "rib cancer",
+    "gastrointestinal issues",
+    "right inguinal hernia (lower abdominal at crease near thigh)",
+    "desquamation (peeling) of the feet",
+    "sensation of a lump upon swallowing",
+    "pain radiating to the ribs",
+    "pulmonary nodules (nodules in lungs)",
+    "lesion on the soft palate",
+    "stage 4 bone cancer",
+    "large external hemorrhoid",
+    "grade 2/3 astrocytoma",
+    "significant asthenia (weakness)",
+    "otalgia (ear pain) following swimming",
+    "feeling overwhelmed",
+    "change in shape of a skin lesion",
+    "fasciculations (twitching) spreading to the torso and arms",
+    "vaginal spotting (blood)",
+    "inflammation on the left side of the body",
+    "symptoms mimicking a heart attack when eating",
+    "unusual, intense pain in areas of previous injuries",
+    "cancer cells in spinal lymph nodes",
+    "bleeding as a side effect of meloxicam",
+    "occasional otalgia (ear pain)",
+    "altered digestion during flare-ups",
+    "localized or systemic pain",
+    "abdominal pain (gone now)",
+     "lymphadenopathy (swollen lymphnodes)",
+    "sore throat with scratching sensation",
+    "nerve pain in the legs – sudden jolts of pain",
+    "visual disturbances, printed words appearing smudged",
+    "chronic menorrhagia (heavy menstrual bleeding)",
+    "sore throat",
+    "rectal bleeding with bowel movements (bright red blood dripping like a faucet)",
+    "exertional dyspnea (shortness of breath) after climbing three flights of stairs",
+    "extreme fatigue after minimal exertion",
+    "elevated platelet count",
+    "small, soft, mobile mass beneath the cricoid cartilage",
+    "intermittent discomfort in the tailbone region",
+    "sensation of a small lump in the throat",
+    "persistent white patches on one side of the throat for 20 years",
+    "inability to tolerate food or water",
+    "intermittent, sharp pain",
+    "small pulmonary nodule on the left lobe (approximately 7mm)",
+    "lower back pain",
+    "migraines with aura",
+    "health-related anxiety",
+    "prolonged diarrhea lasting nearly a month",
+    "exacerbation of abdominal pain with soda or greasy foods",
+    "localized swelling of the larynx on the left side",
+    "mild pain in the right groin and quadriceps",
+    "sensation of something being abnormal in the throat",
+    "stage 3 ovarian cancer",
+    "excessive flatulence",
+    "pain originating in the upper back and sternum",
+    "persistent abdominal pain",
+    "sensation of a lump in the throat (perceived)",
+    "lymphadenopathy (lymph nodes underneath the jaw)",
+    "minor rectal bleeding with bright red blood",
+    "ruptured appendix",
+    "dry throat",
+    "mild pain",
+    "diarrhea with fecal incontinence",
+    "focal seizures presenting as right side numbness/weakness",
+    "persistent fasciculations (twitching) in the legs",
+    "gastritis",
+    "daily vaginal bleeding for 6 months",
+    "history of gastrointestinal issues",
+    "menorrhagia (heavier than normal periods)",
+    "high fevers unresponsive to treatment",
+    "coccygodynia (tailbone pain)",
+    "persistent feeling of unease",
+    "mucus mixed with blood on the toilet paper",
+    "mild anemia",
+    "left knee pain",
+    "lower extremity edema (swelling due to fluid retention)",
+    "single, palpable, hard submandibular lymph node",
+    "complete bowel obstruction for 5 days despite laxative use",
+    "mass on the left shin",
+    "heavy menstrual period",
+    "pain after defecation",
+    "primary cancer located on the tail of the pancreas",
+    "large tumor pushing on kidney, stomach, and spleen",
+    "lumpy sensation in the left lingual tonsil",
+    "excessive salivation throughout the day",
+    "pain resembling a bruise",
+    "history of bowel issues since childhood",
+    "pneumonia",
+    "lymph node mass",
+    "unusual pressure sensation behind the throat",
+    "severe pain",
+    "annoying tickle in throat causing a cough",
+    "increased need to expectorate saliva",
+    "new symptoms causing paranoia",
+    "thin, watery, mostly odorless vaginal discharge",
+    "increase in size of a skin lesion",
+    "metastatic breast cancer",
+    "worsening of symptoms since February",
+    "pain exacerbated by touch or wearing a bra",
+    "weight gain",
+    "primary mediastinal B-cell lymphoma",
+    "periorbital edema (swollen eyes)",
+    "weight loss",
+    "occasional blood in stool",
+    "sensation of pressure evolving into pain",
+    "increased vaginal discharge",
+    "rapid growth of a breast tumor, reaching up to 12cm",
+    "intermittent pain",
+    "palpable nodule",
+    "excruciating pain in the mid-back region",
+    "random pains throughout abdominal and upper rib area",
+    "reduced oral intake",
+    "intermittent bleeding",
+    "difficulty with speech articulation",
+    "intermittent episodes of emesis (vomiting)",
+    "gastrointestinal bleeding after taking meloxicam on an empty stomach",
+    "occasional difficulty eating",
+    "enlarged lymph nodes in the chest",
+    "exacerbation of pain with specific movements",
+    "large tumor in the chest compressing surrounding structures, including the vocal nerve",
+    "sensitive left lymph node upon palpation",
+    "numerous hepatic tumors",
+    "esophageal cancer",
+    "increased susceptibility to upper respiratory infections (colds)",
+    "pain and tenderness in the right ribs and upper quadrant associated with eating",
+    "alopecia (hair loss)",
+    "abdominal distension (bloating)",
+    "discoloration of the right index fingernail",
+    "pain radiating to the back",
+    "sudden, intense pain in the lower back right side radiating to testicles",
+    "sternal or upper abdominal soreness",
+    "bilateral paralysis from toes up to thighs",
+    "high frequency of dizziness",
+    "impaired swallowing ability",
+    "35 cm mass at the head of the pancreas",
+    "unusual sour and bitter taste in mouth during semi-seizures",
+    "significant lower extremity edema",
+    "polydipsia (increased thirst)",
+    "dyspnea (difficulty breathing)",
+    "melena (dark stool)",
+    "emesis (vomiting) secondary to pain",
+    "rhinorrhea (runny nose)",
+    "bulging muscle near a previously corrected hernia site",
+    "abdominal pain (unspecified)",
+    "recurrent acute pancreatitis",
+    "leg pain progressing to nerve pain",
+    "shoulder mass",
+    "sore throat upon waking, resolving after a few hours, then recurring each morning",
+    "intermittent, sharp pain in the pharynx",
+    "menorrhagia (excessive menstrual bleeding)",
+    "multiple tumors in sternum",
+    "watery vaginal discharge",
+    "myelodysplastic syndrome (MDS) progressing to leukemia",
+    "cholelithiasis (gallstones)",
+    "sensation of something popping in and out of the right position",
+    "night sweats",
+    "sensation of the left side of the body attacking me (inflammation)",
+    "anosmia (loss of smell) during pregnancy",
+    "125 cm hepatic mass",
+    "lymphadenopathy (swollen lymph nodes), especially on the right side",
+    "cognitive dysfunction (brain fog)",
+    "slight growth of lung tumors",
+    "intermittent blood in stool",
+    "nausea and inability to eat",
+    "alteration in taste perception",
+    "significant fatigue",
+    "minimal vaginal spotting, lasting only one day",
+    "mass on right lung",
+    "hoarse cough progressing to constant scratching on left side of throat triggering cough",
+    "increase in firmness of lymph nodes",
+    "diagnosis of a pinched nerve",
+    "throat cough",
+    "blood in the toilet, never in stool",
+    "pain exacerbated by gas",
+    "tumor confirmed by colonoscopy",
+    "heavy blood loss"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Take each symptom from the provided list and reformat it into clear, medically appropriate terminology suitable for a patient questionnaire. Each reformatted symptom should:
+    1.	Use proper medical terminology while remaining understandable to patients
+    2.	Maintain all specific details mentioned (location, triggers, patterns, etc.)
+    3.	Be concise yet descriptive
+    4.	Be phrased as a standalone symptom that can complete this sentence:
+“On a scale of 1-10, how severely have you experienced an abnormal onset or worsening of this symptom within the last 6 months: {symptom}”
+Only combine symptoms that are exact duplicates. Related but distinct symptoms (e.g., similar symptoms in different body locations) should remain separate.
+In order to combine symptom simply list the 2 symptoms you reformat in the exact same wording, they will be removed via a computer so they need to be written and phrased the same way.
+MAKE SURE to go through every single symptom in the list.
+For example:
+    •	“headaches” → “persistent or recurring headaches”
+    •	“tingling in knees” → “paresthesia (tingling sensation) in the knee region”
+    •	“weird GI stuff” → “unexplained gastrointestinal disturbances”
+402). chronic cough
+403). stabbing pain in side
+404). minor irritation/redness in throat
+405). burning pain in leg muscles
+406). short of breath just going up 3 flights of stairs
+407). rough patch in the right side of my throat feels like tucked behind where my tonsils were
+408). needing to lie down or nap a lot
+409). swollen node on the left side on my neck feels like the size of a jellybean and it's movable
+410). wobbling on a seat to get comfortable
+411). no pain
+412). elevated wbc
+413). sharp sensation on the left side of throat (resolved)
+414). slight breathlessness
+415). clearing throat
+416). nerve and leg pain
+417). bleeding with hard stool
+418). feeling pretty crappy
+419). trouble sleeping due to itching
+420). belly started to swell up
+421). difficult swallowing
+422). anaplastic ependymoma
+423). red dots on my legs that would come and go
+424). irritation that causes uncontrollably cough
+425). bursa fluid pocket swell up on elbow
+426). fatigue due to anxiety
+427). bleeding after menopause
+428). painful to touch or wear bra
+429). pain when eating anything
+430). weight gain from steroids
+431). water pockets in thighs
+432). fevers
+433). very red and swollen area just as the throat descends down after the tongue
+434). toe pain
+435). sometimes i even threw up
+436). woke up with pain so intense i could barely get out of bed
+437). sky high white blood cell count
+438). mild stomach ache escalated to relentless agony in stomach
+439). nodules in both lungs
+440). back spasm
+441). pain involved with 70% of these events
+442). 8mm polyps
+443). endometrium was 6mm
+444). rectal bleeding (two instances)
+445). affected voice made it deeper
+446). soft stools
+447). bright red toilet water
+448). pathological fracture of 8th rib
+449). bulge of muscle pooching out size of previously corrected hernia
+450). able to move a lump in my throat to the side with my fingers and it kinda pops
+451). exhausted all the time
+452). disc misalignment feeling in the back
+453). lump in breast
+454). complications requiring hospitalization
+455). diarrhea 80% of the time
+456). pain in chest that would turn to heartburn
+457). symptoms are getting better
+458). metastatic retinoblastoma
+459). sharp pain in chest
+460). days of dry throat that seems to recur
+461). missed period
+462). lymph nodes on the left side swelling and kinda getting better before acting up again
+463). constipated for a week
+464). felt quite tired
+465). spotting of blood from my vagina
+466). throat issues
+467). gas pain from air pumped in during surgery
+468). unable to sleep
+469). level 10 pain after eating a big meal for dinner
+470). unexplainable aches
+471). tiredness (due to treatment)
+472). elbow pain when lifting weights
+473). lump in shoulder growing very rapidly
+474). skin was sorta peely out today the shower
+475). high heart palpitations after eating
+476). burning pain in stomach that got worse and worse
+477). enlarged lymph node
+478). throat hurting where the patches are
+479). lump on the right side of throat
+480). broke my back
+481). level 10 pain after eating a big meal
+482). tongue cancer
+483). tired more
+484). mass 25 x 18cm in lower abdomen
+485). intense pain in upper shoulders
+486). muscle aches
+487). throat's sensitivity to strong smells
+488). slight sore throat
+489). itchy throat
+490). heavy bleeding
+491). burning pain in stomach that got worse
+492). appendix burst
+493). pains in the upper right side of my stomach
+494). periods becoming more painful
+495). sub clinical hypothyroidism
+496). face breaking out really bad
+497). runner's knee / patellofemoral pain syndrome
+498). coughing
+499). iron-y aroma in stool
+500). gi issues
+501). coma
+502). sinuses feel stuffed
+503). missed a lymph node on all these scans
+504). dry cough
+505). soreness in both ears
+506). ballooned lymph node on the other side of her neck from her surgery
+507). gallbladder polyp
+508). sharp shoulder pain a few minutes after drinking alcohol
+509). tingling in knees feet calves and thighs brought on by wearing pants or anything on legs while sitting
+510). hodgkin's lymphoma stage 2
+511). slight pain on one side of throat while swallowing
+512). kidney cancer
+513). sharp throat sensation
+514). stomach pain
+515). relentless agony located across entire abdomen
+516). awful nausea
+517). pain in bowels every day
+518). endometrial thickness was 5mm (1 mm less than the threshold for biopsy)
+519). horrible fatigue
+520). feeling like he couldn't swallow
+521). blood in stool
+522). sadness
+523). feeling of menstrual cramps
+524). lymph nodes becoming hard
+525). swollen lymph node on the side of the neck
+526). knee pain after hiking or running slowly getting worse over 3 months
+527). difficulty swallowing liquid
+528). throat tightness
+529). low b12 value
+530). lump on trachea
+531). blood in stool significant enough to change toilet water color
+532). constant tingle on tongue
+533). worsening back pain
+534). tired
+535). multiple large brain tumors throughout brain
+536). bleeding after taking meloxicam on an empty stomach
+537). swollen lymph nodes in neck on right side
+538). white spiderweb looking thing
+539). couldn't sleep from the pain in shin and surrounding joints
+540). tumors on ct scan
+541). feeling like something's caught in throat
+542). scared
+543). iron deficiency issues
+544). tongue bit
+545). neuropathy in feet
+546). swollen neck lymph nodes
+547). area of swelling started at surface
+548). feeling out of it
+549). occasional loose stools
+550). struggling mentally
+551). knee started hurting after hiking or running
+552). hard and unmovable lump size of a little pebble right by hyoid bone
+553). stuffy nose
+554). cough
+555). head would absolutely pound
+556). feeling hot and sweaty
+557). hurt left knee (overuse)
+558). ear pain increased with swallowing
+559). 4th stage cervical cancer
+560). thickened endometrium
+561). frequent diarrhea
+562). pain spread to my diaphragm
+563). tailbone has hurt for ages
+564). irregular bleeding like spotting
+565). minimal side effects
+566). gnawing stomach pains
+567). crunchy feeling when i move it around
+568). inability to keep food or water down
+569). swollen cheek
+570). throat lump feeling
+571). discoloration from radiation
+572). bright red blood in stool
+573). spread in the back of head
+574). lung nodules
+575). side effects from treatment
+576). period every 2 weeks
+577). pain started on right side of throat now it's all in left side
+578). huge swollen lymph node in left armpit that just kept growing
+579). gas pain
+580). little flap that doesn't close all the way that leads to my airway sometimes
+581). gall stones blocked the pancreas
+582). crippling migraines
+583). jaundiced
+584). lost voice
+585). blood in saliva
+586). tumor at the base of my tongue
+587). recurring sore throat
+588). tonsil stone on left tonsil
+589). gassy
+590). elbow pain when lifting 5lb weights
+591). cardiac arrest
+592). blood sometimes mixed with poop
+593). constipated
+594). inability to walk especially on left side
+595). sweating a lot
+596). black dots
+597). sore on side of my tongue
+598). clearly red/soiled tissue after wiping
+599). sensation of something poking in the throat (right side)
+600). patchy bald head
+601). staying up late unable to sleep
+602). non hodgkin's lymphoma
+603). nauseous
+604). prostate cancer
+605). nerve pains in legs (jolts of pain)
+606). tumor in left hip
+607). white blood cell levels half of what they should be
+608). surgical scar on neck
+609). tumor pushed against nerves in the back where pancreas meets spleen
+610). lots of swelling
+611). minor difficulty swallowing
+612). pain in shoulder
+613). inability to eat or drink
+614). wobbling when going down stairs
+615). short of breath going up 3 flights of stairs
+616). normal bowel movements
+617). digestive issues
+618). weird feeling like full but hadn't eaten
+619). inability to eat solid food
+620). aggressive small cell lung cancer (sclc) with mets to spine liver and lymph nodes were full
+621). tiredness
+622). pain in shin
+623). two huge tumors on ovaries
+624). liquid diarrhea
+625). inability to move arm (tumor over on bone in that area had broken a rib)
+626). bp of 205 over 145
+627). inability to breathe
+628). 20% ability to smell
+629). spread in left femur
+630). suddenly huge testicle like a kiwi
+631). heartburn
+632). left knee pain/runner's knee / patellofemoral pain syndrome
+633). fatty liver
+634). "cobblestoning" in throat
+635). inconsistent bowel movements
+636). small spot on breast (detected via mammogram)
+637). some back pain
+638). occasional intermittent pain in other parts of the throat
+639). couldn't keep anything down for a week
+640). thought it was hemorrhoids
+641). feeding tube complications (leaking fluid constantly)
+642). low grade fevers
+643). left side paralysis (coming and going)
+644). rectal bleeding
+645). 7x8 cm tumor on pancreas with mets to liver
+646). affecting ulnar nerves in both arms
+647). hemoglobin at 62
+648). taste is about 50%
+649). feeling really tired
+650). very painful to go to the bathroom
+651). lung tumor
+652). exact thing
+653). sore on side of tongue
+654). conscious semi-seizures
+655). weird fatigue
+656). dysplasia of the cervix
+657). pain in upper abdomen
+658). suspicious thing in other lung
+659). cough that i just couldn't kick
+660). itchy legs
+661). swollen lymph node under jaw
+662). stomach pains
+663). rapidly growing cancerous lymph node visible as a lump on the right side of the neck
+664). changing bowel movements
+665). random weight gain
+666). septic
+667). ulcers
+668). tingling in knees feet calves and thighs when wearing pants or having anything on legs while sitting
+669). blood in leg flowing down to foot felt stuck
+670). feeling really tired and overwhelmed
+671). passed out
+672). sore throats that linger
+673). had to push or just try to super relax to get urine to all come out
+674). throwing up and unable to keep food down
+675). unable to understand speech hearing it as jibberish
+676). voice loss
+677). pain on the left side below the rib cage
+678). very dry throat
+679). need to go to the bathroom more often
+680). itching all over persistent and severe
+681). pain when passing stools since age 7
+682). blood clots in both lungs
+683). pain in tailbone
+684). dark hard stool
+685). bringing up gunk
+686). signs pointed to cancer somewhere
+687). small tonsil stone on left tonsil
+688). triple-positive breast cancer
+689). couldn't feel legs
+690). getting super thin
+691). worse lung symptoms
+692). severe chronic lower back pain
+693). worsening period cramps
+694). food and water getting caught in throat
+695). trouble sleeping because of itching
+696). occasional face numbness
+697). lots of swelling no edema
+698). fevers would just stop
+699). very dark brown stool
+700). felt a 'pressure from her throat to her anus'
+701). blood in the toilet never in my stool
+702). broke back
+703). felt as if i had an adam's apple yet i'm a woman
+704). sciatic nerve pain
+705). discomfort
+706). wierd bowel movments
+707). memory shot for the first 10 or so minutes following semi-seizures
+708). throwing up episodes intermittently
+709). breast pain
+710). blindness in right eye
+711). scrambled blood checks
+712). sore throat 24/7
+713). microscopic blood in stool
+714). periods getting heavier
+715). globus feeling
+716). crippling abdomen pains caused by constipation
+717). lost feeling in half of that foot
+718). throat feels weird
+719). repeated utis due to a fistula between bowel and bladder
+720). normal bowel movement once every day
+721). ear clicking when swallowing
+722). 3 swollen lymph nodes on the right side of the neck
+723). bleeding on the walls of the colon
+724). blood when passing stools since age 7 (spots on toilet paper)
+725). twitching spread elsewhere to torso arms
+726). left knee pain (runner's knee / patellofemoral pain syndrome)
+727). lump on lymph node
+728). burning pain in my stomach that got worse and worse
+729). isolated instances of bloody stool
+730). swelling
+731). intense pain in left rib
+732). food/drink tasted rancid
+733). regular gas
+734). tiny swollen lymphnode under my ear
+735). positional ear pain (feels like an icepick being driven into ear when moving a certain way)
+736). anxiety attacks
+737). lump on neck
+738). globus sensation
+739). tongue never healed after biting it
+740). everything eaten went back the way it came
+741). persistent uti symptoms
+742). voice occasionally took a second to engage
+743). (suspected) blood in stools
+744). gut symptoms
+745). frequent urination
+746). mass at the head of pancreas
+747). whistling and wheezing at night
+748). lots of fatigue
+749). unable to keep food down
+750). hypercalcemia
+751). feeling full and bloated
+752). pain returns and spread to my ribs and diaphragm
+753). issues swallowing for years
+754). finding zoom meetings so exhausting that i'd go lay down in my bed for a few minutes after they ended
+755). sharp discomfort when swallowing on the left side of throat
+756). high frequency hearing loss in both ears
+757). external hemorrhoid after passing a stool
+758). losing a lung will inevitably shorten my life
+759). weight loss
+760). blood from intercourse
+761). spread in both lungs
+762). abdominal pain
+763). feeling bloated
+764). slight constipation that a laxative would free up for years
+765). lump in throat
+766). anxiety
+767). throat pain
+768). heart burn
+769). blood in leg flowing down to foot
+770). black stool
+771). periods last 3-4 days when normally they would be monthly for 5-7 days
+772). cysts
+773). ear pain
+774). other symptoms besides gi
+775). tickling sensation in throat
+776). vomiting
+777). inability to digest certain foods
+778). large mass in stomach
+779). lack of sleep
+780). white blood cell count slightly below acceptable limit
+781). trouble breathing
+782). pancreatic cancer lesion
+783). difficulty swallowing food would get stuck and need to be regurgitated
+784). swollen lymph node on the left side
+785). infected lymph nodes
+786). kidney stone pain
+787). lymph's on neck since childhood
+788). runner's knee
+789). permanent swollen lymph nodes
+790). burping up acid
+791). abdominal pain (annoyance)
+792). bleeding from the tumor
+793). admins sweating
+794). depression
+795). feeling of something stuck in throat
+796). jaw pain getting worse
+797). constant tingling in throat
+798). no increase in bowel movement frequency
+799). slightly bigger than normal lymph nodes/glands
+800). ovarian masses
+
+{
+  "properly-formatted-symptom": [
+    "chronic cough",
+    "stabbing pain in side",
+    "minor irritation and redness in throat",
+    "burning pain in leg muscles",
+    "shortness of breath with minimal exertion, such as climbing three flights of stairs",
+    "persistent rough patch sensation on the right side of throat, located behind the former tonsil site",
+    "frequent need to lie down or nap due to fatigue",
+    "movable, jellybean-sized swollen lymph node on the left side of the neck",
+    "difficulty finding a comfortable seated position due to wobbling",
+    "absence of pain",
+    "elevated white blood cell count",
+    "resolved sharp sensation on the left side of the throat",
+    "slight breathlessness",
+    "frequent clearing of the throat",
+    "nerve and leg pain",
+    "bleeding associated with hard stools",
+    "feeling generally unwell",
+    "sleep disturbances due to itching",
+    "abdominal swelling",
+    "difficulty swallowing",
+    "anaplastic ependymoma diagnosis",
+    "intermittent appearance of red dots on legs",
+    "irritation leading to uncontrollable coughing",
+    "swelling due to bursa fluid pocket on elbow",
+    "fatigue related to anxiety",
+    "postmenopausal bleeding",
+    "pain upon touch or when wearing a bra",
+    "pain when eating any type of food",
+    "weight gain as a result of steroid use",
+    "fluid retention in thighs",
+    "fevers",
+    "markedly red and swollen area at the upper part of the throat, near the base of the tongue",
+    "toe pain",
+    "occasional vomiting",
+    "waking up with severe pain that limits mobility",
+    "markedly elevated white blood cell count",
+    "mild stomach ache progressing to severe abdominal pain",
+    "nodules in both lungs",
+    "back spasm",
+    "pain associated with approximately 70% of experienced events",
+    "8mm polyps detected",
+    "endometrial thickness of 6mm",
+    "rectal bleeding (two instances)",
+    "noticeable deepening of voice",
+    "soft stools",
+    "bright red blood in toilet water",
+    "pathological fracture of the 8th rib",
+    "muscle bulge protruding at the site of a previous hernia repair",
+    "ability to manually move a lump in the throat, accompanied by a popping sensation",
+    "persistent exhaustion",
+    "sensation of disc misalignment in the back",
+    "lump in breast",
+    "medical complications requiring hospitalization",
+    "diarrhea occurring approximately 80% of the time",
+    "chest pain transitioning to heartburn",
+    "improvement of symptoms",
+    "metastatic retinoblastoma diagnosis",
+    "sharp pain in chest",
+    "recurrent episodes of dry throat",
+    "missed menstrual period",
+    "swollen lymph nodes on the left side of the neck with fluctuating improvement and recurrence",
+    "constipation lasting for one week",
+    "feeling fatigued",
+    "spotting of blood from the vagina",
+    "throat issues",
+    "gas pain from air introduced during surgery",
+    "inability to sleep",
+    "severe pain (level 10) after consuming a large meal",
+    "unexplained aches",
+    "fatigue as a result of treatment",
+    "elbow pain when lifting weights",
+    "rapidly growing lump in shoulder",
+    "skin peeling after showering",
+    "high heart rate palpitations after eating",
+    "burning pain in stomach with increasing intensity",
+    "enlarged lymph node",
+    "throat pain in areas with visible patches",
+    "lump on the right side of throat",
+    "vertebral fracture",
+    "severe pain (level 10) after consuming a large meal",
+    "tongue cancer diagnosis",
+    "increased fatigue",
+    "mass measuring 25 x 18cm in lower abdomen",
+    "intense pain in upper shoulders",
+    "muscle aches",
+    "heightened throat sensitivity to strong smells",
+    "slight sore throat",
+    "pruritus (itchy sensation) in the throat",
+    "heavy menstrual bleeding",
+    "burning pain in stomach with increasing intensity",
+    "ruptured appendix",
+    "pain in the upper right side of the abdomen",
+    "increasingly painful menstrual periods",
+    "subclinical hypothyroidism diagnosis",
+    "severe acne breakout on face",
+    "runner's knee / patellofemoral pain syndrome",
+    "cough",
+    "metallic aroma in stool",
+    "gastrointestinal issues",
+    "coma",
+    "sinus congestion",
+    "missed lymph node on imaging scans",
+    "dry cough",
+    "soreness in both ears",
+    "swollen lymph node on the contralateral side of the neck post-surgery",
+    "gallbladder polyp",
+    "sharp shoulder pain occurring shortly after alcohol consumption",
+    "paresthesia (tingling sensation) in knees, feet, calves, and thighs, triggered by wearing pants or having anything on legs while sitting",
+    "Hodgkin's lymphoma stage 2 diagnosis",
+    "mild pain on one side of the throat while swallowing",
+    "kidney cancer diagnosis",
+    "sharp throat sensation",
+    "stomach pain",
+    "relentless agony across entire abdomen",
+    "severe nausea",
+    "daily bowel pain",
+    "endometrial thickness of 5mm (below biopsy threshold)",
+    "severe fatigue",
+    "sensation of impaired swallowing",
+    "blood in stool",
+    "sadness",
+    "sensation of menstrual cramps",
+    "hardening of lymph nodes",
+    "swollen lymph node on the side of the neck",
+    "knee pain after hiking or running, gradually worsening over 3 months",
+    "difficulty swallowing liquids",
+    "throat tightness",
+    "low vitamin B12 level",
+    "lump on trachea",
+    "significant amount of blood in stool, altering toilet water color",
+    "persistent tingling sensation on tongue",
+    "worsening back pain",
+    "tiredness",
+    "multiple large brain tumors throughout brain",
+    "bleeding after taking meloxicam on an empty stomach",
+    "swollen lymph nodes in neck on right side",
+    "white, spiderweb-like appearance",
+    "sleep deprivation due to pain in shin and surrounding joints",
+    "tumors detected on CT scan",
+    "sensation of something being lodged in the throat",
+    "feeling scared",
+    "iron deficiency",
+    "tongue bite",
+    "neuropathy in feet",
+    "swollen neck lymph nodes",
+    "swelling originating at the skin surface",
+    "feeling disoriented",
+    "occasional loose stools",
+    "mental distress",
+    "knee pain after hiking or running",
+    "hard, immobile, pebble-sized lump near hyoid bone",
+    "nasal congestion",
+    "cough",
+    "severe throbbing headache",
+    "feeling hot and sweaty",
+    "left knee pain due to overuse",
+    "increased ear pain with swallowing",
+    "stage 4 cervical cancer diagnosis",
+    "thickened endometrium",
+    "frequent diarrhea",
+    "pain spreading to the diaphragm",
+    "chronic tailbone pain",
+    "irregular vaginal bleeding, such as spotting",
+    "minimal side effects",
+    "gnawing stomach pains",
+    "sensation of crunching when moving",
+    "inability to keep food or water down",
+    "swollen cheek",
+    "sensation of a lump in the throat",
+    "skin discoloration from radiation therapy",
+    "bright red blood in stool",
+    "cancer spread to the back of the head",
+    "lung nodules",
+    "side effects from treatment",
+    "menstrual periods occurring every 2 weeks",
+    "pain originating on the right side of the throat and now localized to the left side",
+    "markedly enlarged lymph node in left armpit with progressive growth",
+    "gas pain",
+    "incomplete closure of a small flap leading to the airway",
+    "gallstones causing pancreatic obstruction",
+    "severe migraines",
+    "jaundice",
+    "loss of voice",
+    "blood in saliva",
+    "tumor at the base of the tongue",
+    "recurring sore throat",
+    "tonsil stone on left tonsil",
+    "excessive gas",
+    "elbow pain when lifting light weights (5 lbs)",
+    "cardiac arrest",
+    "blood sometimes mixed with stool",
+    "constipation",
+    "inability to walk, particularly on the left side",
+    "excessive sweating",
+    "black spots",
+    "sore on side of tongue",
+    "visible red blood or soiled tissue after wiping",
+    "sensation of something poking in the throat on the right side",
+    "patchy hair loss on head",
+    "staying up late unable to sleep",
+    "non-Hodgkin's lymphoma",
+    "nausea",
+    "prostate cancer diagnosis",
+    "nerve pain in legs (jolts of pain)",
+    "tumor in left hip",
+    "white blood cell levels at half the normal range",
+    "surgical scar on neck",
+    "tumor pressing against nerves in the back where pancreas meets spleen",
+    "significant swelling",
+    "minor difficulty swallowing",
+    "pain in shoulder",
+    "inability to eat or drink",
+    "wobbling when going down stairs",
+    "shortness of breath with minimal exertion, such as climbing three flights of stairs",
+    "normal bowel movements",
+    "digestive issues",
+    "unusual feeling of fullness without having eaten",
+    "inability to eat solid food",
+    "aggressive small cell lung cancer (SCLC) with metastases to spine, liver and lymph nodes",
+    "tiredness",
+    "pain in shin",
+    "two large tumors on ovaries",
+    "liquid diarrhea",
+    "inability to move arm due to tumor over bone causing a broken rib",
+    "blood pressure of 205/145",
+    "inability to breathe",
+    "20% ability to smell",
+    "cancer spread to left femur",
+    "sudden enlargement of testicle, resembling a kiwi",
+    "heartburn",
+    "left knee pain/runner's knee / patellofemoral pain syndrome",
+    "fatty liver",
+    "\"Cobblestoning\" appearance in throat",
+    "inconsistent bowel movements",
+    "small spot on breast (detected via mammogram)",
+    "some back pain",
+    "occasional intermittent pain in other parts of the throat",
+    "inability to keep anything down for a week",
+    "thought it was hemorrhoids",
+    "feeding tube complications (constant fluid leakage)",
+    "low grade fevers",
+    "left side paralysis (coming and going)",
+    "rectal bleeding",
+    "7x8 cm tumor on pancreas with metastases to liver",
+    "affecting ulnar nerves in both arms",
+    "hemoglobin level of 62",
+    "taste perception at approximately 50%",
+    "feeling really tired and overwhelmed",
+    "very painful to go to the bathroom",
+    "lung tumor",
+    "sore on side of tongue",
+    "conscious semi-seizures",
+    "unusual fatigue",
+    "dysplasia of the cervix",
+    "pain in upper abdomen",
+    "suspicious finding in other lung",
+    "persistent cough",
+    "itchy legs",
+    "swollen lymph node under jaw",
+    "stomach pains",
+    "rapidly growing cancerous lymph node visible as a lump on the right side of the neck",
+    "changing bowel movements",
+    "unexplained weight gain",
+    "septic",
+    "ulcers",
+    "paresthesia (tingling sensation) in knees, feet, calves, and thighs, triggered by wearing pants or having anything on legs while sitting",
+    "blood clot in leg flowing down to foot",
+    "feeling really tired and overwhelmed",
+    "loss of consciousness",
+    "sore throats that linger",
+    "difficulty initiating or completing urination, requiring straining or relaxation",
+    "vomiting and inability to keep food down",
+    "impaired speech comprehension, hearing sounds as unintelligible",
+    "voice loss",
+    "pain on the left side below the rib cage",
+    "very dry throat",
+    "increased urinary frequency",
+    "generalized, persistent, and severe itching",
+    "pain during bowel movements since childhood",
+    "blood clots in both lungs",
+    "pain in tailbone",
+    "dark, hard stool",
+    "expectoration of phlegm",
+    "signs suggestive of cancer",
+    "small tonsil stone on left tonsil",
+    "triple-positive breast cancer",
+    "inability to feel legs",
+    "unintentional weight loss",
+    "worsening lung symptoms",
+    "severe chronic lower back pain",
+    "worsening menstrual cramps",
+    "food and water getting caught in throat",
+    "sleep disturbances due to itching",
+    "occasional facial numbness",
+    "significant swelling without edema",
+    "fevers that resolve spontaneously",
+    "very dark brown stool",
+    "sensation of pressure from throat to anus",
+    "blood in the toilet never in my stool",
+    "vertebral fracture",
+    "sensation of having an Adam's apple (in a female)",
+    "sciatic nerve pain",
+    "discomfort",
+    "altered bowel movements",
+    "memory impairment for approximately 10 minutes following semi-seizures",
+    "intermittent episodes of vomiting",
+    "breast pain",
+    "blindness in right eye",
+    "abnormal blood test results",
+    "persistent sore throat",
+    "microscopic blood in stool",
+    "heavier menstrual periods",
+    "globus sensation (feeling of a lump in the throat)",
+    "severe abdominal pain due to constipation",
+    "loss of sensation in half of that foot",
+    "throat feels weird",
+    "recurrent urinary tract infections due to a fistula between bowel and bladder",
+    "normal bowel movement once every day",
+    "ear clicking when swallowing",
+    "3 swollen lymph nodes on the right side of the neck",
+    "bleeding on the walls of the colon",
+    "blood when passing stools since age 7 (spots on toilet paper)",
+    "twitching that spread elsewhere to torso arms",
+    "left knee pain (runner's knee / patellofemoral pain syndrome)",
+    "lump on lymph node",
+    "burning pain in my stomach that got worse and worse",
+    "isolated instances of bloody stool",
+    "swelling",
+    "intense pain in left rib",
+    "food/drink tasted rancid",
+    "regular gas",
+    "tiny swollen lymphnode under my ear",
+    "positional ear pain (feels like an icepick being driven into ear when moving a certain way)",
+    "anxiety attacks",
+    "lump on neck",
+    "globus sensation",
+    "tongue never healed after biting it",
+    "everything eaten went back the way it came",
+    "persistent uti symptoms",
+    "voice occasionally took a second to engage",
+    "(suspected) blood in stools",
+    "gut symptoms",
+    "frequent urination",
+    "mass at the head of pancreas",
+    "whistling and wheezing at night",
+    "severe fatigue",
+    "unable to keep food down",
+    "hypercalcemia",
+    "feeling full and bloated",
+    "pain returns and spread to my ribs and diaphragm",
+    "issues swallowing for years",
+    "finding zoom meetings so exhausting that i'd go lay down in my bed for a few minutes after they ended",
+    "sharp discomfort when swallowing on the left side of throat",
+    "high frequency hearing loss in both ears",
+    "external hemorrhoid after passing a stool",
+    "losing a lung will inevitably shorten my life",
+    "weight loss",
+    "blood from intercourse",
+    "cancer spread in both lungs",
+    "abdominal pain",
+    "feeling bloated",
+    "slight constipation that a laxative would free up for years",
+    "lump in throat",
+    "anxiety",
+    "sore throat 24/7",
+    "recurring sore throat",
+    "throat pain",
+    "heart burn",
+    "heartburn",
+    "blood in leg flowing down to foot",
+    "black stool",
+    "periods last 3-4 days when normally they would be monthly for 5-7 days",
+    "cysts",
+    "ear pain",
+    "other symptoms besides gi",
+    "tickling sensation in throat",
+    "vomiting",
+    "inability to digest certain foods",
+    "large mass in stomach",
+    "lack of sleep",
+    "white blood cell count slightly below acceptable limit",
+    "trouble breathing",
+    "pancreatic cancer lesion",
+    "difficulty swallowing food would get stuck and need to be regurgitated",
+    "swollen lymph node on the left side",
+    "infected lymph nodes",
+    "kidney stone pain",
+    "lymph's on neck since childhood",
+    "runner's knee",
+    "left knee pain/runner's knee / patellofemoral pain syndrome",
+    "left knee pain (runner's knee / patellofemoral pain syndrome)",
+    "runner's knee / patellofemoral pain syndrome",
+    "permanent swollen lymph nodes",
+    "burping up acid",
+    "abdominal pain (annoyance)",
+    "bleeding from the tumor",
+    "admins sweating",
+    "depression",
+    "feeling of something stuck in throat",
+    "sensation of something being lodged in the throat",
+    "globus sensation (feeling of a lump in the throat)",
+    "lump in throat",
+    "jaw pain getting worse",
+    "constant tingling in throat",
+    "no increase in bowel movement frequency",
+    "slightly bigger than normal lymph nodes/glands",
+    "ovarian masses",
+    "tiredness",
+    "feeling really tired and overwhelmed"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Take each symptom from the provided list and reformat it into clear, medically appropriate terminology suitable for a patient questionnaire. Each reformatted symptom should:
+    1.	Use proper medical terminology while remaining understandable to patients
+    2.	Maintain all specific details mentioned (location, triggers, patterns, etc.)
+    3.	Be concise yet descriptive
+    4.	Be phrased as a standalone symptom that can complete this sentence:
+“On a scale of 1-10, how severely have you experienced an abnormal onset or worsening of this symptom within the last 6 months: {symptom}”
+Only combine symptoms that are exact duplicates. Related but distinct symptoms (e.g., similar symptoms in different body locations) should remain separate.
+In order to combine symptom simply list the 2 symptoms you reformat in the exact same wording, they will be removed via a computer so they need to be written and phrased the same way.
+MAKE SURE to go through every single symptom in the list.
+For example:
+    •	“headaches” → “persistent or recurring headaches”
+    •	“tingling in knees” → “paresthesia (tingling sensation) in the knee region”
+    •	“weird GI stuff” → “unexplained gastrointestinal disturbances”
+Please reformat each symptom in the list below:
+801). brain unable to do some things following semi-seizures
+802). on and off sore throat almost every day
+803). throat poking
+804). wobbly when going down stairs
+805). reactive
+806). couldn't swallow ice cream
+807). scabs from scratching
+808). pretty badly broken tailbone
+809). sudden dread of dying soon
+810). small lump in neck on the right front side just above the muscle
+811). numb tongue
+812). very small amount of spotting lasting less than 1 day
+813). pvc
+814). feverish at night
+815). hair loss to the point of seeing scalp
+816). developed runner's knee / patellofemoral pain syndrome
+817). get raw feet
+818). tightness in neck on right side
+819). unexplained anemia
+820). constant dark stools
+821). raw hands and feet
+822). small lump or two that moves around the hyoid bone
+823). fatigue
+824). feeling like there's something in my throat
+825). swollen nodes
+826). white blood cell levels were half of what they should be
+827). brain tumor
+828). lump sensation in the throat
+829). melon sized tumor in abdomen between stomach and spine
+830). pain in left rib was intense after flying
+831). slight bump in neck
+832). upper back pain
+833). hemoglobin was at 62
+834). head would absolutely pound during semi-seizures
+835). weird feeling towards the right side of the back throat as if something is stuck there
+836). slight change in bowel habits
+837). lower back disc sensations
+838). raspberry ripple poops
+839). bloody stool
+840). spotting between periods
+841). taking naps when usually didn't
+842). mets in her spine & lymph nodes
+843). loss of voice
+844). excruciating thigh/leg pain
+845). something stuck in throat feeling
+846). blood on the toilet paper
+847). face started breaking out really bad
+848). grief
+849). pain near tonsil right side
+850). 10cm lesion within femur bone
+851). passing clots the size of fist
+852). firm bulge
+853). blood sometimes mixed with water only
+854). mass
+855). feels like an ectopic pregnancy
+856). ear pain on one side
+857). knees turning purple after a shower
+858). very ill
+859). physical weakness
+860). hurt hands
+861). elbows hurting when lifting 5lb weights
+862). bruise-like pain on the side
+863). lump on wrist
+864). cough that didn't go away
+865). redness/inflammation around the epiglottis
+866). pain progressing to pain with eating
+867). tingling in knees feet calves and thighs
+868). extreme weight loss
+869). burping up water
+870). periods coming closer together than they were before
+871). tumor in spine
+872). talking problems
+873). difficulty swallowing sensation of food having a tough time going down
+874). odd both sour and bitter taste in mouth
+875). dry mouth
+876). random pain in abdomen
+877). feel like i'm fighting something
+878). dizzy
+879). cough that comes and goes
+880). pain in rib back
+881). net in my lung
+882). cough that i couldn't kick
+883). tingling in knees feet calves and thighs brought on by wearing pants
+884). gi symptoms
+885). mucus discharge
+886). feeling like fighting something
+887). burning pain at the anus when going to the bathroom
+888). periods coming closer together
+889). weird feeling like was full but hadn't eaten
+890). floaters
+891). severe food poisoning
+892). terrible backpain
+893). weird poop
+894). undigested food in stool
+895). mets in spine & lymph nodes
+896). cobblestone throat
+897). severe pneumonia in that lung with it being nearly 50% full of fluid
+898). bone cancer in the spine and hip
+899). cancerous appendix oozing mucin (mucous)
+900). lost 30lbs in 6 months without really trying
+901). hair thinning
+902). cancer in bones
+903). oily poops
+904). doubling over in pain crying from back pain
+905). irregular periods
+906). left knee pain runner's knee / patellofemoral pain syndrome
+907). left side paralysis but it would come and go and only after playing sports
+908). tumor in right lung that was almost cutting off the lung from being functional
+909). coughing at night
+910). exact same symptoms
+911). suspicious lesion on one rib
+912). problems swallowing
+913). weird itch at the back of the throat
+914). bleeding for 21 days straight
+915). felt like i was pregnant
+916). back pain
+917). phlegm at throat
+918). dull ear pain on the same side
+919). worries that kept her awake at night
+920). swollen lips
+921). losing the ability to walk or touch my leg without discomfort
+922). multiple liver masses
+923). losing sense of taste
+924). sudden loss of voice
+925). broke ankle
+926). pelvic pain initially attributed to menstrual cycle
+927). taste of blood dried in mouth
+928). feeling like a tangerine stuck in neck after biopsy
+929). sinus nasal bleeding
+930). swollen gland
+931). general pain through torso
+932). allergy issues
+933). persistent and severe itching
+934). twitching in torso and arms
+935). hearing water sloshing around in ear all the time
+936). small and greasy pieces of stool when wiping
+937). vomiting for weeks
+938). low iron
+939). mild nausea
+940). difficulty swallowing at night
+941). mild but constant sore throat for nearly 8 weeks
+942). hemorrhoids a couple times a week almost after every bowel movement
+943). swollen left supraclavicular lymph node
+944). weekly diarrhea
+945). joint pain
+946). more frequent diarrhea than normal
+947). inability to move completely
+948). passing clots the size of my fist
+949). inability to walk especially on left side (large tumor later discovered in left hip)
+950). nervous
+951). aches
+952). sensitive throat
+953). back pain (doubling over in pain crying)
+954). lumps in neck
+955). node on thyroid
+956). full body itching
+957). symptoms are getting worse
+958). visual migraines
+959). constant deep pain with no relief ever
+960). couldn't swallow food and water were getting caught in throat
+961). small spot on breast
+962). potential bump on larynx
+963). lump at the base of neck around the dip where the collar bone is
+964). mild intermittent throat pains right below left jaw bone and sometimes right jaw bone
+965). "slightly suspicious" lymph nodes
+966). periods lasting longer
+967). headaches
+968). colon cancer
+969). something that felt a little like a bruise inside
+970). out of breath
+971). bleeding
+972). sweats at night
+973). digestive system is particularly choosy
+974). ovarian cancer which has spread everywhere
+975). blood spotting between periods
+976). rupturing
+977). bleeding a handful of times (caused by meloxicam on empty stomach)
+978). everything tasted 'off'
+979). pain on the right side of the head
+980). recurring tingling in throat
+981). trouble swallowing on the left side
+982). stomach has hard time passing stool
+983). red dots on legs that would come and go
+984). loss of smell
+985). little hard pebble like pea sized
+986). peeling hands and feet
+987). polyp on gallbladder
+988). shock
+989). lump above collar bone
+990). tingling in knees feet calves and thighs when wearing pants or anything on legs while sitting
+991). disabled memory
+992). b*hole discomfort
+993). side pain
+994). out of breath for a month or so
+995). cough that couldn't be kicked
+996). incredibly exhausted
+997). ovarian cancer
+998). itchy all over consistently for a long time
+999). persistent throat and ear pain when swallowing
+1000). slight redness inflammation in stomach
+1001). greenish stool
+1002). congestion in chest that the commenter can't get rid of
+1003). left tonsil slightly larger than right
+1004). 30mm mass in transverse colon
+1005). feeling a lump like i was sitting on a walnut
+1006). sharp pain on inhalation under r breastbone that would radiate to my shoulder
+1007). almost completely closed off duodenum
+1008). shocked
+1009). landed in the hospital for a few bags of blood due to heavy period
+1010). bleeding out of ass
+1011). intense night sweats (sheets soaked)
+1012). diminished sense of taste
+1013). swollen stomach for about a month or so
+1014). lymph nodes stayed swollen for 3 or 4 months
+1015). bright red blood on the tissue
+1016). lymph node the size of an egg on the left collarbone
+1017). weakness
+1018). femur bone eaten away
+1019). swollen glands
+1020). inability to understand speech during semi-seizures hear it as jibberish
+1021). day after tennis workout could barely move
+1022). stage 3 cancer of the liver
+1023). body aches due to autoimmune disorder
+1024). pins and needles and soreness in back of throat
+1025). itching
+1026). tight feeling around the throat
+1027). pain after surgery
+1028). pain in abdomen
+1029). white blood cell count was slightly below the acceptable limit
+1030). blood in urine
+1031). coughing up blood while showering
+1032). pain in upper abdomen for a few months
+1033). bleeding caused by meloxicam on an empty stomach
+1034). constant pain
+1035). worsening anxiety
+1036). extreme fatigue
+1037). blood once in stool
+1038). sciatic
+1039). slight spotting when wipe just for a day
+1040). swollen lymph node/glands in neck
+1041). inability to regain strength despite physical therapy gym and swimming
+1042). inability to speak during headache
+1043). blood in toilet
+1044). yelping whenever moved
+1045). get raw hands
+1046). cancer spread to multiple lymph nodes around her neck
+1047). cold
+1048). last period lasted a month
+1049). hardly any siliva in my throat
+1050). intense night sweats where the sheets would need to have been washed as they were so soaked
+1051). occasionally jaw pain
+1052). food didn't taste good
+1053). nodules on thyroid
+1054). extreme hair loss
+1055). finding zoom meetings so exhausting that would go lay down in bed for a few minutes after they ended
+1056). gas
+1057). coughing up a tiny bit of blood when clearing throat and spitting (happened 3 times in total)
+1058). bald spots from radiation
+1059). symptom-free state
+1060). odd poop
+1061). woke up with excruciating pain in my middle back
+1062). inability to take a dump for a quite while
+1063). suspicious lesion on rib
+1064). frequently painful lymph nodes on that side
+1065). yellowish stool
+1066). feeling like a heart attack whenever eating
+1067). couldn't keep anything down
+1068). twitching spread to torso and arms (less severe)
+1069). terrible terrible backpain
+1070). liver full of cancer
+1071). having to think about breathing in constantly manually
+1072). very deep and full body fatigue
+1073). bouts of spotty blood in stool for years
+1074). passing a lot of gas
+1075). inability to lift 5lb weights without elbow pain
+1076). lump above my collar bone
+1077). stiffness
+1078). hurt hands and feet
+1079). mouth couldn't form words specifically the word 'hummingbird'
+1080). joint pain and stiffness
+1081). blood in the stool
+1082). pain
+1083). digestive issues (up and down)
+1084). heartburn like feeling so bad it wakes me up at night
+1085). hard to pee
+1086). severe itching
+1087). neutropenia
+1088). left knee injury leading to runner's knee / patellofemoral pain syndrome
+1089). no blood in stool
+1090). whole body tensed up and was sore
+1091). coughing problems
+1092). lump felt while doing yoga like sitting on a walnut
+1093). cancer
+1094). mucus in stool
+1095). throat discomfort
+1096). constant vomiting
+1097). cramps
+1098). lost feeling in half of foot
+1099). discomfort feeling in throat
+1100). throwing up what i thought was the stuff in my intestines as it ws brown and gross smelling
+1101). metastatic lesions on the liver
+1102). mets to lungs
+1103). multiple lime to grapefruit sized tumors
+1104). diarrhea a lot
+1105). raging period symptoms
+1106). stomach feels full all the time even when haven't eaten
+1107). diarrhea
+1108). ear hurts when swallowing
+1109). lymph nodes getting bigger
+1110). constant deep pain with no relief
+1111). poop was a tiny pebble and darker than usual
+1112). stomach bloating every time after eating
+1113). fractured femur
+1114). incessant twitching in legs torso arms
+1115). wobble going down stairs
+1116). unexplainable ear pain that doesn't go away with antibiotics
+1117). blood in stool for 6 months
+1118). cough triggered by the lump
+1119). dehydration
+1120). tongue never healed
+1121). three swollen glands under jaw
+1122). extreme side effects
+1123). sore throat most mornings
+1124). swollen tongue
+1125). knees turn purple after a shower
+1126). throwing up
+1127). gerd
+1128). worsening burning pain in stomach that could no longer be ignored
+1129). stage 4 ewing's sarcoma in pelvis lower spine and lungs
+1130). terrible acid reflux
+1131). knee pain
+1132). not much energy ever to do anything
+1133). four swollen lymph nodes
+1134). ability to move in bed was slowing down
+1135). malignant mds leukemia spread to pancreas
+1136). spot next to uvula
+1137). seeing tiny black dots like a swarm of flies when looking up at the clear bright sky
+1138). able to eat
+1139). "death juice" coming out around the same time as period
+1140). burning pain in stomach
+1141). every little pain
+1142). pain on the left side of throat
+1143). hair went weird textured
+1144). water pockets in my thighs
+1145). lumps had got a bit firmer
+1146). one episode of constipation
+1147). can't turn my neck
+1148). spot is not going away
+1149). lack of taste
+1150). severe anemia
+1151). small lump
+1152). severe chest pain
+1153). melon sized tumor in my abdomen between my stomach and my spine
+1154). stiff jaw
+1155). pvc with heart
+1156). twitching spread to torso and arms
+1157). feeling full
+1158). leukemia
+1159). pain in one ear
+1160). white lump appeared inside cheek after biting it
+1161). mass pushing down on bladder and ovaries
+1162). becoming very out of breath when walking a block or two
+1163). throat pain on one side but not in throat like left of the adam's apple
+1164). blood clots in both legs
+1165). right index finger nail got dark
+1166). 15cm ovarian tumor
+1167). wbc rbcs and hgb just tank
+
+
+
+{
+  "properly-formatted-question": [
+    "Impaired cognitive function following semi-seizures",
+    "Recurrent sore throat occurring almost daily",
+    "Throat discomfort described as a poking sensation",
+    "Imbalance or unsteadiness while descending stairs",
+    "Increased reactivity or sensitivity to stimuli",
+    "Difficulty swallowing ice cream",
+    "Scabs resulting from scratching",
+    "Severe tailbone fracture",
+    "Sudden onset of intense dread related to imminent death",
+    "Small lump located on the right side of the neck, anteriorly, superior to the muscle",
+    "Numbness of the tongue",
+    "Very light spotting lasting less than one day",
+    "Premature ventricular contractions (PVCs)",
+    "Subjective sensation of fever at night",
+    "Hair loss leading to visible scalp",
+    "Development of patellofemoral pain syndrome, also known as runner's knee",
+    "Development of raw or ulcerated areas on the feet",
+    "Tightness in the right side of the neck",
+    "Unexplained anemia",
+    "Consistently dark-colored stools",
+    "Raw or ulcerated areas on the hands and feet",
+    "Small, mobile lump(s) near the hyoid bone",
+    "Persistent fatigue",
+    "Sensation of a foreign object or obstruction in the throat",
+    "Swollen lymph nodes",
+    "Decreased white blood cell count, approximately half of the expected value",
+    "Brain tumor",
+    "Sensation of a lump in the throat",
+    "Large tumor, approximately melon-sized, in the abdomen between the stomach and spine",
+    "Intense pain in the left rib area following air travel",
+    "Slight bump in the neck",
+    "Upper back pain",
+    "Hemoglobin level of 62 g/L",
+    "Severe headache occurring during semi-seizures",
+    "Unusual sensation on the right side of the posterior throat, as if something is stuck",
+    "Subtle change in bowel habits",
+    "Lower back disc sensations",
+    "Stool with a raspberry ripple appearance",
+    "Blood present in stool",
+    "Spotting or bleeding between menstrual periods",
+    "Increased frequency of napping compared to usual habits",
+    "Metastatic lesions in the spine and lymph nodes",
+    "Metastatic lesions in the spine and lymph nodes",
+    "Loss of voice",
+    "Excruciating pain in the thigh and/or leg",
+    "Sensation of something being stuck in the throat",
+    "Blood present on toilet paper after bowel movements",
+    "Sudden and severe acne breakout on the face",
+    "Feelings of grief",
+    "Pain localized near the tonsil on the right side",
+    "10 cm lesion within the femur bone",
+    "Passing blood clots approximately the size of a fist",
+    "Passing blood clots approximately the size of a fist",
+    "Firm bulge or swelling",
+    "Blood mixed with water only during bowel movements",
+    "Mass or abnormal growth",
+    "Sensation resembling an ectopic pregnancy",
+    "Unilateral ear pain",
+    "Discoloration of the knees to a purple hue after showering",
+    "Feeling severely ill",
+    "Physical weakness",
+    "Pain in the hands",
+    "Elbow pain when lifting light weights (e.g., 5 lbs)",
+    "Bruise-like pain on the side of the body",
+    "Lump on the wrist",
+    "Persistent cough",
+    "Redness and inflammation around the epiglottis",
+    "Pain progressively worsening to include pain with eating",
+    "Paresthesia (tingling sensation) in the knees, feet, calves, and thighs",
+    "Paresthesia (tingling sensation) in the knees, feet, calves, and thighs",
+    "Extreme weight loss",
+    "Regurgitation of water",
+    "Menstrual periods occurring with increased frequency",
+    "Tumor in the spine",
+    "Speech difficulties",
+    "Difficulty swallowing, with a sensation of food having difficulty passing down the esophagus",
+    "Unusual taste in the mouth, described as both sour and bitter",
+    "Dry mouth",
+    "Random abdominal pain",
+    "Subjective sensation of fighting an illness",
+    "Dizziness",
+    "Intermittent cough",
+    "Pain in the rib and/or back area",
+    "Pulmonary nodule or mass in the lung",
+    "Persistent cough",
+    "Paresthesia (tingling sensation) in the knees, feet, calves, and thighs brought on by wearing pants",
+    "Gastrointestinal symptoms",
+    "Mucus discharge",
+    "Subjective sensation of fighting an illness",
+    "Burning pain at the anus during bowel movements",
+    "Menstrual periods occurring with increased frequency",
+    "Unusual sensation of fullness despite not having eaten",
+    "Presence of floaters in vision",
+    "Severe food poisoning",
+    "Severe back pain",
+    "Unusual stool appearance",
+    "Presence of undigested food in stool",
+    "Cobblestone appearance of the throat",
+    "Severe pneumonia affecting a significant portion (approximately 50%) of the lung",
+    "Bone cancer in the spine and hip",
+    "Cancerous appendix with mucin production",
+    "Unintentional weight loss of 30 lbs within 6 months",
+    "Hair thinning",
+    "Cancer affecting bones",
+    "Oily stool",
+    "Severe back pain causing doubling over and crying",
+    "Irregular menstrual periods",
+    "Development of patellofemoral pain syndrome, also known as runner's knee in the left knee",
+    "Unilateral paralysis affecting the left side, occurring intermittently after playing sports",
+    "Tumor in the right lung significantly impairing lung function",
+    "Coughing at night",
+    "Recurrence of identical symptoms",
+    "Suspicious lesion on one rib",
+    "Difficulty swallowing",
+    "Unusual itching sensation in the posterior throat",
+    "Prolonged menstrual bleeding lasting 21 consecutive days",
+    "Subjective sensation of being pregnant",
+    "Back pain",
+    "Phlegm in the throat",
+    "Dull pain in the ear on the same side of the body",
+    "Worries that interfere with sleep",
+    "Swelling of the lips",
+    "Progressive loss of ability to walk or tolerate touch to the leg",
+    "Multiple masses in the liver",
+    "Decreased sense of taste",
+    "Sudden loss of voice",
+    "Ankle fracture",
+    "Pelvic pain initially attributed to menstrual cycle",
+    "Taste of dried blood in the mouth",
+    "Sensation of a foreign object (like a tangerine) stuck in the neck after biopsy",
+    "Bleeding from the sinuses or nasal passages",
+    "Swollen gland",
+    "Generalized pain throughout the torso",
+    "Allergic reactions or sensitivities",
+    "Persistent and severe itching",
+    "Muscle twitching in the torso and arms",
+    "Sensation of water sloshing around in the ear constantly",
+    "Passage of small, greasy stool particles during wiping",
+    "Prolonged vomiting lasting for weeks",
+    "Low iron levels",
+    "Mild nausea",
+    "Difficulty swallowing at night",
+    "Mild but persistent sore throat lasting nearly 8 weeks",
+    "Recurrent hemorrhoids occurring a few times a week or almost after every bowel movement",
+    "Swollen left supraclavicular lymph node",
+    "Diarrhea occurring weekly",
+    "Joint pain",
+    "Increased frequency of diarrhea compared to normal",
+    "Complete immobility",
+    "Inability to walk, especially on the left side (later discovered to be due to a large tumor in the left hip)",
+    "Feelings of nervousness or anxiety",
+    "Aches",
+    "Sensitive throat",
+    "Severe back pain (causing doubling over and crying)",
+    "Lumps in the neck",
+    "Nodule on the thyroid gland",
+    "Generalized itching affecting the entire body",
+    "Progressive worsening of existing symptoms",
+    "Visual migraines",
+    "Constant, unrelenting pain with no relief",
+    "Inability to swallow food and water, with a sensation of them getting caught in the throat",
+    "Small spot on the breast",
+    "Potential bump on the larynx",
+    "Lump at the base of the neck, near the hollow where the collarbone is",
+    "Mild, intermittent throat pain located just below the left jawbone, and sometimes the right jawbone",
+    "Lymph nodes described as \"slightly suspicious\"",
+    "Menstrual periods lasting for a longer duration than usual",
+    "Headaches",
+    "Colon cancer",
+    "Sensation resembling a bruise inside the body",
+    "Shortness of breath",
+    "Bleeding",
+    "Night sweats",
+    "Digestive system sensitivities",
+    "Ovarian cancer with widespread metastasis",
+    "Blood spotting between menstrual periods",
+    "Feeling of rupturing",
+    "Bleeding episodes induced by meloxicam taken on an empty stomach",
+    "Altered sense of taste",
+    "Pain on the right side of the head",
+    "Recurrent tingling sensation in the throat",
+    "Difficulty swallowing on the left side",
+    "Difficulty passing stool",
+    "Red dots on the legs that appear and disappear",
+    "Loss of smell",
+    "Small, hard, pebble-like lump (pea-sized)",
+    "Peeling skin on the hands and feet",
+    "Polyp on the gallbladder",
+    "Feelings of shock",
+    "Lump above the collarbone",
+    "Paresthesia (tingling sensation) in the knees, feet, calves, and thighs when wearing pants or anything on legs while sitting",
+    "Impaired memory",
+    "Discomfort in the anal area",
+    "Pain in the side of the body",
+    "Shortness of breath lasting for approximately one month",
+    "Persistent cough",
+    "Extreme exhaustion",
+    "Ovarian cancer",
+    "Persistent and generalized itching for an extended period",
+    "Persistent throat and ear pain during swallowing",
+    "Slight redness and inflammation in the stomach",
+    "Greenish stool",
+    "Chest congestion that the individual is unable to clear",
+    "Slight asymmetry in tonsil size, with the left tonsil being slightly larger than the right",
+    "30mm mass in the transverse colon",
+    "Sensation of sitting on a walnut",
+    "Sharp pain during inhalation under the right breastbone, radiating to the shoulder",
+    "Near complete obstruction of the duodenum",
+    "Feelings of shock",
+    "Hospitalization for blood transfusions due to heavy menstrual bleeding",
+    "Rectal bleeding",
+    "Intense night sweats with soaked sheets",
+    "Diminished sense of taste",
+    "Swollen abdomen for approximately one month",
+    "Swollen lymph nodes persisting for 3 to 4 months",
+    "Bright red blood on the toilet paper",
+    "Enlarged lymph node (approximately the size of an egg) on the left collarbone",
+    "Weakness",
+    "Bone erosion in the femur",
+    "Swollen lymph nodes",
+    "Inability to comprehend speech during semi-seizures; hearing speech as unintelligible sounds",
+    "Significant muscle soreness and limited mobility the day after a tennis workout",
+    "Stage 3 liver cancer",
+    "Body aches due to autoimmune disorder",
+    "Pins and needles sensation and soreness in the back of the throat",
+    "Itching",
+    "Tightness around the throat",
+    "Postoperative pain",
+    "Abdominal pain",
+    "White blood cell count slightly below the normal range",
+    "Blood in urine",
+    "Coughing up blood while showering",
+    "Pain in the upper abdomen for a few months",
+    "Bleeding episodes induced by meloxicam taken on an empty stomach",
+    "Constant pain",
+    "Increased anxiety",
+    "Extreme fatigue",
+    "Single episode of blood in stool",
+    "Sciatic pain",
+    "Slight spotting when wiping, lasting only one day",
+    "Swollen lymph node(s) in the neck",
+    "Inability to regain strength despite physical therapy, gym workouts, and swimming",
+    "Inability to speak during headache episodes",
+    "Blood in the toilet",
+    "Involuntary vocalizations upon movement",
+    "Development of raw or ulcerated areas on the hands",
+    "Metastatic cancer spread to multiple lymph nodes around her neck",
+    "Feeling cold",
+    "Menstrual period lasting one month",
+    "Reduced saliva production in the throat",
+    "Intense night sweats with soaked sheets",
+    "Occasional jaw pain",
+    "Food tasting unpleasant",
+    "Nodules on the thyroid gland",
+    "Extreme hair loss",
+    "Extreme hair loss",
+    "Experiencing significant fatigue after Zoom meetings, requiring rest",
+    "Excessive gas",
+    "Coughing up a small amount of blood when clearing the throat and spitting (occurred 3 times)",
+    "Bald spots resulting from radiation therapy",
+    "Asymptomatic state",
+    "Unusual stool appearance",
+    "Waking up with severe pain in the middle back",
+    "Inability to defecate for an extended period",
+    "Suspicious lesion on rib",
+    "Frequent pain in the lymph nodes on that side of the body",
+    "Yellowish stool",
+    "Sensation resembling a heart attack when eating",
+    "Inability to retain any food or liquids",
+    "Muscle twitching spreading to the torso and arms",
+    "Severe back pain",
+    "Liver extensively affected by cancer",
+    "Requiring conscious effort to maintain breathing",
+    "Profound and generalized fatigue",
+    "Intermittent blood in stool",
+    "Excessive flatulence",
+    "Inability to lift light weights (5 lbs) without elbow pain",
+    "Lump above the collarbone",
+    "Stiffness",
+    "Pain in the hands and feet",
+    "Difficulty forming words, specifically the word 'hummingbird'",
+    "Joint pain and stiffness",
+    "Blood in the stool",
+    "Pain",
+    "Digestive issues (variable)",
+    "Severe heartburn-like sensation that disrupts sleep",
+    "Difficulty urinating",
+    "Severe itching",
+    "Neutropenia",
+    "Left knee injury leading to runner's knee / patellofemoral pain syndrome",
+    "Absence of blood in stool",
+    "Generalized muscle tension and soreness",
+    "Coughing problems",
+    "Sensation of sitting on a walnut",
+    "Cancer",
+    "Mucus in stool",
+    "Throat discomfort",
+    "Persistent vomiting",
+    "Cramps",
+    "Loss of sensation in half of the foot",
+    "Discomfort feeling in throat",
+    "Vomiting brown-colored material",
+    "Metastatic lesions on the liver",
+    "Metastasis to the lungs",
+    "Multiple tumors ranging in size from lime to grapefruit",
+    "Frequent diarrhea",
+    "Severe menstrual symptoms",
+    "Persistent sensation of fullness even when not having eaten",
+    "Diarrhea",
+    "Ear pain during swallowing",
+    "Enlargement of lymph nodes",
+    "Constant, unrelenting pain with no relief",
+    "Stool described as tiny pebbles and darker than usual",
+    "Abdominal bloating after eating",
+    "Femur fracture",
+    "Incessant muscle twitching in legs, torso, and arms",
+    "Unsteadiness while descending stairs",
+    "Unexplained and persistent ear pain unresponsive to antibiotics",
+    "Blood in stool lasting 6 months",
+    "Cough triggered by the lump",
+    "Dehydration",
+    "Non-healing tongue ulcer",
+    "Three swollen glands under the jaw",
+    "Severe side effects",
+    "Sore throat most mornings",
+    "Swollen tongue",
+    "Discoloration of the knees to a purple hue after showering",
+    "Vomiting",
+    "Gastroesophageal reflux disease (GERD)",
+    "Worsening burning pain in stomach",
+    "Stage 4 Ewing's sarcoma in the pelvis, lower spine, and lungs",
+    "Severe acid reflux",
+    "Knee pain",
+    "Persistent low energy levels",
+    "Four swollen lymph nodes",
+    "Decreased mobility in bed",
+    "Malignant myelodysplastic syndrome (MDS) with leukemia spread to the pancreas",
+    "Spot next to uvula",
+    "Seeing tiny black dots",
+    "Ability to eat",
+    "Unusual discharge",
+    "Burning pain in the stomach",
+    "Every little pain",
+    "Pain on the left side of the throat",
+    "Change in hair texture",
+    "Fluid retention in thighs",
+    "Lumps have become firmer",
+    "Single episode of constipation",
+    "Inability to turn my neck",
+    "Spot is not resolving",
+    "Loss of taste",
+    "Severe anemia",
+    "Small lump",
+    "Severe chest pain",
+    "Large tumor, approximately melon-sized, in the abdomen between the stomach and spine",
+    "Jaw stiffness",
+    "Premature ventricular contractions (PVCs)",
+    "Muscle twitching spreading to the torso and arms",
+    "Feeling of fullness",
+    "Leukemia",
+    "Pain in one ear",
+    "White lump appeared inside cheek after biting it",
+    "Mass is pushing down on bladder and ovaries",
+    "Becoming very out of breath when walking a block or two",
+    "Throat pain localized to one side",
+    "Blood clots in both legs",
+    "Right index fingernail discoloration (dark)",
+    "15cm ovarian tumor",
+    "Significantly decreased white blood cell, red blood cell, and hemoglobin levels"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+combined:
+
+[
+    "lower back pain lasting approximately 6 months",
+    "sharp, shooting abdominal pain",
+    "hematochezia (bloody stool) for one day",
+    "diagnosis of adenocarcinoma of the duodenum",
+    "pulmonary (lung) symptoms",
+    "unintentional cessation of eating",
+    "mild depressive symptoms",
+    "persistent and debilitating fatigue",
+    "diagnosis of anaplastic glioma",
+    "myocardial infarction (heart attack) attributed to chemotherapy",
+    "hematochezia (bloody stool)",
+    "focal seizures presenting with right-sided numbness and/or weakness, requiring emergency room visit",
+    "presence of a tumor",
+    "mild anemia following COVID-19 infection, without evidence of internal bleeding",
+    "lymphadenopathy (swollen lymph nodes)",
+    "chronic xerostomia (dry throat)",
+    "pain radiating down the right side of the neck and throat",
+    "partial lung collapse secondary to a large mediastinal mass",
+    "increased menstrual pain (dysmenorrhea)",
+    "pancreatic tumor with metastasis to the liver",
+    "bilateral submandibular lymphadenopathy (swollen throat glands on both sides of the Adam's apple, just below the jawline)",
+    "discomfort underneath the chin",
+    "tumor causing biliary duct obstruction",
+    "increased sensitivity of the throat to cold foods and beverages",
+    "back pain exacerbated by eating",
+    "symptoms that are intermittent in nature",
+    "lymphadenopathy (swollen lymph node)",
+    "presence of a mass in the neck",
+    "bowel obstruction due to cancer",
+    "worsening of pre-existing gastrointestinal symptoms",
+    "intense fatigue",
+    "pain exacerbated by sitting down forcefully",
+    "iron deficiency anemia",
+    "dysphagia (difficulty swallowing) requiring regurgitation of food",
+    "mild but sharp pain sensations in the anterior (front) neck, inferior to the right jaw",
+    "mastalgia (breast pain)",
+    "desquamation (peeling) of the hands",
+    "chronic watery stools for the past 4 years",
+    "hematochezia (blood in stool)",
+    "large hepatic (liver) tumor",
+    "generalized pruritus (itchy skin)",
+    "hemoptysis (coughing up blood)",
+    "depressed mood",
+    "cervicalgia (neck pain)",
+    "encapsulated appendix in the bowel region",
+    "severe premenstrual syndrome (PMS)",
+    "severe abdominal distention (swollen stomach) for approximately one month",
+    "elevated prostate-specific antigen (PSA) level",
+    "paralysis of the left vocal cord",
+    "unusual sensations in the upper back and sternum",
+    "presence of a lump",
+    "feces with constantly changing texture and color",
+    "anemia",
+    "podalgia (foot pain)",
+    "painful rib",
+    "minimal or absent symptoms",
+    "pharyngitis (throat irritation)",
+    "symptoms mimicking pregnancy",
+    "new lesion identified in the brain",
+    "sleep deprivation secondary to anxiety",
+    "rapid, unintentional weight loss (10-11 pounds per week)",
+    "mild but sharp pain sensations in the anterior (front) neck, inferior to the left jaw",
+    "generalized malaise (feeling unwell)",
+    "sensation of pressure on the bladder and ovaries",
+    "gastrointestinal bleeding induced by meloxicam on an empty stomach",
+    "insomnia due to pain in the shin and surrounding joints",
+    "vague sensation of tenesmus (feeling of incomplete defecation)",
+    "multiple brain tumors",
+    "tumor compressing nerves, resulting in vocal cord paralysis",
+    "thin, watery vaginal discharge between menstrual periods",
+    "thickened endometrial layer",
+    "acute pancreatitis",
+    "rib fracture",
+    "slight spotting of blood when wiping, lasting one day",
+    "critically elevated serum calcium level (hypercalcemia)",
+    "recurrent fevers",
+    "dysphagia (difficulty swallowing)",
+    "complete inability to swallow, even liquids",
+    "perianal pain (pain near the anus)",
+    "lump adjacent to the trachea (windpipe)",
+    "frequent emesis (vomiting), approximately every 15 minutes",
+    "endometrial thickness of 5mm",
+    "severely limited mobility",
+    "anemia secondary to chronic heavy menstrual bleeding",
+    "endometrial thickness of 5mm",
+    "metastatic disease to the spine",
+    "lytic bone lesion",
+    "blood present on stool",
+    "syncope (passing out) during colonoscopy preparation",
+    "constipation",
+    "erythematous and irritated throat",
+    "severe abdominal pain",
+    "loss of consciousness (collapsing)",
+    "heavy menstrual bleeding (flooding)",
+    "pain localized to the area of lumbar disc herniation",
+    "menstrual periods occurring bi-weekly",
+    "rhinorrhea (runny nose) during pregnancy",
+    "gait instability descending stairs",
+    "nausea",
+    "passage of blood clots during menstruation",
+    "pain everywhere but it comes and goes",
+    "spotting",
+    "difficulty with bowel movements",
+    "sensation of a bruise on the tailbone",
+    "significant knee pain",
+    "persistent sore throat that is resistant to improvement",
+    "frequent ear pain, predominantly on the right side, occasionally on the left",
+    "hematochezia (bleeding of bright red blood) with normal stools",
+    "mass identified on the cecum",
+    "aural fullness (plugged ears)",
+    "anorexia (lack of appetite)",
+    "thin stools",
+    "neck pain",
+    "increasingly painful menstrual periods",
+    "sore throat",
+   "low white blood cell levels (half of what they should be)",
+    "intermittent throat pain",
+    "otic (ear) issues",
+    "peripheral neuropathy in the hands",
+    "urinary urgency on a daily basis",
+    "spinal tumors",
+    "aches in lymph nodes near the clavicles (collar bones)",
+    "elevated liver enzyme levels",
+    "gross hematuria (passage of approximately a pint of red blood in urine)",
+    "chest pain exacerbated by eating",
+    "dysphagia (difficulty swallowing)",
+    "rapid growth of a breast tumor, reaching up to 12cm in a few days",
+    "exertional dyspnea (inability to walk up a flight of stairs without stopping to pant for air)",
+    "impaired digestion",
+    "malodorous vaginal discharge at the onset of menstruation",
+    "lower back muscle spasm",
+    "tumor located on the external surface of the skull",
+    "metastasis to the liver",
+    "postmenopausal bleeding",
+    "exacerbation of pain with specific movements",
+    "pelvic mass",
+    "seizures",
+    "significant decrease in white blood cell (WBC), red blood cell (RBC), and hemoglobin (HGB) levels",
+    "vocal cord damage",
+    "change in consistency and frequency of bowel movements (looser, 2-6 times a day instead of once)",
+    "unexplained gastrointestinal disturbances",
+    "nuchal rigidity (stiff neck)",
+    "intermittent pain in the right tonsil",
+    "hemorrhoids",
+    "bleeding following sexual intercourse, varying in amount",
+    "small amount of blood mixed with saliva",
+    "cognitive impairment affecting certain functions",
+    "intestinal cobblestoning (appearance of the intestinal lining)",
+    "mild thinning of the stool caliber",
+    "dysfunction of the nervous system",
+    "increase in size of a lump",
+    "pulmonary nodule (nodule in lung)",
+    "sensation of throat fullness after exposure to cold air conditioning",
+    "mastodynia (painful breast)",
+    "gastric ulcer (stomach ulcer)",
+    "trace amount of vaginal spotting (blood) resembling menstrual bleeding",
+    "irritation",
+    "small bump in the hyoid region (anterior midline of the throat, superior to the Adam's apple)",
+    "dark-colored diarrhea following a period of constipation",
+    "pelvic pain resembling menstrual cramps",
+    "emesis (vomiting) secondary to pain",
+    "trace amounts of blood in the stool",
+    "persistent lymphadenopathy (nodes remained enlarged)",
+    "bone tumor in the shoulder region",
+    "burning pain in leg muscles",
+    "persistent fatigue",
+    "abnormal Papanicolaou (Pap) smear results",
+    "unintentional weight loss of 30 pounds in 6 months",
+    "heavy vaginal bleeding with bowel movements",
+    "osseous lesions (lesions on bones)",
+    "chronic cough",
+    "hepatic cyst (cyst on liver)",
+    "rapid, unintentional weight loss of 10-11 pounds per week",
+    "stage 3 inflammatory breast cancer",
+    "femoral fracture (fractured femur bone)",
+    "severe back pain",
+    "tenesmus (feeling of incomplete defecation)",
+    "otalgia (ear pain)",
+    "inability to ambulate (get out of bed)",
+    "severe adverse effects related to a clinical trial",
+    "3-4 enlarged lymph nodes in the right neck region",
+    "presence of lumps",
+    "menstrual periods in the absence of a uterus",
+    "75 cm mass at the gastroesophageal junction",
+    "sudden, unintentional weight loss of 10 kg in three months",
+    "anal pain",
+    "prolonged menstrual period lasting one month with heavy bleeding (flooding)",
+    "expectoration of mucus",
+    "persistent nausea post-hysterectomy",
+    "hepatic cirrhosis (cirrhosis of the liver)",
+    "weight loss followed by weight gain",
+    "severe digestive issues",
+    "painful nocturnal cough exacerbating asthma",
+    "gastroesophageal reflux (acid reflux)",
+    "progressive loss of ambulation or tactile sensation in the leg",
+    "multiple submandibular lumps upon neck flexion",
+    "blood present on toilet paper after wiping",
+    "abdominal bloating",
+    "excessive diaphoresis (sweating), particularly at night",
+    "partial lung collapse",
+    "chest pain progressing to heartburn",
+    "generalized hip pain",
+    "pelvic pain",
+    "progressive decline in mobility while in bed",
+    "pelvic floor dysfunction",
+    "sternal pain associated with multiple tumors",
+    "intracranial tumor (tumor in my brain)",
+    "numerous hepatic tumors, including one the size of a golf ball",
+    "palpable breast lump (round, smooth, and mobile)",
+    "vitamin B12 deficiency",
+    "generalized pain throughout the body",
+    "mild otalgia (ear pain)",
+    "autoimmune large cell polyneuropathy",
+    "metastatic cancer (cancer spread throughout)",
+    "unintentional weight loss",
+    "severe bone pain indicative of bone cancer",
+    "small (2-3mm diameter) submandibular nodule, located behind the jawbone",
+    "acute abdominal pain after eating",
+    "sensation of aural fullness (ears starting to feel plugged up)",
+    "mild otalgia (small ear pain)",
+    "prolonged menstrual periods compared to previous cycles",
+    "conjunctival pallor (pale pink eyelids)",
+    "severe skin eruption",
+    "breast lump detected",
+    "rib cancer",
+    "gastrointestinal issues",
+    "right inguinal hernia (lower abdominal at crease near thigh)",
+    "desquamation (peeling) of the feet",
+    "sensation of a lump upon swallowing",
+    "pain radiating to the ribs",
+    "pulmonary nodules (nodules in lungs)",
+    "lesion on the soft palate",
+    "stage 4 bone cancer",
+    "large external hemorrhoid",
+    "grade 2/3 astrocytoma",
+    "significant asthenia (weakness)",
+    "otalgia (ear pain) following swimming",
+    "feeling overwhelmed",
+    "change in shape of a skin lesion",
+    "fasciculations (twitching) spreading to the torso and arms",
+    "vaginal spotting (blood)",
+    "inflammation on the left side of the body",
+    "symptoms mimicking a heart attack when eating",
+    "unusual, intense pain in areas of previous injuries",
+    "cancer cells in spinal lymph nodes",
+    "bleeding as a side effect of meloxicam",
+    "occasional otalgia (ear pain)",
+    "altered digestion during flare-ups",
+    "localized or systemic pain",
+    "abdominal pain (gone now)",
+    "lymphadenopathy (swollen lymphnodes)",
+    "sore throat with scratching sensation",
+    "nerve pain in the legs - sudden jolts of pain",
+    "visual disturbances, printed words appearing smudged",
+    "chronic menorrhagia (heavy menstrual bleeding)",
+    "sore throat",
+    "rectal bleeding with bowel movements (bright red blood dripping like a faucet)",
+    "exertional dyspnea (shortness of breath) after climbing three flights of stairs",
+    "extreme fatigue after minimal exertion",
+    "elevated platelet count",
+    "small, soft, mobile mass beneath the cricoid cartilage",
+    "intermittent discomfort in the tailbone region",
+    "sensation of a small lump in the throat",
+    "persistent white patches on one side of the throat for 20 years",
+    "inability to tolerate food or water",
+    "intermittent, sharp pain",
+    "small pulmonary nodule on the left lobe (approximately 7mm)",
+    "lower back pain",
+    "migraines with aura",
+    "health-related anxiety",
+    "prolonged diarrhea lasting nearly a month",
+    "exacerbation of abdominal pain with soda or greasy foods",
+    "localized swelling of the larynx on the left side",
+    "mild pain in the right groin and quadriceps",
+    "sensation of something being abnormal in the throat",
+    "stage 3 ovarian cancer",
+    "excessive flatulence",
+    "pain originating in the upper back and sternum",
+    "persistent abdominal pain",
+    "sensation of a lump in the throat (perceived)",
+    "lymphadenopathy (lymph nodes underneath the jaw)",
+    "minor rectal bleeding with bright red blood",
+    "ruptured appendix",
+    "dry throat",
+    "mild pain",
+    "diarrhea with fecal incontinence",
+    "focal seizures presenting as right side numbness/weakness",
+    "persistent fasciculations (twitching) in the legs",
+    "gastritis",
+    "daily vaginal bleeding for 6 months",
+    "history of gastrointestinal issues",
+    "menorrhagia (heavier than normal periods)",
+    "high fevers unresponsive to treatment",
+    "coccygodynia (tailbone pain)",
+    "persistent feeling of unease",
+    "mucus mixed with blood on the toilet paper",
+    "mild anemia",
+    "left knee pain",
+    "lower extremity edema (swelling due to fluid retention)",
+    "single, palpable, hard submandibular lymph node",
+    "complete bowel obstruction for 5 days despite laxative use",
+    "mass on the left shin",
+    "heavy menstrual period",
+    "pain after defecation",
+    "primary cancer located on the tail of the pancreas",
+    "large tumor pushing on kidney, stomach, and spleen",
+    "lumpy sensation in the left lingual tonsil",
+    "excessive salivation throughout the day",
+    "pain resembling a bruise",
+    "history of bowel issues since childhood",
+    "pneumonia",
+    "lymph node mass",
+    "unusual pressure sensation behind the throat",
+    "severe pain",
+    "annoying tickle in throat causing a cough",
+    "increased need to expectorate saliva",
+    "new symptoms causing paranoia",
+    "thin, watery, mostly odorless vaginal discharge",
+    "increase in size of a skin lesion",
+    "metastatic breast cancer",
+    "worsening of symptoms since February",
+    "pain exacerbated by touch or wearing a bra",
+    "weight gain",
+    "primary mediastinal B-cell lymphoma",
+    "periorbital edema (swollen eyes)",
+    "weight loss",
+    "occasional blood in stool",
+    "sensation of pressure evolving into pain",
+    "increased vaginal discharge",
+    "rapid growth of a breast tumor, reaching up to 12cm",
+    "intermittent pain",
+    "palpable nodule",
+    "excruciating pain in the mid-back region",
+    "random pains throughout abdominal and upper rib area",
+    "reduced oral intake",
+    "intermittent bleeding",
+    "difficulty with speech articulation",
+    "intermittent episodes of emesis (vomiting)",
+    "gastrointestinal bleeding after taking meloxicam on an empty stomach",
+    "occasional difficulty eating",
+    "enlarged lymph nodes in the chest",
+    "exacerbation of pain with specific movements",
+    "large tumor in the chest compressing surrounding structures, including the vocal nerve",
+    "sensitive left lymph node upon palpation",
+    "numerous hepatic tumors",
+    "esophageal cancer",
+    "increased susceptibility to upper respiratory infections (colds)",
+    "pain and tenderness in the right ribs and upper quadrant associated with eating",
+    "alopecia (hair loss)",
+    "abdominal distension (bloating)",
+    "discoloration of the right index fingernail",
+    "pain radiating to the back",
+    "sudden, intense pain in the lower back right side radiating to testicles",
+    "sternal or upper abdominal soreness",
+    "bilateral paralysis from toes up to thighs",
+    "high frequency of dizziness",
+    "impaired swallowing ability",
+    "35 cm mass at the head of the pancreas",
+    "unusual sour and bitter taste in mouth during semi-seizures",
+    "significant lower extremity edema",
+    "polydipsia (increased thirst)",
+    "dyspnea (difficulty breathing)",
+    "melena (dark stool)",
+    "emesis (vomiting) secondary to pain",
+    "rhinorrhea (runny nose)",
+    "bulging muscle near a previously corrected hernia site",
+    "abdominal pain (unspecified)",
+    "recurrent acute pancreatitis",
+    "leg pain progressing to nerve pain",
+    "shoulder mass",
+    "sore throat upon waking, resolving after a few hours, then recurring each morning",
+    "intermittent, sharp pain in the pharynx",
+    "menorrhagia (excessive menstrual bleeding)",
+    "multiple tumors in sternum",
+    "watery vaginal discharge",
+    "myelodysplastic syndrome (MDS) progressing to leukemia",
+    "cholelithiasis (gallstones)",
+    "sensation of something popping in and out of the right position",
+    "night sweats",
+    "sensation of the left side of the body attacking me (inflammation)",
+    "anosmia (loss of smell) during pregnancy",
+    "125 cm hepatic mass",
+    "lymphadenopathy (swollen lymph nodes), especially on the right side",
+    "cognitive dysfunction (brain fog)",
+    "slight growth of lung tumors",
+    "intermittent blood in stool",
+    "nausea and inability to eat",
+    "alteration in taste perception",
+    "significant fatigue",
+    "minimal vaginal spotting, lasting only one day",
+    "mass on right lung",
+    "hoarse cough progressing to constant scratching on left side of throat triggering cough",
+    "increase in firmness of lymph nodes",
+    "diagnosis of a pinched nerve",
+    "throat cough",
+    "blood in the toilet, never in stool",
+    "pain exacerbated by gas",
+    "tumor confirmed by colonoscopy",
+    "heavy blood loss",
+    "chronic cough",
+    "stabbing pain in side",
+    "minor irritation and redness in throat",
+    "burning pain in leg muscles",
+    "shortness of breath with minimal exertion, such as climbing three flights of stairs",
+    "persistent rough patch sensation on the right side of throat, located behind the former tonsil site",
+    "frequent need to lie down or nap due to fatigue",
+    "movable, jellybean-sized swollen lymph node on the left side of the neck",
+    "difficulty finding a comfortable seated position due to wobbling",
+    "absence of pain",
+    "elevated white blood cell count",
+    "resolved sharp sensation on the left side of the throat",
+    "slight breathlessness",
+    "frequent clearing of the throat",
+    "nerve and leg pain",
+    "bleeding associated with hard stools",
+    "feeling generally unwell",
+    "sleep disturbances due to itching",
+    "abdominal swelling",
+    "difficulty swallowing",
+    "anaplastic ependymoma diagnosis",
+    "intermittent appearance of red dots on legs",
+    "irritation leading to uncontrollable coughing",
+    "swelling due to bursa fluid pocket on elbow",
+    "fatigue related to anxiety",
+    "postmenopausal bleeding",
+    "pain upon touch or when wearing a bra",
+    "pain when eating any type of food",
+    "weight gain as a result of steroid use",
+    "fluid retention in thighs",
+    "fevers",
+    "markedly red and swollen area at the upper part of the throat, near the base of the tongue",
+    "toe pain",
+    "occasional vomiting",
+    "waking up with severe pain that limits mobility",
+    "markedly elevated white blood cell count",
+    "mild stomach ache progressing to severe abdominal pain",
+    "nodules in both lungs",
+    "back spasm",
+    "pain associated with approximately 70% of experienced events",
+    "8mm polyps detected",
+    "endometrial thickness of 6mm",
+    "rectal bleeding (two instances)",
+    "noticeable deepening of voice",
+    "soft stools",
+    "bright red blood in toilet water",
+    "pathological fracture of the 8th rib",
+    "muscle bulge protruding at the site of a previous hernia repair",
+    "ability to manually move a lump in the throat, accompanied by a popping sensation",
+    "persistent exhaustion",
+    "sensation of disc misalignment in the back",
+    "lump in breast",
+    "medical complications requiring hospitalization",
+    "diarrhea occurring approximately 80% of the time",
+    "chest pain transitioning to heartburn",
+    "improvement of symptoms",
+    "metastatic retinoblastoma diagnosis",
+    "sharp pain in chest",
+    "recurrent episodes of dry throat",
+    "missed menstrual period",
+    "swollen lymph nodes on the left side of the neck with fluctuating improvement and recurrence",
+    "constipation lasting for one week",
+    "feeling fatigued",
+    "spotting of blood from the vagina",
+    "throat issues",
+    "gas pain from air introduced during surgery",
+    "inability to sleep",
+    "severe pain (level 10) after consuming a large meal",
+    "unexplained aches",
+    "fatigue as a result of treatment",
+    "elbow pain when lifting weights",
+    "rapidly growing lump in shoulder",
+    "skin peeling after showering",
+    "high heart rate palpitations after eating",
+    "burning pain in stomach with increasing intensity",
+    "enlarged lymph node",
+    "throat pain in areas with visible patches",
+    "lump on the right side of throat",
+    "vertebral fracture",
+    "severe pain (level 10) after consuming a large meal",
+    "tongue cancer diagnosis",
+    "increased fatigue",
+    "mass measuring 25 x 18cm in lower abdomen",
+    "intense pain in upper shoulders",
+    "muscle aches",
+    "heightened throat sensitivity to strong smells",
+    "slight sore throat",
+    "pruritus (itchy sensation) in the throat",
+    "heavy menstrual bleeding",
+    "burning pain in stomach with increasing intensity",
+    "ruptured appendix",
+    "pain in the upper right side of the abdomen",
+    "increasingly painful menstrual periods",
+    "subclinical hypothyroidism diagnosis",
+    "severe acne breakout on face",
+    "runner's knee / patellofemoral pain syndrome",
+    "cough",
+    "metallic aroma in stool",
+    "gastrointestinal issues",
+    "coma",
+    "sinus congestion",
+    "missed lymph node on imaging scans",
+    "dry cough",
+    "soreness in both ears",
+    "swollen lymph node on the contralateral side of the neck post-surgery",
+    "gallbladder polyp",
+    "sharp shoulder pain occurring shortly after alcohol consumption",
+    "paresthesia (tingling sensation) in knees, feet, calves, and thighs, triggered by wearing pants or having anything on legs while sitting",
+    "Hodgkin's lymphoma stage 2 diagnosis",
+    "mild pain on one side of the throat while swallowing",
+    "kidney cancer diagnosis",
+    "sharp throat sensation",
+    "stomach pain",
+    "relentless agony across entire abdomen",
+    "severe nausea",
+    "daily bowel pain",
+    "endometrial thickness of 5mm (below biopsy threshold)",
+    "severe fatigue",
+    "sensation of impaired swallowing",
+    "blood in stool",
+    "sadness",
+    "sensation of menstrual cramps",
+    "hardening of lymph nodes",
+    "swollen lymph node on the side of the neck",
+    "knee pain after hiking or running, gradually worsening over 3 months",
+    "difficulty swallowing liquids",
+    "throat tightness",
+    "low vitamin B12 level",
+    "lump on trachea",
+    "significant amount of blood in stool, altering toilet water color",
+    "persistent tingling sensation on tongue",
+    "worsening back pain",
+    "tiredness",
+    "multiple large brain tumors throughout brain",
+    "bleeding after taking meloxicam on an empty stomach",
+    "swollen lymph nodes in neck on right side",
+    "white, spiderweb-like appearance",
+    "sleep deprivation due to pain in shin and surrounding joints",
+    "tumors detected on CT scan",
+    "sensation of something being lodged in the throat",
+    "feeling scared",
+    "iron deficiency",
+    "tongue bite",
+    "neuropathy in feet",
+    "swollen neck lymph nodes",
+    "swelling originating at the skin surface",
+    "feeling disoriented",
+    "occasional loose stools",
+    "mental distress",
+    "knee pain after hiking or running",
+    "hard, immobile, pebble-sized lump near hyoid bone",
+    "nasal congestion",
+    "cough",
+    "severe throbbing headache",
+    "feeling hot and sweaty",
+    "left knee pain due to overuse",
+    "increased ear pain with swallowing",
+    "stage 4 cervical cancer diagnosis",
+    "thickened endometrium",
+    "frequent diarrhea",
+    "pain spreading to the diaphragm",
+    "chronic tailbone pain",
+    "irregular vaginal bleeding, such as spotting",
+    "minimal side effects",
+    "gnawing stomach pains",
+    "sensation of crunching when moving",
+    "inability to keep food or water down",
+    "swollen cheek",
+    "sensation of a lump in the throat",
+    "skin discoloration from radiation therapy",
+    "bright red blood in stool",
+    "cancer spread to the back of the head",
+    "lung nodules",
+    "side effects from treatment",
+    "menstrual periods occurring every 2 weeks",
+    "pain originating on the right side of the throat and now localized to the left side",
+    "markedly enlarged lymph node in left armpit with progressive growth",
+    "gas pain",
+    "incomplete closure of a small flap leading to the airway",
+    "gallstones causing pancreatic obstruction",
+    "severe migraines",
+    "jaundice",
+    "loss of voice",
+    "blood in saliva",
+    "tumor at the base of the tongue",
+    "recurring sore throat",
+    "tonsil stone on left tonsil",
+    "excessive gas",
+    "elbow pain when lifting light weights (5 lbs)",
+    "cardiac arrest",
+    "blood sometimes mixed with stool",
+    "constipation",
+    "inability to walk, particularly on the left side",
+    "excessive sweating",
+    "black spots",
+    "sore on side of tongue",
+    "visible red blood or soiled tissue after wiping",
+    "sensation of something poking in the throat on the right side",
+    "patchy hair loss on head",
+    "staying up late unable to sleep",
+    "non-Hodgkin's lymphoma",
+    "nausea",
+    "prostate cancer diagnosis",
+    "nerve pain in legs (jolts of pain)",
+    "tumor in left hip",
+    "white blood cell levels at half the normal range",
+    "surgical scar on neck",
+    "tumor pressing against nerves in the back where pancreas meets spleen",
+    "significant swelling",
+    "minor difficulty swallowing",
+    "pain in shoulder",
+    "inability to eat or drink",
+    "wobbling when going down stairs",
+    "shortness of breath with minimal exertion, such as climbing three flights of stairs",
+    "normal bowel movements",
+    "digestive issues",
+    "unusual feeling of fullness without having eaten",
+    "inability to eat solid food",
+    "aggressive small cell lung cancer (SCLC) with metastases to spine, liver and lymph nodes",
+    "tiredness",
+    "pain in shin",
+    "two large tumors on ovaries",
+    "liquid diarrhea",
+    "inability to move arm due to tumor over bone causing a broken rib",
+    "blood pressure of 205/145",
+    "inability to breathe",
+    "20% ability to smell",
+    "cancer spread to left femur",
+    "sudden enlargement of testicle, resembling a kiwi",
+    "heartburn",
+    "left knee pain/runner's knee / patellofemoral pain syndrome",
+    "fatty liver",
+    "\"Cobblestoning\" appearance in throat",
+    "inconsistent bowel movements",
+    "small spot on breast (detected via mammogram)",
+    "some back pain",
+    "occasional intermittent pain in other parts of the throat",
+    "inability to keep anything down for a week",
+    "thought it was hemorrhoids",
+    "feeding tube complications (constant fluid leakage)",
+    "low grade fevers",
+    "left side paralysis (coming and going)",
+    "rectal bleeding",
+    "7x8 cm tumor on pancreas with metastases to liver",
+    "affecting ulnar nerves in both arms",
+    "hemoglobin level of 62",
+    "taste perception at approximately 50%",
+    "feeling really tired and overwhelmed",
+    "very painful to go to the bathroom",
+    "lung tumor",
+    "sore on side of tongue",
+    "conscious semi-seizures",
+    "unusual fatigue",
+    "dysplasia of the cervix",
+    "pain in upper abdomen",
+    "suspicious finding in other lung",
+    "persistent cough",
+    "itchy legs",
+    "swollen lymph node under jaw",
+    "stomach pains",
+    "rapidly growing cancerous lymph node visible as a lump on the right side of the neck",
+    "changing bowel movements",
+    "unexplained weight gain",
+    "septic",
+    "ulcers",
+    "paresthesia (tingling sensation) in knees, feet, calves, and thighs, triggered by wearing pants or having anything on legs while sitting",
+    "blood clot in leg flowing down to foot",
+    "feeling really tired and overwhelmed",
+    "loss of consciousness",
+    "sore throats that linger",
+    "difficulty initiating or completing urination, requiring straining or relaxation",
+    "vomiting and inability to keep food down",
+    "impaired speech comprehension, hearing sounds as unintelligible",
+    "voice loss",
+    "pain on the left side below the rib cage",
+    "very dry throat",
+    "increased urinary frequency",
+    "generalized, persistent, and severe itching",
+    "pain during bowel movements since childhood",
+    "blood clots in both lungs",
+    "pain in tailbone",
+    "dark, hard stool",
+    "expectoration of phlegm",
+    "signs suggestive of cancer",
+    "small tonsil stone on left tonsil",
+    "triple-positive breast cancer",
+    "inability to feel legs",
+    "unintentional weight loss",
+    "worsening lung symptoms",
+    "severe chronic lower back pain",
+    "worsening menstrual cramps",
+    "food and water getting caught in throat",
+    "sleep disturbances due to itching",
+    "occasional facial numbness",
+    "significant swelling without edema",
+    "fevers that resolve spontaneously",
+    "very dark brown stool",
+    "sensation of pressure from throat to anus",
+    "blood in the toilet never in my stool",
+    "vertebral fracture",
+    "sensation of having an Adam's apple (in a female)",
+    "sciatic nerve pain",
+    "discomfort",
+    "altered bowel movements",
+    "memory impairment for approximately 10 minutes following semi-seizures",
+    "intermittent episodes of vomiting",
+    "breast pain",
+    "blindness in right eye",
+    "abnormal blood test results",
+    "persistent sore throat",
+    "microscopic blood in stool",
+    "heavier menstrual periods",
+    "globus sensation (feeling of a lump in the throat)",
+    "severe abdominal pain due to constipation",
+    "loss of sensation in half of that foot",
+    "throat feels weird",
+    "recurrent urinary tract infections due to a fistula between bowel and bladder",
+    "normal bowel movement once every day",
+    "ear clicking when swallowing",
+    "3 swollen lymph nodes on the right side of the neck",
+    "bleeding on the walls of the colon",
+    "blood when passing stools since age 7 (spots on toilet paper)",
+    "twitching that spread elsewhere to torso arms",
+    "left knee pain (runner's knee / patellofemoral pain syndrome)",
+    "lump on lymph node",
+    "burning pain in my stomach that got worse and worse",
+    "isolated instances of bloody stool",
+    "swelling",
+    "intense pain in left rib",
+    "food/drink tasted rancid",
+    "regular gas",
+    "tiny swollen lymphnode under my ear",
+    "positional ear pain (feels like an icepick being driven into ear when moving a certain way)",
+    "anxiety attacks",
+    "lump on neck",
+    "globus sensation",
+    "tongue never healed after biting it",
+    "everything eaten went back the way it came",
+    "persistent uti symptoms",
+    "voice occasionally took a second to engage",
+    "(suspected) blood in stools",
+    "gut symptoms",
+    "frequent urination",
+    "mass at the head of pancreas",
+    "whistling and wheezing at night",
+    "severe fatigue",
+    "unable to keep food down",
+    "hypercalcemia",
+    "feeling full and bloated",
+    "pain returns and spread to my ribs and diaphragm",
+    "issues swallowing for years",
+    "finding zoom meetings so exhausting that i'd go lay down in my bed for a few minutes after they ended",
+    "sharp discomfort when swallowing on the left side of throat",
+    "high frequency hearing loss in both ears",
+    "external hemorrhoid after passing a stool",
+    "losing a lung will inevitably shorten my life",
+    "weight loss",
+    "blood from intercourse",
+    "cancer spread in both lungs",
+    "abdominal pain",
+    "feeling bloated",
+    "slight constipation that a laxative would free up for years",
+    "lump in throat",
+    "anxiety",
+    "sore throat 24/7",
+    "recurring sore throat",
+    "throat pain",
+    "heart burn",
+    "heartburn",
+    "blood in leg flowing down to foot",
+    "black stool",
+    "periods last 3-4 days when normally they would be monthly for 5-7 days",
+    "cysts",
+    "ear pain",
+    "other symptoms besides gi",
+    "tickling sensation in throat",
+    "vomiting",
+    "inability to digest certain foods",
+    "large mass in stomach",
+    "lack of sleep",
+    "white blood cell count slightly below acceptable limit",
+    "trouble breathing",
+    "pancreatic cancer lesion",
+    "difficulty swallowing food would get stuck and need to be regurgitated",
+    "swollen lymph node on the left side",
+    "infected lymph nodes",
+    "kidney stone pain",
+    "lymph's on neck since childhood",
+    "runner's knee",
+    "left knee pain/runner's knee / patellofemoral pain syndrome",
+    "left knee pain (runner's knee / patellofemoral pain syndrome)",
+    "runner's knee / patellofemoral pain syndrome",
+    "permanent swollen lymph nodes",
+    "burping up acid",
+    "abdominal pain (annoyance)",
+    "bleeding from the tumor",
+    "admins sweating",
+    "depression",
+    "feeling of something stuck in throat",
+    "sensation of something being lodged in the throat",
+    "globus sensation (feeling of a lump in the throat)",
+    "lump in throat",
+    "jaw pain getting worse",
+    "constant tingling in throat",
+    "no increase in bowel movement frequency",
+    "slightly bigger than normal lymph nodes/glands",
+    "ovarian masses",
+    "tiredness",
+    "feeling really tired and overwhelmed",
+    "Impaired cognitive function following semi-seizures",
+    "Recurrent sore throat occurring almost daily",
+    "Throat discomfort described as a poking sensation",
+    "Imbalance or unsteadiness while descending stairs",
+    "Increased reactivity or sensitivity to stimuli",
+    "Difficulty swallowing ice cream",
+    "Scabs resulting from scratching",
+    "Severe tailbone fracture",
+    "Sudden onset of intense dread related to imminent death",
+    "Small lump located on the right side of the neck, anteriorly, superior to the muscle",
+    "Numbness of the tongue",
+    "Very light spotting lasting less than one day",
+    "Premature ventricular contractions (PVCs)",
+    "Subjective sensation of fever at night",
+    "Hair loss leading to visible scalp",
+    "Development of patellofemoral pain syndrome, also known as runner's knee",
+    "Development of raw or ulcerated areas on the feet",
+    "Tightness in the right side of the neck",
+    "Unexplained anemia",
+    "Consistently dark-colored stools",
+    "Raw or ulcerated areas on the hands and feet",
+    "Small, mobile lump(s) near the hyoid bone",
+    "Persistent fatigue",
+    "Sensation of a foreign object or obstruction in the throat",
+    "Swollen lymph nodes",
+    "Decreased white blood cell count, approximately half of the expected value",
+    "Brain tumor",
+    "Sensation of a lump in the throat",
+    "Large tumor, approximately melon-sized, in the abdomen between the stomach and spine",
+    "Intense pain in the left rib area following air travel",
+    "Slight bump in the neck",
+    "Upper back pain",
+    "Hemoglobin level of 62 g/L",
+    "Severe headache occurring during semi-seizures",
+    "Unusual sensation on the right side of the posterior throat, as if something is stuck",
+    "Subtle change in bowel habits",
+    "Lower back disc sensations",
+    "Stool with a raspberry ripple appearance",
+    "Blood present in stool",
+    "Spotting or bleeding between menstrual periods",
+    "Increased frequency of napping compared to usual habits",
+    "Metastatic lesions in the spine and lymph nodes",
+    "Metastatic lesions in the spine and lymph nodes",
+    "Loss of voice",
+    "Excruciating pain in the thigh and/or leg",
+    "Sensation of something being stuck in the throat",
+    "Blood present on toilet paper after bowel movements",
+    "Sudden and severe acne breakout on the face",
+    "Feelings of grief",
+    "Pain localized near the tonsil on the right side",
+    "10 cm lesion within the femur bone",
+    "Passing blood clots approximately the size of a fist",
+    "Passing blood clots approximately the size of a fist",
+    "Firm bulge or swelling",
+    "Blood mixed with water only during bowel movements",
+    "Mass or abnormal growth",
+    "Sensation resembling an ectopic pregnancy",
+    "Unilateral ear pain",
+    "Discoloration of the knees to a purple hue after showering",
+    "Feeling severely ill",
+    "Physical weakness",
+    "Pain in the hands",
+    "Elbow pain when lifting light weights (e.g., 5 lbs)",
+    "Bruise-like pain on the side of the body",
+    "Lump on the wrist",
+    "Persistent cough",
+    "Redness and inflammation around the epiglottis",
+    "Pain progressively worsening to include pain with eating",
+    "Paresthesia (tingling sensation) in the knees, feet, calves, and thighs",
+    "Paresthesia (tingling sensation) in the knees, feet, calves, and thighs",
+    "Extreme weight loss",
+    "Regurgitation of water",
+    "Menstrual periods occurring with increased frequency",
+    "Tumor in the spine",
+    "Speech difficulties",
+    "Difficulty swallowing, with a sensation of food having difficulty passing down the esophagus",
+    "Unusual taste in the mouth, described as both sour and bitter",
+    "Dry mouth",
+    "Random abdominal pain",
+    "Subjective sensation of fighting an illness",
+    "Dizziness",
+    "Intermittent cough",
+    "Pain in the rib and/or back area",
+    "Pulmonary nodule or mass in the lung",
+    "Persistent cough",
+    "Paresthesia (tingling sensation) in the knees, feet, calves, and thighs brought on by wearing pants",
+    "Gastrointestinal symptoms",
+    "Mucus discharge",
+    "Subjective sensation of fighting an illness",
+    "Burning pain at the anus during bowel movements",
+    "Menstrual periods occurring with increased frequency",
+    "Unusual sensation of fullness despite not having eaten",
+    "Presence of floaters in vision",
+    "Severe food poisoning",
+    "Severe back pain",
+    "Unusual stool appearance",
+    "Presence of undigested food in stool",
+    "Cobblestone appearance of the throat",
+    "Severe pneumonia affecting a significant portion (approximately 50%) of the lung",
+    "Bone cancer in the spine and hip",
+    "Cancerous appendix with mucin production",
+    "Unintentional weight loss of 30 lbs within 6 months",
+    "Hair thinning",
+    "Cancer affecting bones",
+    "Oily stool",
+    "Severe back pain causing doubling over and crying",
+    "Irregular menstrual periods",
+    "Development of patellofemoral pain syndrome, also known as runner's knee in the left knee",
+    "Unilateral paralysis affecting the left side, occurring intermittently after playing sports",
+    "Tumor in the right lung significantly impairing lung function",
+    "Coughing at night",
+    "Recurrence of identical symptoms",
+    "Suspicious lesion on one rib",
+    "Difficulty swallowing",
+    "Unusual itching sensation in the posterior throat",
+    "Prolonged menstrual bleeding lasting 21 consecutive days",
+    "Subjective sensation of being pregnant",
+    "Back pain",
+    "Phlegm in the throat",
+    "Dull pain in the ear on the same side of the body",
+    "Worries that interfere with sleep",
+    "Swelling of the lips",
+    "Progressive loss of ability to walk or tolerate touch to the leg",
+    "Multiple masses in the liver",
+    "Decreased sense of taste",
+    "Sudden loss of voice",
+    "Ankle fracture",
+    "Pelvic pain initially attributed to menstrual cycle",
+    "Taste of dried blood in the mouth",
+    "Sensation of a foreign object (like a tangerine) stuck in the neck after biopsy",
+    "Bleeding from the sinuses or nasal passages",
+    "Swollen gland",
+    "Generalized pain throughout the torso",
+    "Allergic reactions or sensitivities",
+    "Persistent and severe itching",
+    "Muscle twitching in the torso and arms",
+    "Sensation of water sloshing around in the ear constantly",
+    "Passage of small, greasy stool particles during wiping",
+    "Prolonged vomiting lasting for weeks",
+    "Low iron levels",
+    "Mild nausea",
+    "Difficulty swallowing at night",
+    "Mild but persistent sore throat lasting nearly 8 weeks",
+    "Recurrent hemorrhoids occurring a few times a week or almost after every bowel movement",
+    "Swollen left supraclavicular lymph node",
+    "Diarrhea occurring weekly",
+    "Joint pain",
+    "Increased frequency of diarrhea compared to normal",
+    "Complete immobility",
+    "Inability to walk, especially on the left side (later discovered to be due to a large tumor in the left hip)",
+    "Feelings of nervousness or anxiety",
+    "Aches",
+    "Sensitive throat",
+    "Severe back pain (causing doubling over and crying)",
+    "Lumps in the neck",
+    "Nodule on the thyroid gland",
+    "Generalized itching affecting the entire body",
+    "Progressive worsening of existing symptoms",
+    "Visual migraines",
+    "Constant, unrelenting pain with no relief",
+    "Inability to swallow food and water, with a sensation of them getting caught in the throat",
+    "Small spot on the breast",
+    "Potential bump on the larynx",
+    "Lump at the base of the neck, near the hollow where the collarbone is",
+    "Mild, intermittent throat pain located just below the left jawbone, and sometimes the right jawbone",
+    "Lymph nodes described as \"slightly suspicious\"",
+    "Menstrual periods lasting for a longer duration than usual",
+    "Headaches",
+    "Colon cancer",
+    "Sensation resembling a bruise inside the body",
+    "Shortness of breath",
+    "Bleeding",
+    "Night sweats",
+    "Digestive system sensitivities",
+    "Ovarian cancer with widespread metastasis",
+    "Blood spotting between menstrual periods",
+    "Feeling of rupturing",
+    "Bleeding episodes induced by meloxicam taken on an empty stomach",
+    "Altered sense of taste",
+    "Pain on the right side of the head",
+    "Recurrent tingling sensation in the throat",
+    "Difficulty swallowing on the left side",
+    "Difficulty passing stool",
+    "Red dots on the legs that appear and disappear",
+    "Loss of smell",
+    "Small, hard, pebble-like lump (pea-sized)",
+    "Peeling skin on the hands and feet",
+    "Polyp on the gallbladder",
+    "Feelings of shock",
+    "Lump above the collarbone",
+    "Paresthesia (tingling sensation) in the knees, feet, calves, and thighs when wearing pants or anything on legs while sitting",
+    "Impaired memory",
+    "Discomfort in the anal area",
+    "Pain in the side of the body",
+    "Shortness of breath lasting for approximately one month",
+    "Persistent cough",
+    "Extreme exhaustion",
+    "Ovarian cancer",
+    "Persistent and generalized itching for an extended period",
+    "Persistent throat and ear pain during swallowing",
+    "Slight redness and inflammation in the stomach",
+    "Greenish stool",
+    "Chest congestion that the individual is unable to clear",
+    "Slight asymmetry in tonsil size, with the left tonsil being slightly larger than the right",
+    "30mm mass in the transverse colon",
+    "Sensation of sitting on a walnut",
+    "Sharp pain during inhalation under the right breastbone, radiating to the shoulder",
+    "Near complete obstruction of the duodenum",
+    "Feelings of shock",
+    "Hospitalization for blood transfusions due to heavy menstrual bleeding",
+    "Rectal bleeding",
+    "Intense night sweats with soaked sheets",
+    "Diminished sense of taste",
+    "Swollen abdomen for approximately one month",
+    "Swollen lymph nodes persisting for 3 to 4 months",
+    "Bright red blood on the toilet paper",
+    "Enlarged lymph node (approximately the size of an egg) on the left collarbone",
+    "Weakness",
+    "Bone erosion in the femur",
+    "Swollen lymph nodes",
+    "Inability to comprehend speech during semi-seizures; hearing speech as unintelligible sounds",
+    "Significant muscle soreness and limited mobility the day after a tennis workout",
+    "Stage 3 liver cancer",
+    "Body aches due to autoimmune disorder",
+    "Pins and needles sensation and soreness in the back of the throat",
+    "Itching",
+    "Tightness around the throat",
+    "Postoperative pain",
+    "Abdominal pain",
+    "White blood cell count slightly below the normal range",
+    "Blood in urine",
+    "Coughing up blood while showering",
+    "Pain in the upper abdomen for a few months",
+    "Bleeding episodes induced by meloxicam taken on an empty stomach",
+    "Constant pain",
+    "Increased anxiety",
+    "Extreme fatigue",
+    "Single episode of blood in stool",
+    "Sciatic pain",
+    "Slight spotting when wiping, lasting only one day",
+    "Swollen lymph node(s) in the neck",
+    "Inability to regain strength despite physical therapy, gym workouts, and swimming",
+    "Inability to speak during headache episodes",
+    "Blood in the toilet",
+    "Involuntary vocalizations upon movement",
+    "Development of raw or ulcerated areas on the hands",
+    "Metastatic cancer spread to multiple lymph nodes around her neck",
+    "Feeling cold",
+    "Menstrual period lasting one month",
+    "Reduced saliva production in the throat",
+    "Intense night sweats with soaked sheets",
+    "Occasional jaw pain",
+    "Food tasting unpleasant",
+    "Nodules on the thyroid gland",
+    "Extreme hair loss",
+    "Extreme hair loss",
+    "Experiencing significant fatigue after Zoom meetings, requiring rest",
+    "Excessive gas",
+    "Coughing up a small amount of blood when clearing the throat and spitting (occurred 3 times)",
+    "Bald spots resulting from radiation therapy",
+    "Asymptomatic state",
+    "Unusual stool appearance",
+    "Waking up with severe pain in the middle back",
+    "Inability to defecate for an extended period",
+    "Suspicious lesion on rib",
+    "Frequent pain in the lymph nodes on that side of the body",
+    "Yellowish stool",
+    "Sensation resembling a heart attack when eating",
+    "Inability to retain any food or liquids",
+    "Muscle twitching spreading to the torso and arms",
+    "Severe back pain",
+    "Liver extensively affected by cancer",
+    "Requiring conscious effort to maintain breathing",
+    "Profound and generalized fatigue",
+    "Intermittent blood in stool",
+    "Excessive flatulence",
+    "Inability to lift light weights (5 lbs) without elbow pain",
+    "Lump above the collarbone",
+    "Stiffness",
+    "Pain in the hands and feet",
+    "Difficulty forming words, specifically the word 'hummingbird'",
+    "Joint pain and stiffness",
+    "Blood in the stool",
+    "Pain",
+    "Digestive issues (variable)",
+    "Severe heartburn-like sensation that disrupts sleep",
+    "Difficulty urinating",
+    "Severe itching",
+    "Neutropenia",
+    "Left knee injury leading to runner's knee / patellofemoral pain syndrome",
+    "Absence of blood in stool",
+    "Generalized muscle tension and soreness",
+    "Coughing problems",
+    "Sensation of sitting on a walnut",
+    "Cancer",
+    "Mucus in stool",
+    "Throat discomfort",
+    "Persistent vomiting",
+    "Cramps",
+    "Loss of sensation in half of the foot",
+    "Discomfort feeling in throat",
+    "Vomiting brown-colored material",
+    "Metastatic lesions on the liver",
+    "Metastasis to the lungs",
+    "Multiple tumors ranging in size from lime to grapefruit",
+    "Frequent diarrhea",
+    "Severe menstrual symptoms",
+    "Persistent sensation of fullness even when not having eaten",
+    "Diarrhea",
+    "Ear pain during swallowing",
+    "Enlargement of lymph nodes",
+    "Constant, unrelenting pain with no relief",
+    "Stool described as tiny pebbles and darker than usual",
+    "Abdominal bloating after eating",
+    "Femur fracture",
+    "Incessant muscle twitching in legs, torso, and arms",
+    "Unsteadiness while descending stairs",
+    "Unexplained and persistent ear pain unresponsive to antibiotics",
+    "Blood in stool lasting 6 months",
+    "Cough triggered by the lump",
+    "Dehydration",
+    "Non-healing tongue ulcer",
+    "Three swollen glands under the jaw",
+    "Severe side effects",
+    "Sore throat most mornings",
+    "Swollen tongue",
+    "Discoloration of the knees to a purple hue after showering",
+    "Vomiting",
+    "Gastroesophageal reflux disease (GERD)",
+    "Worsening burning pain in stomach",
+    "Stage 4 Ewing's sarcoma in the pelvis, lower spine, and lungs",
+    "Severe acid reflux",
+    "Knee pain",
+    "Persistent low energy levels",
+    "Four swollen lymph nodes",
+    "Decreased mobility in bed",
+    "Malignant myelodysplastic syndrome (MDS) with leukemia spread to the pancreas",
+    "Spot next to uvula",
+    "Seeing tiny black dots",
+    "Ability to eat",
+    "Unusual discharge",
+    "Burning pain in the stomach",
+    "Every little pain",
+    "Pain on the left side of the throat",
+    "Change in hair texture",
+    "Fluid retention in thighs",
+    "Lumps have become firmer",
+    "Single episode of constipation",
+    "Inability to turn my neck",
+    "Spot is not resolving",
+    "Loss of taste",
+    "Severe anemia",
+    "Small lump",
+    "Severe chest pain",
+    "Large tumor, approximately melon-sized, in the abdomen between the stomach and spine",
+    "Jaw stiffness",
+    "Premature ventricular contractions (PVCs)",
+    "Muscle twitching spreading to the torso and arms",
+    "Feeling of fullness",
+    "Leukemia",
+    "Pain in one ear",
+    "White lump appeared inside cheek after biting it",
+    "Mass is pushing down on bladder and ovaries",
+    "Becoming very out of breath when walking a block or two",
+    "Throat pain localized to one side",
+    "Blood clots in both legs",
+    "Right index fingernail discoloration (dark)",
+    "15cm ovarian tumor",
+    "Significantly decreased white blood cell, red blood cell, and hemoglobin levels"
+]

@@ -1,0 +1,174 @@
+
+=== Overview ===
+    I need some way to group up symptoms that are similar, but rn im focused on reducing symptoms into oneliners and extracting them from the json
+    I think a format like this could work: 
+        f"On a scale of 1-10, how much have you experinced this symptom: {symptom}"
+    I'll use AI to rewrite this:
+        f"On a scale of 1-10, how severely have you experienced an abnormal onset or worsening of this symptom within the last 6 months: {symptom}"
+
+    Ai is so useful, some of these symptoms are structred wierdly so i had this prompt made to rectify that, also given how there are only 1697 question I can have an AI go through them all at once:
+        Take each symptom from the provided list and reformat it into clear, medically appropriate terminology suitable for a patient questionnaire. Each reformatted symptom should:
+            1.	Use proper medical terminology while remaining understandable to patients
+            2.	Maintain all specific details mentioned (location, triggers, patterns, etc.)
+            3.	Be concise yet descriptive
+            4.	Be phrased as a standalone symptom that can complete this sentence:
+        “On a scale of 1-10, how severely have you experienced an abnormal onset or worsening of this symptom within the last 6 months: {symptom}”
+        Only combine symptoms that are exact duplicates. Related but distinct symptoms (e.g., similar symptoms in different body locations) should remain separate.
+        In order to combine symptom simply list the 2 symptoms you reformat in the exact same wording, they will be removed via a computer so they need to be written and phrased the same way.
+        MAKE SURE to go through every single symptom in the list.
+        For example:
+            •	“headaches” → “persistent or recurring headaches”
+            •	“tingling in knees” → “paresthesia (tingling sensation) in the knee region”
+            •	“weird GI stuff” → “unexplained gastrointestinal disturbances”
+        Please reformat each symptom in the list below:
+
+
+
+=== Notes ===
+    - Post format for refrence:
+            {
+                "post": {
+                    "post_id": "50",
+                    "symptoms": {
+                        "major": [
+                            {
+                                "symptom": "headaches",
+                                "timing": "pre-diagnosis",
+                                "initially_perceived_as": "concerned"
+                            },
+                            {
+                                "symptom": "blindness in right eye",
+                                "timing": "pre-diagnosis",
+                                "initially_perceived_as": "concerned"
+                            },
+                            {
+                                "symptom": "inability to speak during headache",
+                                "timing": "pre-diagnosis",
+                                "initially_perceived_as": "concerned"
+                            },
+                            {
+                                "symptom": "mouth couldn't form words, specifically, the word 'hummingbird'",
+                                "timing": "pre-diagnosis",
+                                "initially_perceived_as": "concerned"
+                            }
+                        ]
+                    },
+                    "lifestyle_changes": [],
+                    "comments": [
+                        {
+                            "comment_id": "50.1",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.2",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.3",
+                            "symptoms": {
+                                "major": [
+                                    {
+                                        "symptom": "inability to say the words",
+                                        "timing": "unknown",
+                                        "initially_perceived_as": "concerned"
+                                    }
+                                ]
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.4",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.5",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": [
+                                "taking care of body and mind"
+                            ]
+                        },
+                        {
+                            "comment_id": "50.6",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.7",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.8",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.9",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.10",
+                            "symptoms": {
+                                "minor": [
+                                    {
+                                        "symptom": "bald spots from radiation",
+                                        "timing": "during treatment",
+                                        "initially_perceived_as": "unknown"
+                                    }
+                                ]
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.11",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.12",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.13",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        },
+                        {
+                            "comment_id": "50.14",
+                            "symptoms": {
+                                "minor": []
+                            },
+                            "lifestyle_changes": []
+                        }
+                    ]
+                }
+            },
+
+    - Apr 23: Ngl im starting to lose confidence in this symptom list, I feel like Step 2 was a mess, but I'll follow through for now and restart if I feel it isn't precise enough, plus this is just a prototype.

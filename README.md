@@ -15,12 +15,12 @@ This project is currently in active development. We have completed the initial d
    - Used search terms like "how found", "my story", "signs I ignored", and "what symptoms"
    - Data stored in JSON format for further processing
 
-2. 🔄 **Step 2: Symptom Extraction** - In Progress
-   - Using Google's Gemini AI to extract symptoms from patient anecdotes
-   - Categorizing symptoms as "minor" (initially dismissed) or "major" (prompted immediate concern)
-   - Tracking when symptoms appeared and how patients initially perceived them
-   - Also extracting lifestyle and behavioral changes mentioned
-   - Encountered and resolved issues with processing larger posts (posts #48-52, #239-242, #276, #476)
+2. ✅ **Step 2: Symptom Extraction** - Completed on April 23, 2025
+   - Used Google's Gemini AI to extract symptoms from patient anecdotes
+      - Categorized symptoms as "minor" (initially dismissed) or "major" (prompted immediate concern)
+      - Tracked when symptoms appeared and how patients initially perceived them
+      - Also extracted lifestyle and behavioral changes mentioned
+   - Encountered and resolved issues with processing larger posts (posts #48-52, #239-242, #276, #476
 
 ### Data Scale:
 - Total Posts: 494
@@ -32,6 +32,14 @@ This project is currently in active development. We have completed the initial d
 ## Progress Report
 
 ### Development Timeline
+
+#### April 23, 2025
+- Completed Step 3: Symptom Reduction and Categorization
+- Extracted symptoms from the combined JSON data
+- Implemented text normalization to reduce duplicate symptoms
+- Reduced symptom count from 1697 to 1167 through deduplication
+- Reformatted symptoms into standardized question format for questionnaire development
+- Used AI to rewrite symptoms into clear, medically appropriate terminology
 
 #### April 17, 2025
 - Combined and fixed errors in anecdotes, merging them into one comprehensive source
@@ -71,6 +79,15 @@ This project is currently in active development. We have completed the initial d
 - Implemented a solution to break down large comment sections into manageable chunks
 - Combined processed chunks into a comprehensive dataset
 
+### Symptom Reduction Phase
+- Extracted all symptoms from the processed anecdotes
+- Implemented text normalization to remove punctuation and standardize case
+- Successfully reduced symptom count from 1697 to 1167 through deduplication
+- Created a standardized question format for each symptom:
+  "On a scale of 1-10, how severely have you experienced an abnormal onset or worsening of this symptom within the last 6 months: {symptom}"
+- Used AI to reformat symptoms into clear, medically appropriate terminology
+- Stored the reduced symptom list for questionnaire development
+
 ### Technical Challenges Overcome
 - Managed token limitations of AI models by implementing dynamic chunking
 - Developed a merging algorithm to optimize chunk sizes while staying within token limits
@@ -78,6 +95,7 @@ This project is currently in active development. We have completed the initial d
 - Implemented error recovery for failed processing attempts
 - Created a system to track and reprocess problematic posts
 - Addressed overloaded model errors by reducing chunk sizes and implementing wait periods
+- Developed efficient symptom deduplication techniques
 
 ## Planned Next Steps:
 
