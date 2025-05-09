@@ -1,0 +1,12 @@
+
+=== Overview ===
+    7-May-2025
+    - So after taking like a month long hiatus, cuz I couldnt figure out a good way of grouping the symptoms, I realized, Just Use AI :D, AI is like the swiss army knife of text based data processing.
+    - Anyways, here's the working plan.
+        - I cant just like throw AI at this, no we gotta be precise, use our brains for once.
+        - We've gotta tokenize each symptom and then order them up by thier simmilarity (we can just use cosine simmilarity or smth)
+        - unfortunately, I have no clue the inner workigs or how to use tokenization, so uhh this'll be fun.
+
+
+=== Notes ===
+    - 
